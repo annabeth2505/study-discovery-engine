@@ -1,0 +1,14 @@
+[
+  {
+    "study": "PRJDB4366",
+    "host": "Apostichopus japonicus",
+    "decision": "Include",
+    "notes": "Sea cucumber - good phylogenetic gap coverage"
+  },
+  {
+    "study": "PRJDB11263",
+    "host": "Mantidactylus betsileanus",
+    "decision": "Exclude",
+    "notes": "Not a microbiome study - BovB LINE transposon research"
+  }
+]

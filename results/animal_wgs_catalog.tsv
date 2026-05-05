@@ -1,0 +1,463 @@
+study_accession	host_species	host_tax_id	body_site	country	n_samples	library_strategy	is_animal	title
+PRJNA801645	Sus scrofa	9823		Canada: Quebec	12	WGS	True	Study of the effects of a stabilizer on microbiome analysis
+PRJEB47613	Gallus gallus	9031	Caecum content	Spain	47	WGS	True	HoloFood Chicken Caecum+Ileum Metagenome – non-targeted metabolomics batch
+PRJDB10675	Homo sapiens	9606		India	53	RNA-Seq	True	International collaborative studies on the prevention, diagnosis, and drug discovery for diarrheal infectious diseases in India
+PRJNA835973	rat			Japan: Kagawa Prefecture	19	WGS	True	Lactobacillus rhamnosus Probio-M9 alleviates colitis-associated tumorigenesis via modified gut microbiota and inflammation
+PRJEB86258	Gallus gallus	9031	Caecum	Austria	1000	WGS	True	3D'omics: Salmonella challenge chicken trial
+PRJNA383926	broiler			China:Beijing	6	WGS	True	Gallus gallus Metagenome
+PRJNA433811	Salmo salar	8030		Norway	4	WGS	True	shotgun metagenome sequencing salmo salar gut microbiota
+PRJNA589661	Migratory birds: bar-headed geese			China: Qinghai Lake	9	WGS	True	Environmental samples' Metagenome: Water, soil/sand, feces of local ruminants , feces of migratory birds (Qinghai Lake)
+PRJNA293646	Bos	9903		China:Beijing	13	WGS	True	Chicken, pig and cattle gut microbiome raw sequence reads
+PRJDB4176	Homo sapiens	9606		Japan	645	WGS	True	metagenomic data from human fecal samples
+PRJEB77081	Mus musculus			USA;USA:CA:San Diego	283	WGS	True	Role of Bile Salt Hydrolase (BSH) Overexpression in Polycystic Ovary Syndrome (PCOS) - LET COHORT 3
+PRJDB36846	Mus sp.	10095		missing: data agreement established pre-2023	36	WGS	True	Methane-oxidizing bacteria regulate intestinal peristalsis and fat metabolism in the gut via reducing methane levels (PRJCA040467)
+PRJDB36267	Moschus berezovskii	68408		missing: data agreement established pre-2023	6	WGS	True	Metagenomics of the intestinal microbiota of forest musk deer (PRJCA027468)
+PRJEB70517	Mus musculus	10090	UBERON:colon	USA;USA:CO:Boulder	173	WGS	True	Supplementation with the short-chain fatty acid acetate for improving age-associated arterial dysfunction in mice
+PRJNA471402	Sus scrofa domesticus	9825		Austria:Tulln	39	WGS	True	PIG GUT RESISTOME
+PRJDB16260	Homo sapiens				250	WGS	True	metagenomic data from human fecal samples
+PRJNA701781	Sus scrofa	9823		China:Hebei	456	AMPLICON	True	Sus scrofa Raw sequence reads
+PRJNA1049315	Sus scrofa	9823		Canada: Quebec	71	AMPLICON	True	Evolution of the porcine microbiome after antibiotic and probiotic treatments
+PRJNA1078999	Homo sapiens	9606		China: Guangdong	194	WGS	True	Homo sapiens Raw sequence reads
+PRJNA563204	rat			China:Hohhot	192	WGS	True	Metagenome of rat feces
+PRJNA757176	Sus scrofa	9823		China:Kunming	12	WGS	True	Sus scrofa Metagenome
+PRJNA503784	Gallus gallus	9031		India:Nasik	128	RNA-Seq	True	Host transcriptomics and Gut microbiome analysis in Broilers with contrasting feed conversion ratio (FCR)
+PRJNA1030894	Ochotona curzoniae	130825		China:Qinghai	100	WGS	True	the association between Gut Microbiota function and host phenotype of plateau pika
+PRJNA831632	Hoolock tianxing	1934190		missing	145	WGS	True	Gut phageome in wild skywalker hoolock gibbons
+PRJNA1268041	Sus scrofa	9823		China:Nanning	16	WGS	True	Effects of Lactobacillus plantarum and Saccharomyces cerevisiae, alone or in combination, on growth performance, antioxidant status, immune response, and intestinal health in weaned piglets
+PRJNA788462	Sus scrofa	9823		USA:Minnesota	216	WGS	True	Swine Feces Metagenomes
+PRJEB26961	Sus scrofa domesticus	9825		Denmark	220	WGS	True	VETII samples
+PRJDB5383	Bos taurus	9913		Japan:Kagoshima	3	WGS	True	Identification of a novel bovine enterovirus possessing highly divergent amino acid sequences in capsid protein
+PRJNA312048	Sus scrofa	9823		China: Nanchang	6	WGS	True	gut microbe Metagenome
+PRJNA1067373	Sus scrofa	9823		China: Nanjing	1	WGS	True	pig gut virome Raw sequence reads
+PRJNA909453	Homo sapiens	9606		China: Shanghai	50	WGS	True	intestinal microbial community diversity
+PRJNA1092107	Bos taurus			USA: Atlanta	10	WGS	True	Advancing source tracking: systematic review and source-specific genome database curation of fecally shed prokaryotes
+PRJEB108722	Mus musculus	10090	UBERON:feces	USA;USA:CA:San Diego	80	WGS	True	Microbiome composition in response to serine/glycine deficiency under high-fat diet
+PRJDB9036	Homo sapiens			Japan:Tokyo	326	WGS	True	Metagenomic survey and whole genome sequencing of antimicrobial resistant bacteria in Japanese hospital sewage
+PRJNA385038	Gallus gallus	9031		China:Wuhan	13	OTHER	True	chicken gut metagenome Raw sequence reads
+PRJDB37111	Apodemus chevrieri	129246		missing: data agreement established pre-2023	45	AMPLICON	True	Intestinal metagenomics and lung 16S rRNA amplicons of three dominant rodents in Guizhou karst ecosystems (PRJCA041566)
+PRJNA741980	Sus scrofa	9823		France: Brittany	28	WGA	True	Comparison of viromes and microbiomes of 14 pig fecal samples
+PRJNA806371	Danio rerio	7955		China:Shanghai	5	WGS	True	Genome-resolved characterization of structure and potential functions of the zebrafish stool microbiome
+PRJDB13214	Homo sapiens	9606		Japan	208	WGS	True	The characteristics of gut microbiome in COVID-19 patients
+PRJNA903810	Sus scrofa domesticus	9825		USA: Kennett Square PA	367	WGS	True	Origin of the piglet gut microbiome using strain-resolved longitudinal metagenomics
+PRJNA748109	Gallus gallus	9031		China:shenzhen	5	WGS	True	Broiler chicken microbial metagenome
+PRJNA389749	Sus scrofa	9823		China:Ninghe,TianJin	8	WGS	True	Caecal Metagenome of Pigs
+PRJNA1099794	Gallus gallus			China:Qingdao	56	WGS	True	Metagenomic data of 40 fecal layers at different laying stages
+PRJEB51815	Salmo salar	8030	Distal gut content	Norway	179	WGS	True	HoloFood Salmon Trial C Gut Metagenome
+PRJNA974556	Mus musculus	10090		Hong Kong	52	WGS	True	Response of the gut microbiota to CR-Hvkp infection
+PRJNA1143568	Gallus gallus	9031		Canada:Saskatchewan	156	WGS	True	Healthy chicken microbiome
+PRJNA773861	Capreolus pygargus	48560		China:Muling Dongbei Hongdoushan Nature Reserve	62	AMPLICON	True	Capreolus pygargus Raw sequence reads
+PRJNA815745	Sow			China:Hohhto	222	WGS	True	Compound probiotics relieved constipation, immunitygut microbiome, and blood metabolites of sows in lategestation and lactation
+PRJNA1026631	Homo sapiens	9606		USA: Maywood, IL	83	WGS	True	Female Urogenital & Rectal Microbiomes of Individuals with UTI Symptoms Metagenome
+PRJNA340908	Gallus gallus	9031		China:Harbin	29	WGS	True	Differential fecal microbiota are retained in broiler chicken lines divergently selected for fatness traits
+PRJNA1158959	Sus scrofa vittatus	2485929		Singapore: Lorong Halus	89	WGS	True	Global wild boar gut microbiomes
+PRJNA815969	Sus scrofa domestica			South Korea: Cheongju	2	AMPLICON	True	Colonic microbiome of the Korean native black pigs
+PRJDB38623	Naja atra			missing: data agreement established pre-2023	95	RNA-Seq	True	Hologenomics data for the Mengla snail-eating snake (Pareas menglaensis) (PRJCA032174)
+PRJEB74482	Mus musculus	10090	UBERON:feces	USA;USA:CO:Boulder	862	WGS	True	Effects of mouse-to-mouse fecal microbiota transplantation on vascular function with age and diet
+PRJNA825732	Anguilla anguilla	7936		France: Pas-du-Bouc	50	WGS	True	Anguilla anguilla gut metagenomes cleaned sequence reads
+PRJNA1047964	Ovis aries	9940		China:Qinghai-Tibet Plateau	14	WGS	True	compost metagenome Raw sequence reads
+PRJNA1393111	Ictalurus punctatus	7998		USA:Auburn	25	WGS	True	Channel catfish fish gut content
+PRJDB6640	Paradoxurus hermaphroditus	71117		Malaysia:Johor, Kulai	3	WGS	True	Kopi Luwak of Civet cat (Paradoxurus hermaphroditus) feces microbiome
+PRJNA1148062	Porcine				6	WGS	True	Porcine intestinal flora
+PRJDB3601	Homo sapiens	9606			255	WGS	True	Metagenomics of Japanese gut microbiomes
+PRJEB90218	Mus musculus	10090	UBERON:feces	USA;USA:CA	327	WGS	True	MPRINT - Mouse Maternal Antibiotics Transfer
+PRJEB37572	Mus musculus	10090			86	WGS	True	Diabetes induced microbiome dysbiosis is associated with therapy resistance in Pancreatic Ductal Adenocarcinoma (PDAC)
+PRJNA1141435	Perca flavescens	8167		USA: MN, Trout Lake	62	WGS	True	Microbiome and resistome from yellow perch gut living in different lakes under anthropogenic pressure
+PRJEB23147	Homo sapiens				930	WGS	True	Human_colon_16S
+PRJEB86259	Gallus gallus	9031	Caecum right	Austria	100	WGS	True	3D'omics: Histomonas challenge turkey trial
+PRJNA1049198	Gallus gallus	9031		China:Nanjing	90	WGS	True	Metagenomic next-generation sequencing (mNGS) of the chicken ileum and cecum
+PRJNA684050	Propithecus coquereli	379532		USA: Duke Lemur Center, Durham NC	58	AMPLICON	True	Gut microbiota of frugo-folivorous sifakas across environments
+PRJNA746114	Homo sapiens	9606		China:Guangzhou	169	AMPLICON	True	lung cancer biomarker Raw sequence reads
+PRJNA734100	swine				23	WGS	True	studies of metagenome sequencing on swine manure and soil
+PRJNA646934	pig B6			China: Anhui Province	14	WGS	True	Microbial community diversity of feces from food animals
+PRJNA678365	Homo sapiens			Bangladesh:Tongi	32	AMPLICON	True	Human, goat, and chicken gut microbiomes and resistomes in urban and rural Bangladesh
+PRJNA865396	Eriocheir sinensis	95602		China: Shenyang	6	WGS	True	Metagenomic analysis of gut microbiota in Eriocheir sinensis
+PRJEB86255	Gallus gallus	9031	Caecum	Austria	720	WGS	True	3D'omics: Adenovirus challenge poultry trial
+PRJNA1193782	Sus scrofa	9823		China: Daocheng	57	WGS	True	Metegenomic of the pig
+PRJNA825132	shrimp			China	3	WGS	True	shrimp gut metagenome Metagenome
+PRJNA726636	southern_sea_otter;southern sea otter	1049777		USA: California	720	AMPLICON	True	Sea otter (Enhydra lutris) Raw sequence reads
+PRJNA1215014	Sus	9822		missing	24	WGS	True	Piglet colon digesta sample, microbial 16S rRNA sequencing raw data
+PRJNA494387	Bos javanicus	9493		Italy	3	WGS	True	Beyond the tip of the iceberg: illuminating bacterial dark matter through a combination of metagenomics and culturomic approaches
+PRJNA847183	Homo sapiens	9606		Belgium:Ghent,L1B	24	WGS	True	Application of short-read metagenomics for helminth characterisation in human, livestock and cetacean faecal samples
+PRJNA1108201	broiler			China:JiaXing	76	AMPLICON	True	Viral metagenome and16s sequencing of foregut and hindgut of yellow-feathered broilers
+PRJDB5860	Homo sapiens	9606		Thailand	376	AMPLICON	True	Asian Microbiome Project
+PRJEB31650	Sus scrofa	9823		Denmark	567	WGS	True	Metagenomic assessment of the effect of sample processing on different microbiomes
+PRJDB8987	Macaca fuscata	9542		Japan	27	AMPLICON	True	Gut microbe of Japanese macaques in the highland and lowland Yakushima
+PRJNA666163	Gallus gallus	9031		Canada: Quebec	40	WGS	True	Chicken Cecal Metagenome Sequencing
+PRJNA821505	Gallus gallus	9031		USA: Baltimore	156	WGS	True	Short-term feeding of defatted bovine colostrum mitigates inflammation in the gut via changes in metabolites and microbiota in a chicken animal model
+PRJNA1014131	Manis javanica	9974		China:Shenzhen	16	WGS	True	Captive breeding Pangolin gut virus
+PRJDB14971	Mus musculus	10090		Japan	34	WGS	True	Genetic mutation on Escherichia coli genome during adaptation to the murine intestine is optimized to the host's diet.
+PRJDB18384	Homo sapiens	9606		Japan:Tokyo, Shinjuku	11	WGS	True	Gut microbiota of healthy Japanese adult
+PRJNA574295	Sus scrofa	9823		Norway: As	389	AMPLICON	True	pig gut metagenome Targeted loci environmental
+PRJDB20772	Mus musculus	10090		Japan:Tokyo	8	WGS	True	Mouse feces metabolome conventional vs germfree
+PRJNA1375668	Sus scrofa	9823		China:Hunan	24	WGS	True	gut metagenome
+PRJNA1006504	Gallus gallus	9031		Thailand	2	WGS	True	The effect of probiotic Bacillus subtilis alone and Clostridium butyricum in addition to Bacillus subtilis supplementation on the gut microbiome of Thai commercial broilers
+PRJEB101827	Gallus gallus domesticus	9031		India	120	WGS	True	Chromosomal and mobile antimicrobial resistance genes in the chicken caecal microbiome
+PRJNA434147	Hypomesus transpacificus	137520		USA: California, Tracy	5	WGS	True	Delta Smelt gut content study
+PRJDB17226	Mus musculus	10090		Japan:Tokyo	10	WGS	True	Functional changes in the host gut microbiota of mice by S. salivarius-produced EPS.
+PRJNA1173401	Gallus gallus	9031		China: nanjing	6	WGS	True	chicken cecal microbiota metagenomic analysis
+PRJNA672868	Sus scrofa	9823		United Kingdom: Sparsholt, Hampshire	5	WGS	True	Pig metagenome
+PRJEB100724	Sus scrofa	9823	Caecum	Denmark	54	WGS	True	3D'omics: proof-of-concept mannan fibre swine trial
+PRJNA944612	Sus scrofa domesticus	9825		USA	720	WGS	True	16S metagenomic analysis of the biogeographic changes associated with Salmonella enterica infection in swine
+PRJNA408025	Sus scrofa	9823			114	AMPLICON	True	Global studies of microbial diversity in pig gut
+PRJDB10829	Homo sapiens	9606		Japan	112	WGS	True	Generic sample from human gut metagenome
+PRJNA1002411	Bos taurus	9913		USA: Michigan	140	WGS	True	Impact of intramuscular ceftiofur treatment on the gut microbiome and resistome of dairy cattle
+PRJNA1328827	Felis catus			USA: Eugene	80	AMPLICON	True	Heat-assisted microbiome sample desiccation
+PRJNA1332145	Sus scrofa	9823		China: Zoucheng, Shandong Province	112	WGS	True	Antibiotic feeding reshapes the pig gut resistome through diversity loss, vertical consolidation, and ecological reorganization
+PRJNA1227156	Gallus gallus	9031		Czechia	26	WGS	True	broiler chicken microbiota Raw sequence reads
+PRJEB60032	Sus scrofa	9823		France	882	AMPLICON	True	Host genetics influences gut microbiota over generations in pigs
+PRJNA688310	Sus scrofa	9823		United Kingdom: Hertfordshire	5	WGS	True	Wide distribution of alternatively coded Lak megaphages in animal microbiomes
+PRJDB38851	Corvus dauuricus	477934		missing: data agreement established pre-2023	12	WGS	True	The gut RNA viromes in wild Rooks (Corvus frugilegus), Red-billed choughs (Pyrrhocorax pyrrhocorax), and Daurian jackdaws (Corvus dauuricus) (PRJCA042798)
+PRJNA689655	Sus scrofa domesticus	9825		China: Guangxi	42	WGS	True	The diversities of microbial in gut and stomach
+PRJDB14208	Homo sapiens	9606		Japan	55	WGS	True	Relationship between Ureaplasma in gastric fluid of neonates with respiratory distress and chorioamnionitis
+PRJNA863566	mice				6	WGS	True	Microbiome analysis of NOD mice
+PRJNA694380	Sus scrofa domesticus	9825		Thailand: Prachin Buri	2	WGS	True	Metagenomics of antimicrobial and heavy metal resistance in the cecal microbiome of fattening pigs raised without antibiotics
+PRJDB38277	Homo sapiens	9606		missing: data agreement established pre-2023	51	WGS	True	Characteristics of intestinal bacteria in long-lived elderly (PRJCA019954)
+PRJNA447857	Fish			Mexico	14	WGS	True	Cuatro Cienegas viral metagenome
+PRJDB18854	Homo sapiens	9606		Japan:Yamanashi, Chuo	112	WGS	True	Gut microbiota of healthy Japanese adult
+PRJEB77276	Mus musculus	10090		Spain	481	WGS	True	BeHo mouse study
+PRJNA812273	Nomascus hainanus	693984		China: Hainan	1	WGS	True	Nomascus hainanus Raw sequence reads
+PRJNA880549	Gallus gallus	9031			285	AMPLICON	True	Early-Life Prophylactic Antibiotic Treatment Disturbed the Stability of Gut Microbiota and reduced H9N2 AIV Resistance in Chicks
+PRJNA656000	Pig P1			China: Chengdu	6	WGS	True	pig gut metagenome Raw sequence reads
+PRJEB56784	Homo sapiens	9606	UBERON:feces	USA:CA: San Diego	382	AMPLICON	True	Validation of the nucleic acid automation pipeline using Matrix tubes
+PRJNA769968	Homo sapiens	9606		China: Weihai	222	WGS	True	Probiotic consumption relieved Parkinson's disease via modulating the gut microbiota and neuroactive compounds
+PRJNA375762	Gallus gallus	9031		USA	12	WGS	True	Chicken cecum metagenome
+PRJDB37123	Mus	10088		missing: data agreement established pre-2023	20	WGS	True	Fisetin alleviates lipopolysaccharide-induced mastitis by inhibiting ferroptosis and modulating the gut microbiota (PRJCA041621)
+PRJNA982563	Homo sapiens	9606		China:Guangxi,Nanning	232	WGS	True	Daily occupational exposure in swine farm alters human skin microbiota and antibiotic resistome
+PRJNA575288	Sus scrofa ussuricus	490583		missing	15	WGS	True	Characterization of the bacterial microbiota composition and evolution at different intestinal tract in wild pigs (Sus scrofa ussuricus)
+PRJNA798835	Sus scrofa domesticus	9825		USA	242	AMPLICON	True	Longitudinal swine fecal microbiome
+PRJNA887229	fish			China: Guangzhou	1	WGS	True	fish gut metagenome Raw sequence reads
+PRJNA844176	Sus scrofa	9823		China: Sichuan	15	WGS	True	microbiotal communtiy diversity
+PRJNA1070856	Sus scrofa	9823		China:ChangSha	35	WGS	True	pig gut metagenome
+PRJDB7378	Homo sapiens	9606		Japan	50	WGS	True	Generic sample from human gut metagenome
+PRJNA643301	Sus scrofa domesticus	9825		Canada: Saint-Hyacinthe	63	WGS	True	porcine virome
+PRJNA894152	Homo sapiens	9606		Nicaragua	82	WGS	True	Long read infant/young children fecal and environmental samples
+PRJDB4495	Homo sapiens	9606		Japan: Tokyo	7	RNA-Seq	True	Extracelular nucleic acids in biofilms
+PRJDB14449	Chimaeridae	7869		Japan:Suruga Bay	3	WGS	True	16S rRNA Gene Amplicon Sequencing of Gut Microbiota in Chimaera phantasma of Deep-Sea Fish in Suruga Bay, Japan.
+PRJEB64334	Salmo salar			Norway	904	WGS	True	Multi-omics of host-gut microbiota interactions in healthy and parasitized farmed Atlantic salmon
+PRJNA915251	Homo sapiens	9606		United Kingdom: Bath	683	WGS	True	Microbial diversity and resistance in faecal samples from acute medical patients assessed through metagenomic sequencing
+PRJNA298736	Gallus gallus	9031		Italy	13	WGS	True	Cecal microbiota of BC and FRC chicken metagenome
+PRJNA1217868	Sus scrofa	9823		USA: North Carolina, Raleigh	24	WGS	True	Reduction of Allograft Apoptosis, Epithelial Damage, and Inflammation in Intestinal Transplantation with Normothermic Machine Perfusion
+PRJNA816918	Homo sapiens	9606		USA: Davis, California	18	WGS	True	GENIUS Study, Shotgun Metagenomes from Fecal Samples of Healthy Adults
+PRJNA397041	Gallus gallus	9031		China: farm in Hebei	18	WGS	True	chicken gut microorganism Metagenome
+PRJDB36557	Corvus macrorhynchos	36249		missing: data agreement established pre-2023	7	WGS	True	The gut RNA viromes in wild Large-billed Crows and Northern Ravens (PRJCA039220)
+PRJDB37067	Ovis ammon	30527		missing: data agreement established pre-2023	12	WGS	True	The Impact of Captivity on the Antibiotic Resistome of Wildlife (PRJCA041365)
+PRJDB16036	Homo sapiens	9606		Papua New Guinea	13	WGS	True	Functional characteristics of gut microbiomes among Papua New Guinea highlanders believed to be adapted to a low-protein diet
+PRJNA806482	RAT			South Korea	18	WGS	True	Microbiome Analysis in Osteoarthritis Rat Model
+PRJNA804100	Micropterus salmoides	27706		USA: Michigan	53	WGS	True	Freshwater mussels and host fish gut microbe community composition
+PRJNA866162	Homo sapiens			USA: Indiana, West Lafayette	283	AMPLICON	True	Human gut microbial consortia that are specifically evolved and selected by the arabinoxylan polysaccharide from sorghum bran
+PRJNA983076	Camelus bactrianus			Germany: Zoo Saarbruecken	67	WGS	True	Tiermagine
+PRJNA1224791	Gallus gallus domesticus	9031		USA: Athens, GA	97	WGS	True	Chicken Gut Metagenomes
+PRJNA1214037	Sus scrofa	9823		Spain	144	WGS	True	Gut microbiome in swine dysentery
+PRJNA1175391	Micropterus salmoides	27706			12	WGS	True	fecal microbe from Micropterus salmoides
+PRJNA887424	Bos taurus	9913		USA: Oklahoma	578	AMPLICON	True	Patterns and determinants of the global herbivorous Mycobiome
+PRJDB16312	Homo sapiens	9606		Japan	30	WGS	True	Gut Microbiome Analysis of Japanese Patients with Multiple Chemical Sensitivity
+PRJNA769425	Sus scrofa domesticus	9825		Thailand	18	WGS	True	Metagenomic analysis of the gut microbiota in piglets reveals beneficial effects of probiotics on its composition, resistome, digestive function and oxidative stress responses
+PRJNA1269114	Sus scrofa	9823		USA	13	WGS	True	IsoLoop Model
+PRJNA741607	rat			Japan: Kagawa Prefecture	59	WGS	True	Inhibitory Effects of Lactulose on Colitis-Associated Carcinogenesis by Restoration of the Gut Microbiota in AOM/DSS Mouse Model
+PRJNA643396	Gallus gallus	9031		Spain	181	WGS	True	Broiler chicken sequencing
+PRJEB90484	Gallus gallus	9031		USA	59	WGS	True	PRECISION BIOTIC AND ENTERIC HEALTH IN BROILERS
+PRJEB73981	Mus musculus			Germany	60	WGS	True	Metabolic modeling reveals the aging-associated decline of host-microbiome metabolic interactions in mice
+PRJDB38848	Corvus dauuricus	477934		missing: data agreement established pre-2023	12	WGS	True	The gut DNA viromes in wild Rooks (Corvus frugilegus), Red-billed choughs (Pyrrhocorax pyrrhocorax), and Daurian jackdaws (Corvus dauuricus) (PRJCA042774)
+PRJDB38938	Mus musculus	10090		missing: data agreement established pre-2023	18	WGS	True	Multi-omics analysis reveals the molecular mechanisms of gut microbiota in Parkinson's disease (PRJCA043238)
+PRJNA630862	Sus scrofa	9823		South Korea	20	WGS	True	Pig gut microbiome and its relationship with host weight
+PRJNA435487	Gallus gallus	9031		India: Anand	10	WGS	True	Chicken ceacal metagenome
+PRJNA255875	Sus scrofa domesticus	9825		France: SAINT-GENES-CHAMPANELLE	16	WGS	True	Minipig strain:Goettingen Metagenome
+PRJNA736861	Homo sapiens	9606		China:Beijing	33	WGS	True	Different source of pectin
+PRJNA1095217	Anas crecca			Russia: Novosibirsk	2	WGS	True	Viral diversity of wild birds
+PRJEB20308	Canis lupus familiaris	9615			129	WGS	True	Similarity of the dog and human gut microbiomes in gene content and response to diet
+PRJNA1061804	Gallus gallus domesticus			USA: Arkansas	41	WGS	True	Heat-stressed chicken cecal microbiota
+PRJDB20360	Homo sapiens	9606		Japan	490	WGS	True	JACCRO GC-18
+PRJDB9649	Homo sapiens	9606		China	88	WGS	True	Fecal microbiota transplantation alleviates diabetes peripheral neuropathy
+PRJNA807368	Sus scrofa domesticus	9825		China: Bengbu	12	WGS	True	Dissecting the effect of berberine on the intestinal microbiome in the weaned piglets by metagenomic sequencing
+PRJDB31830	Pseudois nayaur	59542		missing: data agreement established pre-2023	79	WGS	True	Study on the association between the diet and the gut microbiota of bharals (PRJCA027325)
+PRJNA974554	Homo sapiens	9606		China: shenyang	72	WGS	True	feces metagenome Genome sequencing
+PRJEB86260	Meleagris gallopavo	9103	Caecum	Austria	1000	WGS	True	3D'omics: Histomonas challenge chicken trial
+PRJEB74702	Mus musculus	10090	feces	United Kingdom	24	WGS	True	SYK mice
+PRJDB19991	Homo sapiens	9606		Japan:Tokyo	40	WGS	True	Human Gut Metagenome
+PRJNA1204506	Gallus gallus				5	WGS	True	Impact of ARGs on poultry gut metagenome
+PRJNA717910	Korean quail			China: Nanchang	10	WGS	True	Studies of microbial diversity on Korean quail
+PRJNA981100	Sus scrofa	9823		Spain	48	WGS	True	Study of feed factor in Iberian Pig Microbiome samples
+PRJDB36556	Corvus macrorhynchos	36249		missing: data agreement established pre-2023	7	WGS	True	The gut DNA viromes in wild Large-billed Crows and Northern Ravens (PRJCA039217)
+PRJNA1023249	Capra hircus			USA: California	3	WGS	True	cultivated microbial species from anaerobic digester sludge and goat feces
+PRJNA1065277	Homo sapiens	9606		China: Hulun Buir	68	WGS	True	Delivery mode and maternal gestational diabetes are important factors in shaping the neonatal initial gut microbiota
+PRJNA841251	Homo sapiens	9606		China:Guangzhou	139	AMPLICON	True	The gut microbiome dynamic changes of lung cancer patients during Chemoradiotherapy
+PRJDB15956	Homo sapiens	9606		Japan:Nagoya	167	WGS	True	Shotgun data in the gut of Parkinson's disease
+PRJNA1090561	Salmo salar			China:Yantai	21	WGS	True	Microbial diversity and function in intestinal contents and environment in freshwater phase of Atlantic Salmon feeding
+PRJDB36826	Homo sapiens	9606		missing: data agreement established pre-2023	72	WGS	True	Metagenomic data of the gut microbiota in healthy young individuals (PRJCA040384)
+PRJDB18359	Homo sapiens	9606		Japan:Tokyo, Shinjuku	45	WGS	True	Gut microbiota of dietary intervention study
+PRJDB36534	Ailuropoda melanoleuca	9646		missing: data agreement established pre-2023	190	AMPLICON	True	gut microbiota of giant panda (PRJCA039099)
+PRJNA1027632	Gallus gallus subsp domesticus			United Kingdom	197	WGS	True	Yeast mannan rich fraction positively influences microbiome uniformity, productivity associated taxa, and lay performance
+PRJNA947193	Homo sapiens	9606		USA: Orlando	44	WGS	True	Host-Diet-Gut Microbiome Interactions Influence Human Energy Balance: a Randomized Clinical Trial
+PRJNA903767	Ochotona curzoniae	130825		China:Qinghai	34	WGS	True	Anthropogenic disturbance promotes the diversification of antibiotic resistance genes and virulence factors in the gut of plateau pikas (Ochotona curzoniae)
+PRJNA951204	Sus scrofa	9823		China: Hainan	1	WGS	True	Pig gut metagenome Raw sequence reads
+PRJEB41657	Salmo salar	8030	Distal gut content	Norway	359	WGS	True	HoloFood Salmon Trial A+B Gut Metagenome
+PRJNA883557	Rattus norvegicus	10116		China: Zunyi	20	WGS	True	Feces metagenome Raw sequence reads
+PRJNA699146	Homo sapiens	9606		China:Beijing	48	WGS	True	Effect of pectin with different molar mass
+PRJDB39230	Equus hemionus	9794		missing: data agreement established pre-2023	19	WGS	True	Research on the Adaptive Mechanisms of the Gut Microbiota in Mongolian Wild Ass (PRJCA045328)
+PRJDB16698	Mus musculus	10090		Japan:Kyoto	6	WGS	True	The effect of Regnase-1 on gut microbes
+PRJNA924981	Gallus gallus	9031		China: Nanjing	15	WGS	True	In vitro fermentation properties of magnesium hydride and related modulation effects on broiler colonic microbiome and metabolome
+PRJEB81554	Mus musculus	10090	UBERON:feces	USA;USA:CA:Pasadena	476	WGS	True	Project 3 3XTG Aim 1-Alzheimers Gut Microbiome Project
+PRJDB38794	Apis cerana	7461		missing: data agreement established pre-2023	8	WGS	True	Metagenomic sequencing of Apis cerana before and after infection with CSBV (PRJCA042469)
+PRJEB81553	Mus musculus;Mus musculus castaneus	10091	UBERON:feces	USA;USA:CA:Pasadena	288	WGS	True	Project 3 5XFAD Aim 1-Alzheimers Gut Microbiome Project
+PRJDB36905	Homo sapiens			missing: data agreement established pre-2023	42	WGS	True	Metagenomic sequencing of humans, pigs, and environment along the pork supply chain (PRJCA040681)
+PRJNA813004	Angus cattle			China:bole	10	WGS	True	gut metagenome
+PRJNA1301039	Gallus gallus	9031		China:Lintao	48	WGS	True	unclassified entries unclassified sequences metagenomes Raw sequence reads
+PRJNA1030210	Bos taurus	9913		United Kingdom	35	AMPLICON	True	Microbial diversity in waste products from farmland
+PRJNA704780	Gallus gallus	9031		China: Guangdong	8	WGS	True	Gut microbiome - Chicken Abdominal Fat Deposition
+PRJNA1034944	Canis lupus			China:Yangzhou	26	WGS	True	Fecal microbiota of zoo animals raw sequence reads
+PRJEB88878	Mus musculus	10090		France	83	WGS	True	This project aims to characterise the effects of a high-fat diet and fructo-oligosaccharides on the gut microbiota throughout the gastrointestinal tract of mice.
+PRJNA872265	Ailuropoda melanoleuca	9646		China: Chengdu	119	WGS	True	A collection of metagenome-assembled genomes from the giant pandas gut microbiome
+PRJNA1000214	Wenchang Chicken			China:HangZhou	16	WGS	True	Metagenome of Areca catechu chickens
+PRJNA1147314	Danio rerio	7955		USA: Corvallis, Oregon	838	WGS	True	Clearing the air on pollutant disruptions of the gut-brain axis: Developmental exposure to Benzo[a]pyrene disturbs zebrafish behavior and the gut microbiome in adults and subsequent generations
+PRJDB38865	Homo sapiens	9606		missing: data agreement established pre-2023	110	WGS	True	Efficacy and mechanism of Bifidobacterium animalis subsp. lactis BL-99 in promoting age-related intestinal peristalsis in older adults (PRJCA042472)
+PRJNA1039992	Gallus gallus	9031		China: Chengdu	120	WGS	True	Chicken metagenomic sequencing
+PRJDB4835	Mus musculus	10090		Japan:Kanagawa	30	WGS	True	Microbiota related to Defencin production
+PRJNA528960	Homo sapiens	9606		USA	133	WGS	True	Metagenomic sequencing of stool Metagenome
+PRJNA1208715	Sus scrofa	9823		Spain:Girona	60	WGS	True	Porcine Shotgun Metagenomics
+PRJEB60080	Sus scrofa domesticus	9825		France	6	WGS	True	Shotgun metagenomic data from mock communities and pig faeces samples
+PRJNA612780	Homo sapiens			Pakistan:Peshawar	26	WGS	True	Comparative fecal microbiota characterization and antimicrobial resistance pattern in human and poultry
+PRJDB36334	Cervus albirostris	1088058		missing: data agreement established pre-2023	114	WGS	True	Comparative Macrogenomics Reveal Plateau Adaptation of Gut Microbiota in Cervids (PRJCA031028)
+PRJNA902117	Gallus gallus	9031		Canada: Alberta	33	WGS	True	Seven-day-old commercial chicken gut microbiome (shotgun metagenomic sequencing reads) raw sequence reads
+PRJNA873123	Gallus gallus	9031		China: Hebei,Zhuozhou	32	WGS	True	Enzymatically prepared alginate oligosaccharides improve broiler chicken growth performance by modulating the gut microbiota and growth hormone signals
+PRJNA562600	Homo sapiens	9606		missing	148	WGS	True	Multi-omic analysis of Clostridioides difficile infection and response to therapy in pediatric inflammatory bowel disease
+PRJNA1050657	Chroicocephalus ridibundus	1192867		China: Kunming	5	WGS	True	Feces of Larus ridibundus Centrifuge sediment of freshwater Raw sequence reads
+PRJEB84922	Mus musculus	10090		Germany:Braunschweig;Germany	471	AMPLICON	True	SPF Mice were transplanted with wildling microbiota and characterized regarding microbiome composition and immune functionality
+PRJNA658643	Gallus gallus	9031		China:Yangzhou	9	WGS	True	Gut Microbiome Sequencing Result of Arbor Acres Broilers
+PRJNA730677	Homo sapiens	9606		Israel: Tel-Aviv	70	WGS	True	Genomic adaptations of Escherichia coli strains from patients with inflammatory bowel diseases
+PRJDB6503	Homo sapiens	9606		Japan	30	WGS	True	Method assessment of fecal DNA extraction
+PRJNA628114	Mus musculus	10090		China:Nanjing	42	WGS	True	mouse gut metagenome Raw sequence reads
+PRJDB20643	Homo sapiens	9606		Japan:Tokyo	5	WGS	True	Optimization of qPCR diagnosis for Entamoeba histolytica by ddPCR
+PRJDB18316	Homo sapiens	9606		Japan	166	WGS	True	Association between polygenic risk score for prostate cancer and the gut microbiota
+PRJNA645191	Sus scrofa domesticus	9825		USA: Philadelphia	90	WGS	True	Parity is associated with maternal gut microbiome composition during pregnancy and offspring microbiome composition in pigs
+PRJEB55583	Homo sapiens neanderthalensis			Spain	38	WGS	True	Reconstruction of Middle and Late Paleolithic metagenomes to access natural products
+PRJDB16167	Mus musculus	10090		Japan:Ibaraki, Tsukuba, Tsukuba University	9	WGS	True	Genetic mutation on Escherichia coli genome during adaptation to the murine intestine is optimized to the host's diet. Inoculation of mutS deficient strain.
+PRJNA778431	swine			China:Fujian	12	WGS	True	gut microbiota of swine Genome sequencing and assembly
+PRJNA663646	Homo sapiens	9606		missing	20	WGS	True	External validation cohorts for CRC-SNP analysis
+PRJNA907943	Petaurus gracilis	122273		Australia	112	AMPLICON	True	Characterisation and isolation of novel host-associated Methanocorpusculum species from native Australian herbivores
+PRJNA673878	Gallus gallus	9031		Poland: Wroclaw	5	WGS	True	Broiler gut metagenome
+PRJDB17852	Homo sapiens	9606		missing	129	WGS	True	16S rRNA amplicon sequencing of colorectal polyps
+PRJNA755985	Cervus nippon Temminck			China:Baiquan	44	AMPLICON	True	gut microbiota Raw sequence reads
+PRJNA945365	Micropterus salmoides	27706		China	15	WGS	True	
+PRJNA483255	Suhuai suckling piglet			China: Huaian	1	WGS	True	Suhuai suckling piglets fecal samples Raw sequence reads
+PRJNA855286	Suidae	9821		China: Ningxiang	30	WGS	True	NiangXiang pigs metagenome Raw sequence reads
+PRJNA601052	Leghorn chicken			USA: Wooster, Ohio	130	WGS	True	Impact of antibiotic administration route on chicken feces metagenome
+PRJNA311136	Pristis pectinata	685728			1	WGS	True	Feeding ecology study of Smalltooth sawfish using 18S rRNA high-throuput sequencing
+PRJDB8678	Homo sapiens	9606		Japan:Hyogo kobe	85	AMPLICON	True	Bacteroides inhibit adiposity
+PRJNA811727	Homo sapiens	9606		China:Hohhot	96	WGS	True	Probio-X combined with metformin alleviates type 2 diabetes by mediating short-chain fatty acid-producing bacteria and bile acid pathways
+PRJNA417359	Gallus gallus	9031		China:Hunan	495	WGS	True	A catalogue of chicken gut metagenome and the microbial responses to antibiotic and plant-derived benzylisoquinoline alkaloids
+PRJNA1023964	Ictiobus bubalus			USA: Ohio, Columbus	42	WGS	True	Wastewater and river metagenomes
+PRJDB36211	Sus scrofa	9823		missing: data agreement established pre-2023	16	WGS	True	Analysis of fecal flora of local pig breeds in China (PRJCA023268)
+PRJDB16532	Homo sapiens	9606		Japan	118	AMPLICON	True	Generic sample from human gut metagenome
+PRJDB36502	Sus scrofa	9823		missing: data agreement established pre-2023	16	WGS	True	Whole-metagenome shotgun sequencing of pig gut microbiota (PRJCA038760)
+PRJNA1228986	Gallus gallus	9031		China:yangling	34	WGS	True	LBC AA Metagenomics and gut microbiome Metagenome
+PRJNA874500	Gallus gallus	9031		China:Shenzhen	4	WGS	True	Broiler chicken gut ileum mucosa/lumen microbiota reads
+PRJNA1405988	Sus scrofa	9823		Spain	64	WGS	True	Gut microbiome in PRRS vaccination and infection
+PRJEB60740	Mus musculus	10090	UBERON:feces	USA:CA: San Diego	988	WGS	True	In Vivo Adaptation of Engineered Native Bacteria (G0)
+PRJNA913183	Homo sapiens	9606		USA: Orlando	81	WGS	True	Host-Diet-Gut Microbiome Interactions Influence Human Energy Balance: a Randomized Clinical Trial
+PRJNA526405	Porcine			Australia: NSW	667	WGS	True	Pig microbiome
+PRJNA822495	shrimp			China	3	WGS	True	crustacean metagenome Metagenome
+PRJEB52754	Gasterosteus aculeatus	69293	gut content	Iceland	68	WGS	True	Interplay between antipredator behavior, parasitism, and gut microbiome in wild stickleback populations
+PRJEB86261	Sus scrofa	9823	Caecum	Norway	1000	WGS	True	3D'omics: mannan fibre swine trial
+PRJNA947387	C57BL/6J			missing	27	WGS	True	Effect of water-soluble polysaccharide from Morchella esculenta on high-fat diet-induced obese mice: Changes in gut microbiota and metabolic functions
+PRJNA1039141	Sus scrofa	9823		China: Chengdu	120	WGS	True	Pig metagenomic sequencing
+PRJNA770101	Homo sapiens	9606		China:Huhhot	71	WGS	True	the transmission of probio-m9 from mother to infant
+PRJEB76898	Podarcis muralis	64176		Spain	940	WGS	True	EHI Data Release 1
+PRJDB3161	Homo sapiens	9606		Japan:Kanagawa	24	WGS	True	Fecal analysis in gnotobiotic mice gnotobiotic mice harboring 15 predominant species of human gut microbiota
+PRJNA1205011	fish			China: Sichuan	9	WGS	True	gut microbial community
+PRJNA763692	Homo sapiens			China	1000	WGS	True	A high-quality genome compendium of the human gut microbiome of Inner Mongolians
+PRJNA613834	Homo sapiens	9606		USA	76	WGS	True	Functional Microbial Responses to Alcohol Abstinence in Patients with Alcohol Use Disorder
+PRJNA1050241	Gallus gallus	9031		USA: 96 Roquemore Rd, Athens, GA 30607	60	WGS	True	Effect of diet on chicken cecal microbiome
+PRJNA690892	Camelus bactrianus ferus			China: Gansu	13	WGS	True	Fecal microbiome of wild Bactrian camels
+PRJDB17048	Homo sapiens	9606		Japan	71	WGS	True	Japanese Lynch Syndrome Gut Microbiome
+PRJNA828385	Sus scrofa			China:Nanjing	36	WGS	True	Sus scrofa Genome sequencing and assembly
+PRJDB36916	Homo sapiens	9606		missing: data agreement established pre-2023	132	WGS	True	Gut metagenomic data for sepsis patients (PRJCA040720)
+PRJDB8879	Homo sapiens	9606		South Korea	100	AMPLICON	True	Response of gut microbial community to fermented soybean paste (Cheonggukjang)
+PRJDB6620	Mus musculus	10090		Japan	25	WGS	True	Shotgun sequencing of mouse small intestinal contents
+PRJNA926485	Sus scrofa domesticus	9825		Denmark	23	WGS	True	Shotgun metagenomics sequences of colonic microbiome in of pig models for ulcerative colitis
+PRJDB34615	Phascolarctos cinereus	38626		missing: data agreement established pre-2023	82	WGS	True	koala gut metagenomic data (PRJCA036472)
+PRJEB3374	Mus musculus	10090		China	4	AMPLICON	True	Gut microbiota community and functions of mouse exposed to single As, single Fe, and combined As and Fe
+PRJNA524980	Sus scrofa	9823		China:chengdu	9	WGS	True	In situ biogas upgrading by H2 addition with metagenomic technology
+PRJDB35189	Homo sapiens	9606		missing: data agreement established pre-2023	88	WGS	True	Family Cohort Study Reveals Significant Fluctuations in Functional Microbiota in CRC (PRJCA038885)
+PRJNA662107	Homo sapiens	9606		USA	522	WGS	True	human metagenome Raw sequence reads
+PRJDB18770	Sus scrofa	9823		Japan	60	WGS	True	Metagenome analysis of fecal microbiome of sows
+PRJEB4370	Mus musculus	10090		USA	433	WGS	True	A gnotobiotic mouse model of phage-bacterial host dynamics in the human gut
+PRJEB39110	Gallus gallus	9031	Caecum content	Spain	70	WGS	True	HoloFood Chicken Caecum+Ileum Metagenome
+PRJNA772888	Prionailurus bengalensis	37029		South Korea	18	WGS	True	Metagenomic analysis of environmental feces
+PRJEB76066	Mus musculus			Germany	771	WGS	True	Gut decolonization of multidrug-resistant Escherichia coli clinical isolates via cooperative niche exclusion
+PRJNA801914	piglet			China:Chengde	24	WGS	True	Effects of spraying Lactobacillus plantarum P-8 on growth characteristics of neonatal piglets
+PRJNA983744	Mus musculus	10090		China: Zhejiang	18	WGS	True	Mus musculus Raw sequence reads
+PRJNA1078280	Mus musculus			missing	38	RNA-Seq	True	Quantifying forms and functions of intestinal bile acid pools in mice
+PRJNA688070	Gallus gallus	9031		USA: Athens, GA	2	Hi-C	True	Horizontal gene transfer is the major driver of antimicrobial resistance in Salmonella enterica serovar Heidelberg
+PRJNA488302	Sus scrofa	9823		China: Jiangxi	130	WGS	True	16S and ITS region of pig gut bacteria
+PRJDB17221	Homo sapiens	9606		Japan	106	WGS	True	Horizontal gene transfer shapes pathogenic bacteria in multiple sclerosis_fecal metagenome
+PRJNA843963	Homo sapiens	9606		Ethiopia	263	WGS	True	CAGED: CAMPYLOBACTER GENOMICS AND ENVIRONMENTAL ENTERIC DYSFUNCTION
+PRJNA751585	Gallus gallus	9031		USA: Indiana	223	AMPLICON	True	Cecal microbiome of AGP treated broilers
+PRJNA991276	Sus scrofa	9823		China	8	WGS	True	pig gut metagenome Raw sequence reads
+PRJNA657304	Canis lupus familiaris	9615		USA: Illinois, University of Illinois Laboratory of Comparative Nutrition and Nutrigenomics	21	WGS	True	Shotgun Sequencing of Dog Coprolites
+PRJNA673918	Homo sapiens	9606		China: Xiamen	71	WGS	True	Shorgun metagenomics of T2DM human gut microbes associated with FMT
+PRJNA737271	Sus scrofa			Not collected	40	WGS	True	Piglet gut and in-barn manure from farms on Raised Without Antibiotics program display a reduced antimicrobial resistance but an increased prevalence of pathogens
+PRJNA738684	Homo sapiens	9606		China:Beijing	52	WGS	True	Branched-chain sugar of pectin
+PRJDB16637	Plecoglossus altivelis	61084		Japan	123	AMPLICON	True	Microbiome analysis of ayu, Plecoglossus altivelis infected with Flavobacterium psychrophilum
+PRJNA945007	Gallus gallus	9031		Tanzania: Dar es Salaam (Buguruni)	54	WGS	True	Non-targeted microbial sequencing of backyard chickens in Tanzania
+PRJEB89232	Sus scrofa domesticus	9825	Small intestine	Spain	28	WGS	True	This project aims to characterise the effects of a low-fat and a medium-fat diet on the gut metabolome and the microbiota throughout the gastrointestinal tract of Iberian pigs.
+PRJDB15999	Mus musculus	10090		Japan:Tokyo	35	AMPLICON	True	Gut microbiota dominants over mice genetic variability in susceptibility to dextran sulphate sodium induced colitis
+PRJNA622417	rat			India:Tamilnadu,Vellore	4	WGS	True	Rat fecal metagenome
+PRJNA848282	Tibetan pigs			China:LinZhi	12	WGS	True	Colon 16s sequencing data of Tibetan and Yorkshire pigs
+PRJDB10484	Homo sapiens	9606		Japan	102	AMPLICON	True	Gut microbial species responsible for hyperammonemia-related urease activity in hepatic encephalopathy patients
+PRJNA1268758	Gallus gallus domesticus			Jordan: Irbid	24	WGS	True	Thermal manipulation impact on microbiome in chickens
+PRJNA1029302	Kyphosus sydneyanus	1260386		New Zealand: Nelson Island, Auckland	39	WGS	True	Herbivorous fish gut metagenome sequencing and assembly
+PRJNA1102860	Equus caballus	9796		Canada: Sable Island, Nova Scotia	1000	WGS	True	Shallow shotgun metagenomic sequencing of the Sable Island horse gut microbiome
+PRJDB11444	Homo sapiens	9606		Japan	306	AMPLICON	True	Gut microbiome of prediabetes in Japan
+PRJNA1330193	Sus scrofa	9823		China: Guangdong, Guangzhou	45	AMPLICON	True	Metagenomic Sequencing Data of DLY_piglets
+PRJEB83251	Mus musculus	10090	Feces	USA	26	WGS	True	C. cuniculi diarrhea in NSG mice
+PRJNA888429	Sus scrofa	9823		China:Shanxi	23	WGS	True	Diversity and Potential Function of Pig Gut DNA Viruses
+PRJEB59610	Canis lupus familiaris	9615		Hungary	215	AMPLICON	True	Comparative metagenomic profiling of canine gut microbial community using different sample preparation methodes
+PRJDB3819	Lagopus muta hyperborea	2969981		Japan: Kanagawa, Yokohama	9	WGS	True	Novel probiotic bacteria retrieved from wild rock ptarmigans
+PRJNA552411	Gallus gallus	9031		Ethiopia: Afar	2	WGS	True	Metagenome analysis reveals presence of Antibiotic Resistant Genes in Ethiopian chicken
+PRJNA777737	Ochotona curzoniae	130825		China:Qinghai	26	WGS	True	the metagenome of plateau pika
+PRJNA1218713	Sus scrofa	9823		Spain	172	WGS	True	Gut microbiota (swine) shotgun sequencing
+PRJEB96078	Mus musculus	10090	UBERON:feces	USA;USA:CA:San Diego	192	WGS	True	ApoE_FXR_IHC_Air_HFD
+PRJNA1328842	Sus scrofa	9823		USA: Kansas, Kansas State University Comparative Medicine	1000	AMPLICON	True	Assessing The Microbiome As A Tool For The Mitigation Of Viral Disease In Nursery Pigs
+PRJNA792486	Black goat			China:Hainan	45	WGS	True	Rumen and cecum content metagenome of goat, and cecum content metagenome of swine Raw sequence reads
+PRJNA1254096	Diptychus maculatus	263537		China: Xinjiang, Upper Kizil River	14	WGS	True	Metagenomic sequencing on the gut microbiota of Three Indigenous Fish Species from the Kizil River, Xinjiang
+PRJDB36775	Homo sapiens	9606		missing: data agreement established pre-2023	118	WGS	True	Metagenome for CKD (HS study) (PRJCA040203)
+PRJNA919082	Homo sapiens				64	WGS	True	Types and characteristics of shared microbiota within families of ethnic minorities in Inner Mongolia
+PRJDB37508	Homo sapiens	9606		Japan:Tokyo	470	WGS	True	Human Gut Metagenome
+PRJNA988937	Gallus gallus			China:Guangdong, Zhuhai	35	WGS	True	Metagenomic approach revealed the co-occurrence and transmission of antibiotic resistomes in aquaculture environment
+PRJDB34988	Anas platyrhynchos	8839		missing: data agreement established pre-2023	464	RNA-Seq	True	Microbial diversity in duck gut and its effects on host phenotype (PRJCA038082)
+PRJNA1454930	Sus scrofa	9823		China:Gansu	10	WGS	True	Gut meta genome
+PRJNA637365	Homo sapiens	9606		Israel: Tel-Aviv	118	WGS	True	Dysbiosis in metabolic genes of the gut microbiomes of patients with a Pouch
+PRJDB9922	Mus musculus	10090		Japan	48	WGS	True	Mice fecal lipidomics in antibiotics treatment
+PRJNA688069	Gallus gallus				33	WGS	True	S. enterica Intracloacal challenge chicken cecum microbiome Raw sequence reads
+PRJNA773596	Homo sapiens	9606		China:Hohhot	83	WGS	True	Clinical study of probiotics in adjuvant treatment of patients with osteoporosis
+PRJNA852373	Homo sapiens			Taiwan	5	WGS	True	Alterations in antimicrobial resistant bacteria and gut microbiota in chickens and humans
+PRJNA861020	Felis catus	9685		New Zealand:Palmerston North	36	WGS	True	Cat and dog faecal microbiome comparison
+PRJNA493153	Homo sapiens	9606		USA: Arkansas	1	WGS	True	Gut Microbiome Sequencing of Head and Neck Cancer Patients
+PRJDB38518	Homo sapiens	9606		missing: data agreement established pre-2023	22	WGS	True	Human gut virome (PRJCA034040)
+PRJNA1389899	Gallus gallus	9031		China: Wuhan	18	WGS	True	Metagenomic sequencing of chicken caecal contents before and after heat stress
+PRJNA722129	Homo sapiens	9606		China: Shandong	93	WGS	True	The possible mechanism of Probio-M8 to relieve the symptoms of asthma patients
+PRJNA1067849	Sus scrofa	9823		China:Nanjing	54	WGS	True	gut microbiota of IUGR pig Metagenome
+PRJNA1171181	Siniperca chuatsi	119488		China:Chizhou City	8	WGS	True	gut metagenome
+PRJNA656314	Danio rerio	7955		China: Shanghai	15	WGS	True	Environmental concentrations of antibiotics alter the zebrafish gut microbiome structure and potential functions
+PRJNA638426	Sus scrofa	9823		USA: Ames, IA	984	AMPLICON	True	Effects of feed additives on nursery aged swine and swine infected with Salmonella
+PRJNA857725	Sus scrofa domesticus	9825		Canada:Alberta,Lacombe	60	AMPLICON	True	Fecal samples from pasture-raised pigs Metagenome
+PRJNA613182	Mus musculus	10090			90	WGS	True	Longitudinal metagenomic shotgun sequencing of R6/1 fecal samples
+PRJNA986525	Mus musculus	10090		USA: Nashville	17	WGS	True	2'-fucoysllactose treatment of C57BL/6 adult mice fecal metagenomics
+PRJNA373834	Sus scrofa	9823		Germany: Berlin	22	WGS	True	Metagenomic analysis of gut microbiota in sows and piglets
+PRJNA859374	rat			China: Xi'an	16	WGS	True	Gut microbiota in Cardiac Arrest Rat Model
+PRJNA821272	Mice			China: Hohhot	30	WGS	True	Lacticaseibacillus rhamnosus M9 inhibits the growth of breast tumors in mice by regulating gut microbiota, immunity and blood metabolites
+PRJNA416199	mudskipper1			missing	12	WGS	True	Intestinal flora Metagenome
+PRJEB47609	Gallus gallus	9031	Ileum content	Spain	179	WGS	True	HoloFood Chicken Ileum Metagenome – deeply sequenced batch
+PRJEB41323	Gallus gallus	9031	Caecum content	Spain	210	WGS	True	HoloFood Chicken Caecum Metagenome – deeply sequenced batch
+PRJNA692830	Homo sapiens	9606		Sweden	24	WGS	True	Whole genome metagenomic analysis of the gut microbiome in HIV-1 infected individuals on antiretroviral therapy
+PRJNA574851	Macaca mulatta	9544		China:Kunming,Yunnan-Kweichow Plateau	10	WGS	True	Gut microbiota and metabolites in α-synuclein transgenic monkey models of early stage Parkinson’s disease
+PRJNA1055184	Gallus gallus	9031		USA: Iowa	133	WGS	True	Prokaryotic microbial communities of the Ileal digesta of Gallus gallus domesticus
+PRJEB86262	Sus scrofa	9823	Caecum	Norway	432	WGS	True	3D'omics: protein efficiency pig trial
+PRJNA946383	Gallus gallus	9031		United Kingdom	80	WGS	True	Microbial community diversity and structure in the cecum of laying hens with and without mannan-rich fraction supplementation
+PRJEB39465	Mus musculus	10090		Singapore	724	WGS	True	Impact of 6-Month Exposure to Aerosols from Potential Modified Risk Tobacco Products Relative to Cigarette Smoke on the Rodent Gastrointestinal Tract
+PRJNA902684	Rattus	10114		China: Hohhot	110	WGS	True	Metagenome level reveals the regulatory effect of probiotics to mastitis rats
+PRJNA1011357	Cyprinus carpio	7962		Mexico: State of Mexico	10	WGS	True	Description of the viral community in fecal content of common carp (Cyprinus carpio) living in a naturally preserved wetland on Mexican plateau
+PRJEB49262	Homo sapiens	9606			62	WGS	True	Depression and Fatigue in IBD
+PRJEB62460	Homo sapiens			USA:CO:Grand Junction;USA	874	AMPLICON	True	Metcalf - Microbial clock for estimating PMI in three geographic regions in the U.S
+PRJDB35153	Macaca mulatta brevicaudus	1654737		missing: data agreement established pre-2023	41	WGS	True	Gut Microbiota in Macaca Mulatta Brevicaudus (PRJCA038744)
+PRJNA782061	Ctenopharyngodon idella	7959		China:Changsha	6	WGS	True	Gut microbiome of grass carp (EX/WT)
+PRJDB33192	Homo sapiens	9606		missing: data agreement established pre-2023	51	WGS	True	Infands gut virome (PRJCA031650)
+PRJNA998458	Lynx rufus			USA: Jacksonville Zoological Gardens, Jacksonville, Florida.	3	WGS	True	Bobcat (Lynx rufus) environmental DNA (eDNA) soil pawprints and scat
+PRJNA1070846	rats			China:Hohhot	41	WGS	True	Fecal metagenomic sequecing
+PRJNA741390	Ctenochaetus striatus	175436		China: South China Sea	8	WGS	True	A positive feeding response in a major coral reef detritivore
+PRJNA796172	Sus scrofa	9823		Not collected	48	WGS	True	Detection of bacterial species and Antibiotic resistance genes in Pig Manure Based on metagenome sequencing
+PRJNA255936	Sus scrofa	9823		Switzerland	15	WGS	True	Fermentation sample pig feces Metagenome
+PRJDB16790	Homo sapiens	9606		Japan	428	WGS	True	Generic sample from human gut metagenome
+PRJNA820553	Equus asinus			Iran:Zanjan	15	WGS	True	metagenome of ancient coprolites
+PRJDB4067	Otohimella japonica	1684697		Japan:Kanagawa	2	WGS	True	Sequencing old specimens of seaweeds
+PRJNA606765	Propithecus diadema	83281		Madagascar: Ambatovy Conservation Zone	100	AMPLICON	True	A role for gut microbiota in host niche differentiation
+PRJNA695396	Hypophthalmichthys nobilis	7965		China: Chongqing	39	WGS	True	Bighead carp intestinal 16S rRNA gene sequencing
+PRJNA1136229	Gallus gallus subsp Domesticus			United Kingdom	24	WGS	True	Breaking the Cycle: A Yeast Mannan-Rich Fraction beneficially modulates the antimicrobial resistome associated with Layer hen cecal microbiomes under commercial conditions
+PRJNA946412	Felis catus	9685		New Zealand:Palmerston North	20	WGS	True	Diet effects on cat faecal microbiome composition
+PRJNA626062	Homo sapiens	9606		China:Nanjing	54	WGS	True	Fecal microbiota transplant therapy in type 2 diabetes patients.
+PRJNA597688	Siganus canaliculatus	75042		China:Shantou	2	WGS	True	Siganus oramin Matagenomic sequencing
+PRJNA1245063	Gallus gallus				12	WGS	True	16S ribosomal RNA sequencing of animal gut microbes
+PRJNA798875	broiler			China:Jiaxing	2	WGS	True	Poultry farm metagenome
+PRJEB74255	Mus musculus	10090		Germany	264	AMPLICON	True	Klebsiella pneumoniae decolonization on Western-style diets
+PRJNA691978	Sus scrofa	9823		USA: Georgia	61	WGS	True	time-series freshwater dialysis bag mesocosm metagenomes
+PRJDB9383	Mus musculus	10090		Japan:Tokyo	8	WGS	True	Porphyromonas gingivalis impairs glucose uptake in muscle by altering gut microbiota
+PRJNA913689	Larimichthys polyactis	334908			63	WGS	True	Differences in the diversity and community structure of the intestinal microbiota of commercial fishes in the central and southern East China Sea in spring and autumn
+PRJDB7767	Homo sapiens	9606		Japan	118	WGS	True	Gut Microbiota dysbiosis leads to the development and progression of multiple sclerosis
+PRJNA629856	Sus scrofa domesticus			Canada:Lacombe	1000	AMPLICON	True	Weaning Piglet Gut Microbiome
+PRJDB7630	Homo sapiens	9606		Japan:Hyogo kobe	40	WGS	True	Gut metagenome in cardiovascular diseases
+PRJNA495010	Sus scrofa	9823		China: Henan	3	WGS	True	bacterial community of environmental samples from pig farm
+PRJEB6921	Homo sapiens				709	WGS	True	Role_of_early_life_gut_microbiota_in_colonisation_resistance_development
+PRJNA1011201	Gallus gallus domesticus			Belgium: Bruges	6	WGS	True	Protocol for on-site nanopore sequencing of chicken fecal samples
+PRJNA1332038	Gallus gallus	9031			1	WGS	True	Gut Microbiota of Babolna TetraSL chickens
+PRJDB15798	Homo sapiens	9606		Japan	60	WGS	True	Novel sampling method optimized for fecal microbiota and metabolite preservation during storage
+PRJNA982394	Tachysurus fulvidraco	1234273		China:Wuhu	9	WGS	True	Tachysurus fulvidraco Raw sequence reads
+PRJDB17227	Homo sapiens	9606		Japan:Tokyo	52	WGS	True	Correlation analysis between EPS hydrolase, glycolysis, and SCFA production in human feces.
+PRJNA575543	Sus scrofa	9823		China: Yunfu	18	WGS	True	Metagenomic characterization of intestinal regions in pigs with contrasting feed efficiency
+PRJNA880353	Equus caballus	9796		Canada: Sable Island, Nova Scotia	86	WGS	True	Shallow shotgun sequencing of the microbiome recapitulates 16S amplicon results and provides functional insights
+PRJNA755866	Myotis daubentonii			Russia:Moscow region	10	WGS	True	Viruses in Bats
+PRJEB76409	Mus musculus			USA;USA:CA	32	WGS	True	Iron_Diet_Mouse_Study
+PRJEB81717	Papio cynocephalus and P. anubis			Kenya	27	WGS	True	Adult baboon fecal samples from the Amboseli ecosystem in Kenya
+PRJNA343584	Megalobrama amblycephala				13	WGS	True	Megalobrama amblycephala Genome sequencing and assembly
+PRJNA293625	globefish			China:Guangdong	4	WGS	True	fish Raw sequence reads
+PRJDB4525	Homo sapiens	9606		Japan:Fukuoka	36	WGS	True	Shotgun metagenomics of fecal bacterial consortium inhabiting healthy Asian children
+PRJNA1110045	Sus scrofa	9823		China:chuzhou	1	WGS	True	Colonic chyme of piglets Metagenome
+PRJNA779404	Sus scrofa domesticus			Canada:Lacombe	751	AMPLICON	True	Florfenicol treatment and the piglet gut microbiome
+PRJNA661076	Bos taurus	9913		South Africa: Lokaleng Village, Mahikeng	2	WGS	True	Feces metagenome Metagenome
+PRJDB14457	Homo sapiens	9606		Japan:Kanagawa, Atsugi	98	WGS	True	Gut microbiota of healthy Japanese adult
+PRJNA779106	piglet			China:Hohhot	236	WGS	True	Effects of Compound probiotics on Growth Performance, immune function, Intestinal microflora and Blood Metabolites of Suckling Piglets
+PRJDB37496	Homo sapiens	9606		Japan	50	WGS	True	Gut microbiome of 50 Japanese adults
+PRJNA1282711	Sus scrofa domesticus	9825		Netherlands:Velddriel	45	WGS	True	Swine microbiome samples treated with unprocessed and processed soybean meal
+PRJDB11394	Anas sp.	42806		Japan:Kagoshima, Izumi, plain	4	WGS	True	Metagenomic sequencing analysis of duck fecal samples
+PRJEB81804	Sus scrofa	9823	UBERON:colon	USA;USA:CA: San Diego	573	WGS	True	Host depletion in pig and human colon samples
+PRJNA974094	Danio rerio	7955			18	WGS	True	Vitamin D Modulation of Brain-Gut-Virome Disorder Caused by Polystyrene Nanoplastics Exposure in Zebrafish (Danio rerio)
+PRJNA1112422	Sus scrofa domesticus	9825		Brazil: Porto Alegre	6	WGS	True	SUCCESSFUL ESTABLISHMENT OF AN IN VITRO GASTROINTESTINAL MODEL SHOWING MICROBIOTA MODULATION BY PREBIOTICS
+PRJNA906507	Gallus gallus	9031		USA	32	WGS	True	Taxonomic and metagenomic analyses define the development of the microbiota in the chick
+PRJNA1017798	Ochotona curzoniae	130825		China:Qinghai	24	WGS	True	Gut Microbiota Composition and Function in Plateau Pikas on the Qinghai_Tibetan Plateau
+PRJNA482836	Piaractus mesopotamicus	42528		Brazil	29	WGS	True	Gut microbiome from Piaractus mesopotamicus Metagenome
+PRJNA818062	Homo sapiens	9606		China:Qinghai	45	WGS	True	the gut microbiome metagenomic of Tibetan subjects
+PRJNA1036376	Gallus gallus	9031		China: Ya'an	70	WGS	True	faecel metagenome and cecal metagenome
+PRJEB46550	Gallus gallus	9031	Caecum content	Spain	344	WGS	True	HoloFood Chicken Caecum Metagenome – extreme sizes batch
+PRJNA1110616	Larimichthys crocea	215358		China:Zhejiang	24	WGS	True	The gut microbiota of Larimichthys crocea (large yellow croaker) Raw sequence reads
+PRJNA670873	Gallus gallus	9031		Netherlands	51	WGS	True	chicken gut metagenome - raw sequence reads
+PRJNA948893	Acrossocheilus fasciatus	356809		China:Wuhu	6	WGS	True	Acrossocheilus fasciatus Transcriptome or Gene expression
+PRJNA650228	Homo sapiens				18	WGS	True	Development of standard protocols for shotgun metagenomics analyses of human fecal microbiota (raw sequencing reads)
+PRJEB18726	Homo sapiens			Arctic Ocean	2	WGS	True	GD_MGS_title
+PRJDB32644	Mus musculus	10090		missing: data agreement established pre-2023	18	WGS	True	CRC gut microbe (PRJCA029983)
+PRJNA668104	Crossbred piglets (Landrace x Yorkshire x Duroc);Crossbred piglets			Denmark:Copenhagen	40	AMPLICON	True	Fecal microbiota transplantation on necrotizing enterocolitis in preterm piglets
+PRJNA347599	Gallus gallus	9031		China: Guangzhou	12	WGS	True	manure metagenome Raw sequence reads
+PRJNA601162	Sus scrofa domesticus	9825		USA: Ohio	62	WGS	True	sample of a gut microbiome metagenomic sample Metagenome
+PRJEB39685	Meleagris gallopavo	9103		Germany	132	WGS	True	Gut Microbiomes of European Turkey and Veal Calf Herds
+PRJDB3293	Potamochoerus porcus	273791		Gabon: Nyanga, Mocabe	6	WGS	True	pig_bacteria
+PRJNA291299	Hen			Malaysia: Institute of Bioscience, Selangor	4	WGS	True	Caecal microbiome metagenome of laying hens
+PRJNA947914	Salmo salar	8030		Norway: Dirdal	79	WGA	True	Atlantic salmon gut microbiome
+PRJNA1225188	Homo sapiens				63	WGS	True	Precision Glycans Enhance Gamma-Aminobutyric Acid Production in Human Gut Model
+PRJNA722684	Alces?alces			China	59	WGS	True	Research on diversity of gut microbes
+PRJNA756556	Homo sapiens	9606		USA	38	WGS	True	Fiber Mixture for a Balanced Gut Microbiota and Human Health in Parkinson's Disease
+PRJNA983093	Homo sapiens	9606		Malaysia	194	WGS	True	Bifidobacterium lactis Probio-M8 treated and prevented acute RTI via regulating gut microbiota and metabolites.
+PRJNA874173	Alpha-synuclein transgenic c57bl/10 mice			China:Heilongjiang,Harbin	9	WGS	True	feces metagenome Raw sequence reads
+PRJNA825133	Gallus gallus			China	6	WGS	True	Gallus gallus Metagenome
+PRJNA543206	Gallus gallus	9031		United Kingdom: Surrey	50	WGS	True	Chicken metagenome Raw sequence reads
+PRJNA877780	Mus musculus feces			China:luoyang	15	WGS	True	Mus musculus Raw sequence reads
+PRJNA1163371	Sus scrofa	9823		Belgium: Gent	174	WGS	True	Structural and functional characterization of a porcine intestinal microbial ecosystem developed in vitro
+PRJDB36191	Mus musculus	10090		missing: data agreement established pre-2023	20	WGS	True	Metagenomic anlysis of Af colonization (PRJCA019345)
+PRJNA400119	Sus scrofa	9823		China:Ninghe,TianJin	8	WGS	True	pig gut metagenome Metagenome
+PRJNA741822	Homo sapiens	9606		China:Shandong	123	WGS	True	Genome level reveals that probiotics supplementation can alleviate the clinical symptoms of patients with coronary heart disease
+PRJNA932541	Hydropotes inermis	9883		Korea:hoengseong	51	WGS	True	Metabarcoding analysis for wild animals
+PRJNA371649	Sus scrofa	9823		Spain: Madrid	1	WGS	True	Pig gut metagenome Raw sequence reads
+PRJNA812583	Homo sapiens	9606		Denmark	12	WGS	True	Strain-level metagenomics reveal microbial transfer from donor to infant after fecal microbiota transplantation of pregnant patient
+PRJDB15857	Mus musculus	10090		Japan:Shizuoka, Mishima, National Institute of Genetics, Animal Research Building	80	WGS	True	Changes in the gut microbiome associated with domestication of mice
+PRJNA935053	Chanodichthys erythropterus	933992		South Korea: Estuary of the Nakdong	1	WGS	True	Utilizing next-generation sequencing to identify prey DNA in Erythroculter erythropterus
+PRJDB15623	Mus musculus	10090		Japan	20	WGS	True	Genetic mutation on Escherichia coli genome during adaptation to the murine intestine is optimized to the host's diet.
+PRJNA665253	Sus scrofa	9823		Canada: Edmonton	191	WGS	True	16S rRNA sequencing of swine fecal microbiota during the first three weeks after weaning Raw sequence reads
+PRJNA899060	Sus scrofa domesticus	9825		USA	57	WGS	True	Metagenomic sequencing of antimicrobial treatments chlortetracycline and tiamulin in weaned swine
+PRJNA1010706	Sus scrofa	9823		Spain: Lleida	419	WGS	True	Gut microbiome and resistome characterization of pigs treated with commonly used post-weaning diarrhea treatments
+PRJNA1049649	Harpadon nehereus				6	WGS	True	Heavy metals and microplastic pollution in marine fishes with special emphasis on their gut microbiome
+PRJNA1232341	Sus	9822		missing	32	WGS	True	Piglet fecal microbial 16S rRNA sequencing data
+PRJNA721235	Romerolagus diazi	48089		Mexico: Morelos, Coajomulco	4	WGS	True	Global study of microbial diversity on volcano rabbit feces
+PRJEB42464	Oncorhynchus mykiss	8022		Spain	59	WGS	True	Gut Microbiomes of European Farm Rainbow Trout
+PRJEB11419	Homo sapiens	9606		USA	998	AMPLICON	True	American Gut Project
+PRJNA564888	Tupaia glis	9395		Singapore	13	WGS	True	Boosting natural history research via metagenomic clean-up of crowdsourced faeces
+PRJNA338370	broiler chickens			China:Qingdao	10	WGS	True	chicken gut metagenome Raw sequence reads
+PRJNA825121	shrimp			China	3	WGS	True	shrimp gut metagenome Metagenome
+PRJNA492361	Pristis pectinata	685728			1	WGS	True	Smalltooth Sawfish feeding ecology study
+PRJNA298737	Gallus gallus	9031		Italy	94	AMPLICON	True	Cecal microbiota of BC and FRC chicken targeted loci
