@@ -300,3 +300,46 @@ def fetch_abstract_from_pmid(pubmed_id):
     except Exception as e:
         print(f"No abstract found for PubMed ID {pubmed_id}: {e}")
     return None 
+
+def get_taxonomy(tax_id):
+    """
+    Get full taxonomy for a host_tax_id.
+    Returns dict with kingdom, phylum, class, order, family, genus, species.
+    """
+    from Bio import Entrez as _Entrez
+    _Entrez.email = Entrez.email
+   
+    if tax_id is None or str(tax_id) == 'nan':           
+        return {"kingdom": None, "phylum": None, "class": None, 
+            "order": None, "family": None, "genus": None, "species": None}
+        
+    try:
+        converted_id = str(int(float(tax_id)))
+
+        handle = Entrez.efetch(
+            db = 'taxonomy', 
+            id = converted_id,
+            retmode = 'xml'
+        )
+        records = Entrez.read(handle)
+        handle.close()
+        time.sleep(0.3)
+
+        taxonomy = {"kingdom": None, "phylum": None, "class": None,
+                   "order": None, "family": None, "genus": None, "species": None}
+
+        if records:
+            taxonomy["species"] = records[0].get("ScientificName")
+            lineage = records[0].get('LineageEx', [])
+            for node in lineage:
+                rank = node.get("Rank")
+                name = node.get("ScientificName")
+                if rank in taxonomy:
+                    taxonomy[rank] = name
+                
+        return taxonomy
+    
+    except Exception as e:
+        print(f"Error fetching taxonomy for tax_id {tax_id}: {e} ")
+        return {"kingdom": None, "phylum": None, "class": None,
+                "order": None, "family": None, "genus": None, "species": None}
