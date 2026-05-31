@@ -57,7 +57,7 @@ def fetch_runs_for_study(study_accession):
     params = {
         "result": "read_run",
         "query": f'study_accession="{study_accession}"',
-        "fields": "run_accession,study_accession,sample_accession,scientific_name,host,library_strategy,fastq_ftp,\
+        "fields": "run_accession,study_accession,sample_accession,scientific_name,host,library_strategy,library_source,fastq_ftp,\
         host_scientific_name,host_tax_id,host_body_site,disease,country,lat,lon,collection_date\
         ,library_strategy",
         "limit": 1000,
@@ -222,6 +222,69 @@ def fetch_pubmed_abstract(study_accession):
     try:
         pubmed_id = fetch_pubmed_id(study_accession)
         
+        if pubmed_id is None:
+            return None
+        
+        handle = Entrez.efetch(
+            db = 'pubmed',
+            id = pubmed_id,
+            rettype = 'abstract',
+            retmode = 'text'
+        )
+        abstract = handle.read()
+        handle.close()
+        return abstract
+    except Exception as e:
+        print(f"No abstract found for PubMed ID {pubmed_id}: {e}")
+    return None 
+
+
+def fetch_pubmed_abstract_by_title(title):
+    """
+    Search PubMed by study title and return abstract.
+    """
+
+    if not title or not title.strip():
+        return None
+    
+    try:
+        handle = Entrez.esearch(
+            db ="pubmed", 
+            term = f'"{title}"[Title]', 
+            retmax = 1
+        )
+        record = Entrez.read(handle)
+        handle.close()
+        time.sleep(0.3)
+
+        if not record["IdList"]:
+            return None
+        
+        pubmed_id = record["IdList"][0]
+
+        # grab abstract using pubmed id 
+        handle = Entrez.efetch(
+            db = 'pubmed', 
+            id = pubmed_id, 
+            rettype = 'abstract', 
+            retmode = 'text'
+        )
+        abstract = handle.read()
+        handle.close()
+        time.sleep(0.3)
+
+        return abstract 
+    except Exception as e:
+        print(f"Error: {e}")
+        return None 
+    
+
+def fetch_abstract_from_pmid(pubmed_id):
+    """ 
+    Fetches the abstract of a PubMed paper given its PMID. 
+    """
+    
+    try:
         if pubmed_id is None:
             return None
         

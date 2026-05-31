@@ -1,0 +1,1391 @@
+study_accession	host_species	host_tax_id	body_site	country	n_samples	library_strategy	data_source	pmid
+PRJNA379709	Mus musculus	10090		USA: Arizona	8	WGS	pubmed	28951889
+PRJNA532456	Homo sapiens	9606		USA: Massachussetts	231	RNA-Seq	pubmed	31959971
+PRJNA806482	RAT			South Korea	18	WGS	ena_only	
+PRJNA342046	Homo sapiens	9606		Colombia: Bogota.	27	WGS	pubmed	33824199
+PRJNA555614	Mus musculus	10090		USA: University of Missouri, Columbia	316	AMPLICON	pubmed	32600361
+PRJNA563913	Mus musculus	10090		USA: Providence, RI	32	RNA-Seq	pubmed	32723789
+PRJNA873123	Gallus gallus	9031		China: Hebei,Zhuozhou	32	WGS	ena_only	
+PRJDB9383	Mus musculus	10090		Japan:Tokyo	8	WGS	ena_only	
+PRJNA947387	C57BL/6J			missing	27	WGS	ena_only	
+PRJNA887424	Bos taurus	9913		USA: Oklahoma	578	AMPLICON	ena_only	
+PRJNA1211805					78	WGA	pubmed	41572341
+PRJEB43623	air metagenome			Norway	16	WGS	pubmed	39385092
+PRJNA820553	Equus asinus			Iran:Zanjan	15	WGS	ena_only	
+PRJEB41657	Salmo salar	8030	Distal gut content	Norway	359	WGS	pubmed	40790604
+PRJEB70517	Mus musculus	10090	UBERON:colon	USA;USA:CO:Boulder	173	WGS	ena_only	
+PRJNA1047964	Ovis aries	9940		China:Qinghai-Tibet Plateau	14	WGS	ena_only	
+PRJNA629378	Mus musculus	10090		USA: University of Missouri	359	AMPLICON	pubmed	32928304
+PRJNA1061151	Mus musculus	10090		USA: Saint Louis, Missouri	298	AMPLICON	pubmed	39868118
+PRJEB58441	feces metagenome			Tanzania	587	WGS	ena_only	
+PRJNA385134	Mus musculus	10090		Ireland	26	WGS	pubmed	33218339
+PRJEB40719			mouse-gut		31	WGS	ena_only	
+PRJNA715658	Gallus gallus	9031		Austria: Lower Austria	751	WGS	pubmed	34484168
+PRJNA382943	Mus musculus taxid:10090			USA:Midwest,Columbia, MO	712	AMPLICON	pubmed	29511208
+PRJNA1192539	Mus musculus	10090		missing	24	AMPLICON	pubmed	39703374
+PRJNA1405988	Sus scrofa	9823		Spain	64	WGS	ena_only	
+PRJNA563508	Homo sapiens			China:Qinghai Gengga Lake	99	WGS	pubmed	32122398
+PRJNA698773	Cebuella pygmaea	30588		Italy	6	Targeted-Capture	pubmed	33973321
+PRJNA595610	feces metagenome			USA	1	WGS	ena_only	
+PRJDB1459					1	WGS	ena_only	
+PRJNA694463	Mus musculus	10090		USA: University of Missouri	366	AMPLICON	pubmed	36380056
+PRJNA317339	Macaca fuscata	9542		USA	97	AMPLICON	pubmed	29621980
+PRJNA1193792	mouse			China	8	RAD-Seq	pubmed	41112047
+PRJNA475246	Homo sapiens				286	WGS	pubmed	38882494
+PRJNA389927	Homo sapiens	9606		Canada:Toronto	181	WGS	pubmed	35440042
+PRJDB16260	Homo sapiens				250	WGS	ena_only	
+PRJNA782061	Ctenopharyngodon idella	7959		China:Changsha	6	WGS	ena_only	
+PRJNA398089	Homo sapiens	9606		USA	1000	WGS	pubmed	39947133
+PRJNA1108401	fish gut metagenome			China	1	WGS	ena_only	
+PRJNA903767	Ochotona curzoniae	130825		China:Qinghai	34	WGS	ena_only	
+PRJDB37111	Apodemus chevrieri	129246		missing: data agreement established pre-2023	45	AMPLICON	ena_only	
+PRJNA926485	Sus scrofa domesticus	9825		Denmark	23	WGS	ena_only	
+PRJNA1283350	metagenomes			China:Changsha	48	WGS	pubmed	42019469
+PRJEB77930				China	3	WGS	ena_only	
+PRJEB50555					537	WGS	ena_only	
+PRJNA1227753	mice			China: Guangzhou	9	WGS	pubmed	41639568
+PRJNA487636	Homo sapiens	9606		USA: Rochester, MN	180	OTHER	pubmed	39947133
+PRJNA631951	Bos	9903		Iran: Karaj	24	WGA	pubmed	39505912
+PRJNA838636	Homo sapiens	9606		missing	20	AMPLICON	pubmed	37102874
+PRJEB11419	Homo sapiens	9606		USA	998	AMPLICON	pubmed	36389176
+PRJEB74042				USA	931	WGS	ena_only	
+PRJNA660443	Homo sapiens	9606		USA: Michigan	70	WGS	pubmed	37726374
+PRJNA340296	Sus scrofa	9823		China	2	AMPLICON	pubmed	28392784
+PRJNA951897	missing			missing	15	WGS	ena_only	
+PRJNA706579	Mus musculus	10090		USA: TX	40	AMPLICON	pubmed	33912174
+PRJNA755974	Mus musculus	10090		United Kingdom: Norwich	114	AMPLICON	pubmed	37231089
+PRJNA695396	Hypophthalmichthys nobilis	7965		China: Chongqing	39	WGS	ena_only	
+PRJNA822495	shrimp			China	3	WGS	ena_only	
+PRJEB105143	Ovis aries			China	48	WGS	pubmed	41657996
+PRJNA1066879	Bovine				167	AMPLICON	pubmed	39030654
+PRJNA744213	Mus musculus	10090		USA	297	WGS	pubmed	36759753
+PRJNA788972	Homo sapiens	9606		China: Yellow Sea	2	WGS	pubmed	35019672
+PRJEB39465	Mus musculus	10090		Singapore	724	WGS	ena_only	
+PRJNA1125130	Equus caballus	9796		China	20	WGS	pubmed	41827064
+PRJNA608079	Homo sapiens	9606		China:Haikou	92	AMPLICON	pubmed	32663059
+PRJNA1276128	Sus scrofa domestica			United Kingdom:Wincherster	12	OTHER	pubmed	41904571
+PRJNA909453	Homo sapiens	9606		China: Shanghai	50	WGS	ena_only	
+PRJNA377666	Gallus gallus	9031			450	WGS	pubmed	30064352
+PRJNA237795	189	9825		USA: Ames, Iowa	146	AMPLICON	ena_only	
+PRJNA945233	Ctenopharyngodon idella				72	RNA-Seq	pubmed	38167330
+PRJNA1141391	Mus musculus	10090		China: Hunan	24	WGS	pubmed	39277616
+PRJNA863566	mice				6	WGS	ena_only	
+PRJNA1148062	Porcine				6	WGS	ena_only	
+PRJNA493153	Homo sapiens	9606		USA: Arkansas	1	WGS	ena_only	
+PRJEB29152					47	WGS	ena_only	
+PRJDB16637	Plecoglossus altivelis	61084		Japan	123	AMPLICON	ena_only	
+PRJNA865396	Eriocheir sinensis	95602		China: Shenyang	6	WGS	ena_only	
+PRJNA1273087	Sus scrofa domesticus	9825		United Kingdom:Wincherster	461	WGS	pubmed	41904571
+PRJNA906507	Gallus gallus	9031		USA	32	WGS	ena_only	
+PRJNA1011357	Cyprinus carpio	7962		Mexico: State of Mexico	10	WGS	ena_only	
+PRJNA1288408	Rattus norvegicus	10116		Turkey: Eastern Anatolia Region	28	AMPLICON	pubmed	41714980
+PRJDB6503	Homo sapiens	9606		Japan	30	WGS	ena_only	
+PRJNA935053	Chanodichthys erythropterus	933992		South Korea: Estuary of the Nakdong	1	WGS	ena_only	
+PRJNA656389	Bubalus bubalis	89462			695	WGS	pubmed	39505912
+PRJEB58265	Crocidura russula			Spain	110	WGS	pubmed	37650630
+PRJEB7774				Austria	156	WGS	pubmed	35440042
+PRJNA574033	Homo sapiens	56798		Italy	2	WGA	pubmed	31698863
+PRJNA1180741	Sus scrofa vittatus	2485929		Singapore: Lorong Halus	178	AMPLICON	pubmed	41928361
+PRJNA322188	Homo sapiens	9606		USA	1000	AMPLICON	pubmed	38882494
+PRJNA564888	Tupaia glis	9395		Singapore	13	WGS	pubmed	31697678
+PRJNA293646	Bos	9903		China:Beijing	13	WGS	ena_only	
+PRJEB79635	bird metagenome			United Kingdom	5	WGS	pubmed	40302838
+PRJEB70928	Macaca mulatta			Netherlands	129	WGS	pubmed	40275402
+PRJEB60545	Salmo salar	8030			48	AMPLICON	pubmed	41700855
+PRJNA997708	missing'			China:zhengzhou	9	AMPLICON	pubmed	38349151
+PRJNA1046219	feces			China: Jiaxing	8	WGS	ena_only	
+PRJNA772302	Danio rerio	7955		USA	8	RNA-Seq	pubmed	37304849
+PRJNA525682	Mus musculus				15	AMPLICON	pubmed	31061496
+PRJNA495010	Sus scrofa	9823		China: Henan	3	WGS	ena_only	
+PRJNA1170529	Sus scrofa domesticus	9825		Poland: Olsztyn	30	RNA-Seq	pubmed	39779716
+PRJEB55711				China	44	WGS	pubmed	36713446
+PRJNA915251	Homo sapiens	9606		United Kingdom: Bath	683	WGS	ena_only	
+PRJEB5224				Spain	260	WGS	pubmed	37398234
+PRJEB102170				Latvia	71	WGS	ena_only	
+PRJNA1035647	Bos taurus indicus			Pakistan: Okara, Punjab	12	AMPLICON	pubmed	38575861
+PRJEB47836	Myotis capaccinii				96	AMPLICON	pubmed	34711286
+PRJNA590585	plateau pika01			China:Qinghai,Gangcha	12	WGA	pubmed	33369229
+PRJNA728379	feces metagenome			China:Fujian	14	WGS	ena_only	
+PRJNA738554	C57BL/6 mouse			China:Beijing	24	WGS	ena_only	
+PRJNA1000186	Homo sapiens	9606		Canada:Alberta,Edmonton	413	AMPLICON	pubmed	39244633
+PRJNA1268041	Sus scrofa	9823		China:Nanning	16	WGS	ena_only	
+PRJNA721002	feces metagenome			China:Guangdong,Guangzhou	51	WGS	pubmed	38868570
+PRJDB36556	Corvus macrorhynchos	36249		missing: data agreement established pre-2023	7	WGS	ena_only	
+PRJNA1060362	fish gut metagenome			China	1	WGS	ena_only	
+PRJDB15857	Mus musculus	10090		Japan:Shizuoka, Mishima, National Institute of Genetics, Animal Research Building	80	WGS	ena_only	
+PRJNA1247133	mice				10	AMPLICON	pubmed	40977701
+PRJNA740243	Homo sapiens	9606		Italy: Milan	281	AMPLICON	pubmed	36288294
+PRJNA558220	Mus musculus	10090		Spain:Oviedo	26	RNA-Seq	pubmed	35002754
+PRJEB61541	Sus scrofa				69	OTHER	pubmed	37280708
+PRJNA1136021	Mus musculus	10090		USA:TX	60	AMPLICON	pubmed	39269772
+PRJEB72437				Germany	8	WGS	ena_only	
+PRJNA1211300	Homo sapiens	9606		China: Shenzhen	17	WGS	pubmed	41005300
+PRJDB39230	Equus hemionus	9794		missing: data agreement established pre-2023	19	WGS	ena_only	
+PRJNA1188079	cow			China:Shanxi	848	AMPLICON	pubmed	40671160
+PRJEB61039					115	AMPLICON	ena_only	
+PRJNA773596	Homo sapiens	9606		China:Hohhot	83	WGS	ena_only	
+PRJDB3601	Homo sapiens	9606			255	WGS	ena_only	
+PRJNA973216	BALB/c mice			China:Hunan,Changsha	12	AMPLICON	pubmed	38441977
+PRJEB22710					52	WGS	ena_only	
+PRJNA601052	Leghorn chicken			USA: Wooster, Ohio	130	WGS	ena_only	
+PRJEB76409	Mus musculus			USA;USA:CA	32	WGS	ena_only	
+PRJNA844176	Sus scrofa	9823		China: Sichuan	15	WGS	ena_only	
+PRJEB26961	Sus scrofa domesticus	9825		Denmark	220	WGS	ena_only	
+PRJEB40990	Salmo salar	8030		Norway	16	WGS	pubmed	33990699
+PRJNA590350	missing			missing	58	AMPLICON	pubmed	31880067
+PRJNA1104620	Equus caballus	9796		Canada: Sable Island, Nova Scotia	95	AMPLICON	pubmed	39039075
+PRJNA1179404	Sus scrofa	9823		China	8	RNA-Seq	pubmed	40565336
+PRJNA1135945	Homo sapiens	9606		China:Nanchang	157	WGS	pubmed	41439481
+PRJNA1119245	Jinhua sow			missing	18	AMPLICON	pubmed	40400039
+PRJNA998458	Lynx rufus			USA: Jacksonville Zoological Gardens, Jacksonville, Florida.	3	WGS	ena_only	
+PRJNA996880	mouse_1;mouse 1			China: Beijing	419	WGS	ena_only	
+PRJDB15258	feces metagenome			Japan:Fukui, Mikatakaminaka-gun, Wakasa-cho, Torihama shell mound ruins	4	WGS	ena_only	
+PRJNA731973	Gallus gallus	9031		China: Pingliang	12	WGS	pubmed	38780275
+PRJEB14215				Italy	73	WGS	pubmed	33962692
+PRJDB8879	Homo sapiens	9606		South Korea	100	AMPLICON	ena_only	
+PRJEB12449				USA	110	WGS	pubmed	35440042
+PRJNA757473	mouse			China: Shanghai	24	AMPLICON	pubmed	38647315
+PRJEB14699					367	WGS	ena_only	
+PRJEB51635			human-gut	Denmark	148	WGS	ena_only	
+PRJNA877780	Mus musculus feces			China:luoyang	15	WGS	ena_only	
+PRJNA613182	Mus musculus	10090			90	WGS	pubmed	35262396
+PRJNA720618	piglet			China:wuhan	6	AMPLICON	pubmed	34277753
+PRJNA1062568	feces metagenome			China:Qingdao	10	WGS	ena_only	
+PRJNA1108021	Gallus gallus domesticus			Canada: Alberta	140	AMPLICON	pubmed	41451983
+PRJDB36905	Homo sapiens			missing: data agreement established pre-2023	42	WGS	ena_only	
+PRJNA397112	Homo sapiens	9606		India:Kasaragod	110	WGS	pubmed	30698687
+PRJNA1027632	Gallus gallus subsp domesticus			United Kingdom	197	WGS	ena_only	
+PRJNA884819	Cervus elaphus				6	AMPLICON	pubmed	38229330
+PRJNA1289129	Rattus norvegicus	10116		Turkey: Eastern Anatolia Region	4	WGS	pubmed	41714980
+PRJEB34270	fish gut metagenome				8	WGS	ena_only	
+PRJNA770101	Homo sapiens	9606		China:Huhhot	71	WGS	ena_only	
+PRJNA1063604	Rattus norvegicus			missing	14	RNA-Seq	pubmed	41676120
+PRJNA913183	Homo sapiens	9606		USA: Orlando	119	WGS	ena_only	
+PRJNA577063	Oreochromis niloticus	8128		Colombia: Llanos and Atlantic	4	WGS	pubmed	35889095
+PRJNA1069864	Lacticaseibacillus rhamnosus			China:Ningbo	1	AMPLICON	pubmed	40558396
+PRJNA532645	Homo sapiens	9606		Israel	204	AMPLICON	pubmed	39947133
+PRJNA542998	mice			China	201	WGS	pubmed	33382948
+PRJNA881338	Homo sapiens	9606		Nepal	34	OTHER	pubmed	40204742
+PRJNA599288	missing			China:Hangzhou	12	WGS	pubmed	35499050
+PRJEB55713				South Korea	55	WGS	ena_only	
+PRJNA673878	Gallus gallus	9031		Poland: Wroclaw	5	WGS	ena_only	
+PRJEB76659	Phoca vitulina			Netherlands	30	WGS	pubmed	40702575
+PRJNA847183	Homo sapiens	9606		Belgium:Ghent,L1B	24	WGS	ena_only	
+PRJNA576784	Panthera tigris altaica	74533		missing	35	AMPLICON	pubmed	32793154
+PRJNA1217868	Sus scrofa	9823		USA: North Carolina, Raleigh	24	WGS	ena_only	
+PRJNA798875	broiler			China:Jiaxing	2	WGS	ena_only	
+PRJEB67586				Denmark	167	WGS	ena_only	
+PRJEB101960				Latvia	107	WGS	ena_only	
+PRJNA1402480					12	RNA-Seq	pubmed	41925227
+PRJEB58157			human-gut	France	270	WGS	ena_only	
+PRJNA354635	Mus musculus	10090		USA: Ann Arbor	4	RNA-Seq	pubmed	29950381
+PRJNA985145	Sus scrofa	9823		China: Guangdong	235	AMPLICON	pubmed	37957747
+PRJEB38953	Oncorhynchus mykiss				22	AMPLICON	pubmed	33389354
+PRJNA974556	Mus musculus	10090		Hong Kong	52	WGS	ena_only	
+PRJNA883557	Rattus norvegicus	10116		China: Zunyi	20	WGS	pubmed	36824263
+PRJNA1199800	Canis lupus familiaris				30	WGS	pubmed	40702553
+PRJNA400072	Homo sapiens	9606		USA	220	WGS	pubmed	31316056
+PRJNA792486	Black goat			China:Hainan	45	WGS	ena_only	
+PRJNA1030210	Bos taurus	9913		United Kingdom	35	AMPLICON	ena_only	
+PRJDB36557	Corvus macrorhynchos	36249		missing: data agreement established pre-2023	7	WGS	ena_only	
+PRJEB33338					25	WGS	pubmed	33868800
+PRJNA267179	Petaurista alborufus lena			Taiwan: Alishan National Scenic Area	1	RNA-Seq	pubmed	29354108
+PRJEB42631	Bos taurus				110	OTHER	pubmed	38217406
+PRJNA416199	mudskipper1			missing	12	WGS	ena_only	
+PRJEB46788					1000	WGS	ena_only	
+PRJEB33396	pig metagenome				280	AMPLICON	pubmed	34454628
+PRJNA312048	Sus scrofa	9823		China: Nanchang	6	WGS	ena_only	
+PRJNA627251	Bos taurus	9913		USA: Nebraska	16	WGS	pubmed	39505912
+PRJEB3374	Mus musculus	10090		China	4	AMPLICON	ena_only	
+PRJDB7630	Homo sapiens	9606		Japan:Hyogo kobe	40	WGS	ena_only	
+PRJNA917118	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA663646	Homo sapiens	9606		missing	20	WGS	ena_only	
+PRJNA546499	insect metagenome			Italy: Ancona	10	AMPLICON	pubmed	31821372
+PRJEB81807				South Korea	8	WGS	ena_only	
+PRJEB74236				China	118	WGS	ena_only	
+PRJNA757579	mouse			China:Hohhot	162	WGS	ena_only	
+PRJNA532302	Mouse			South Korea	18	AMPLICON	pubmed	33317254
+PRJNA1076075	Aldabrachelys gigantea	167804		Seychelles: Curieuse	54	AMPLICON	pubmed	40520638
+PRJEB33536					9	WGS	ena_only	
+PRJEB108722	Mus musculus	10090	UBERON:feces	USA;USA:CA:San Diego	80	WGS	ena_only	
+PRJNA46305	unidentified;human metagenome				92	AMPLICON	pubmed	29692798
+PRJNA340908	Gallus gallus	9031		China:Harbin	29	WGS	ena_only	
+PRJNA660549	chicken gut metagenome			China:Chongqing	12	WGS	ena_only	
+PRJEB21827					12	WGS	ena_only	
+PRJNA690892	Camelus bactrianus ferus			China: Gansu	13	WGS	ena_only	
+PRJNA769975	Mus musculus				15	AMPLICON	pubmed	35154087
+PRJEB40559					28	AMPLICON	pubmed	33329584
+PRJNA601807	Microhyla fissipes	387934		China: Sichuan	10	WGS	pubmed	32194513
+PRJEB75763				China	3	WGS	ena_only	
+PRJNA997718	Trachypithecus francoisi	54180		China	13	WGS	pubmed	38033571
+PRJNA925857	Canis lupus familiaris	9615		USA:KS,Topeka	226	WGS	pubmed	39394961
+PRJEB60928	chicken gut metagenome				411	AMPLICON	ena_only	
+PRJNA483255	Suhuai suckling piglet			China: Huaian	1	WGS	ena_only	
+PRJEB86261	Sus scrofa	9823	Caecum	Norway	1000	WGS	ena_only	
+PRJEB34992			human-gut		144	WGS	pubmed	33771219
+PRJNA1108201	broiler			China:JiaXing	76	AMPLICON	ena_only	
+PRJNA1225188	Homo sapiens				63	WGS	ena_only	
+PRJNA961946	child			China:Shijiazhuang	29	WGS	ena_only	
+PRJNA753017	Bovine			China:Bengbu	1	AMPLICON	pubmed	39409842
+PRJDB4525	Homo sapiens	9606		Japan:Fukuoka	36	WGS	ena_only	
+PRJNA742232	feces metagenome			China	1	AMPLICON	pubmed	38916334
+PRJNA1090271	missing			India: Karnataka, Manipal	86	WGS	pubmed	39553288
+PRJEB30419	Mus musculus				55	AMPLICON	pubmed	31191488
+PRJNA726842	Macaca mulatta			China	7	WGS	pubmed	35141306
+PRJNA847753	seagull			China: Yunnan	8	WGS	pubmed	37208617
+PRJEB74255	Mus musculus	10090		Germany	264	AMPLICON	ena_only	
+PRJNA852373	Homo sapiens			Taiwan	5	WGS	ena_only	
+PRJNA401977				China	145	WGS	pubmed	37684563
+PRJEB79352	Gallus gallus			United Kingdom	240	WGS	pubmed	39881387
+PRJEB35587				Canada	114	AMPLICON	pubmed	39947133
+PRJNA1228986	Gallus gallus	9031		China:yangling	34	WGS	ena_only	
+PRJEB21612				China	117	WGS	pubmed	38156010
+PRJNA1268758	Gallus gallus domesticus			Jordan: Irbid	24	WGS	ena_only	
+PRJNA884648	Gallus gallus	9031		USA: Ohio	313	AMPLICON	pubmed	36846268
+PRJEB66719				Taiwan	306	WGS	pubmed	39722590
+PRJNA1214037	Sus scrofa	9823		Spain	144	WGS	pubmed	41044758
+PRJEB14410				Netherlands	2	WGS	ena_only	
+PRJNA431482	Homo sapiens	9606		China:Chongqing	76	WGS	pubmed	30077182
+PRJNA1141889	Gallus gallus	9031		Kazakhstan: Petropavl	10	WGS	pubmed	40486234
+PRJNA986525	Mus musculus	10090		USA: Nashville	17	WGS	ena_only	
+PRJEB36943				Canada	90	WGS	ena_only	
+PRJNA1023249	Capra hircus			USA: California	3	WGS	ena_only	
+PRJNA1036376	Gallus gallus	9031		China: Ya'an	70	WGS	ena_only	
+PRJNA796167	Mus musculus	10090		China: Rongchang	1	AMPLICON	pubmed	38916334
+PRJEB41786			human-gut	Denmark	150	WGS	ena_only	
+PRJNA902000	5xFAD (B6.Cg-Tg(APPSwFlLon;PSEN1*M146L*L286V)6799Vas/Mmjax;Stock number 34848-JAX;MMRRC);5xFAD			USA: Irvine, California	236	WGS	pubmed	36468884
+PRJNA825132	shrimp			China	3	WGS	ena_only	
+PRJEB64019	feces metagenome			France	267	AMPLICON	ena_only	
+PRJEB2054					124	WGS	pubmed	27388460
+PRJNA779106	piglet			China:Hohhot	236	WGS	ena_only	
+PRJDB11444	Homo sapiens	9606		Japan	306	AMPLICON	ena_only	
+PRJEB87208	Gallus gallus			Greece	2	AMPLICON	pubmed	40731980
+PRJNA358755	Panda	212257		China: wolong	207	WGA	pubmed	31635158
+PRJEB41323	Gallus gallus	9031	Caecum content	Spain	210	WGS	ena_only	
+PRJNA884655	Cervus elaphus				41	AMPLICON	pubmed	38229330
+PRJNA678871	Homo sapiens	9031		China: Shandong	152	WGS	pubmed	37563495
+PRJEB82955	chicken gut metagenome			Netherlands	180	OTHER	pubmed	41527156
+PRJNA806371	Danio rerio	7955		China:Shanghai	5	WGS	ena_only	
+PRJNA785327	Bacillota			China: Chengdu	10	AMPLICON	pubmed	36474293
+PRJNA972320	Ovis aries	9940		China	320	WGA	pubmed	38845047
+PRJNA744273	Aspidoscelis sonorae				65	RAD-Seq	pubmed	36221927
+PRJNA574851	Macaca mulatta	9544		China:Kunming,Yunnan-Kweichow Plateau	10	WGS	pubmed	34475403
+PRJNA338082	Polypedates megacephalus	68449		Taiwan	2	AMPLICON	pubmed	28155661
+PRJEB56784	Homo sapiens	9606	UBERON:feces	USA:CA: San Diego	382	AMPLICON	ena_only	
+PRJEB11755	pig gut metagenome			Denmark	295	WGS	pubmed	32038603
+PRJNA294605	Homo sapiens			USA: Pittsburgh, PA	11	WGS	pubmed	38882494
+PRJNA298736	Gallus gallus	9031		Italy	13	WGS	ena_only	
+PRJEB37572	Mus musculus	10090			86	WGS	ena_only	
+PRJEB22343	pediatric patients				10	AMPLICON	pubmed	32743520
+PRJNA408025	Sus scrofa	9823			114	AMPLICON	ena_only	
+PRJNA890753	Mus musculus				12	OTHER	pubmed	41439237
+PRJNA855329	host333			China: gaozhou	363	AMPLICON	ena_only	
+PRJNA1293880					29	WGS	pubmed	41925227
+PRJNA678365	Homo sapiens			Bangladesh:Tongi	32	AMPLICON	ena_only	
+PRJNA733893	Salmo salar				63	AMPLICON	pubmed	41700855
+PRJNA779384	Mus musculus	10090		USA: Rutgers University	16	AMPLICON	pubmed	35158041
+PRJNA590026	Homo sapiens	9606		China:Hainan province	78	OTHER	pubmed	34193290
+PRJDB36334	Cervus albirostris	1088058		missing: data agreement established pre-2023	114	WGS	ena_only	
+PRJNA699146	Homo sapiens	9606		China:Beijing	48	WGS	ena_only	
+PRJNA855286	Suidae	9821		China: Ningxiang	30	WGS	ena_only	
+PRJNA1293833	Bos taurus	9913		China:Guiyang	39	WGS	pubmed	41588320
+PRJNA791695	Sus scrofa	9823		China:Changsha	24	AMPLICON	pubmed	41877288
+PRJNA1298367	Homo sapiens	9606		missing	104	WGS	pubmed	41585377
+PRJEB39685	Meleagris gallopavo	9103		Germany	132	WGS	ena_only	
+PRJNA235974	Apis cerana			South Korea: Seoul	12	RNA-Seq	pubmed	32531278
+PRJEB102366	chicken gut metagenome			United Kingdom	72	WGS	ena_only	
+PRJNA1269114	Sus scrofa	9823		USA	13	WGS	ena_only	
+PRJDB16790	Homo sapiens	9606		Japan	428	WGS	ena_only	
+PRJNA795830	mouse				20	RNA-Seq	pubmed	37774039
+PRJNA494824	Homo sapiens	9606		USA	71	WGS	pubmed	32138779
+PRJEB20054				Ireland	118	AMPLICON	pubmed	29719871
+PRJNA763692	Homo sapiens			China	1000	WGS	pubmed	41068119
+PRJNA907943	Petaurus gracilis	122273		Australia	112	AMPLICON	ena_only	
+PRJNA386685	Mytilus edulis			USA: Groton, Connecticut	36	AMPLICON	pubmed	33980678
+PRJNA624223	Homo sapiens	9606		missing	73	WGS	pubmed	32442562
+PRJNA598094	Apis cerana japonica	292787		Japan:Chiba	40	WGS	pubmed	32531278
+PRJNA919082	Homo sapiens				64	WGS	ena_only	
+PRJNA1040026	ICR mouse			South Korea: Jeongeup-si	20	RNA-Seq	pubmed	39318427
+PRJNA772305	Danio rerio	7955		USA	8	RNA-Seq	pubmed	37304849
+PRJDB7378	Homo sapiens	9606		Japan	50	WGS	ena_only	
+PRJNA1091038	Dama dama	30532		Hungary: Tamsi	15	WGS	pubmed	41966829
+PRJNA906278	Sus scrofa			China:Beijing	72	AMPLICON	pubmed	37777765
+PRJEB39605					3	AMPLICON	pubmed	32817384
+PRJNA415307	Mus musculus	10090		USA: Michigan, Ann Arbor, UM BSRB	9	WGS	pubmed	29950381
+PRJEB6070	Homo sapiens			France	350	WGS	pubmed	35440042
+PRJDB1664	Homo sapiens				346	AMPLICON	pubmed	25703686
+PRJNA825732	Anguilla anguilla	7936		France: Pas-du-Bouc	50	WGS	ena_only	
+PRJEB60740	Mus musculus	10090	UBERON:feces	USA:CA: San Diego	988	WGS	ena_only	
+PRJDB20772	Mus musculus	10090		Japan:Tokyo	8	WGS	ena_only	
+PRJNA590320	Mus musculus	10090		South Korea	60	AMPLICON	pubmed	32704056
+PRJNA694651	Syncerus caffer			South Africa: Kruger National Park	498	AMPLICON	pubmed	33859184
+PRJNA855128	feces metagenome				26	WGS	ena_only	
+PRJNA374522	fish gut metagenome			Chile: Coquimbo	8	WGS	ena_only	
+PRJNA1280790	seawater metagenome			China: Guangdong	24	WGS	ena_only	
+PRJNA880353	Equus caballus	9796		Canada: Sable Island, Nova Scotia	86	WGS	pubmed	39039075
+PRJNA1030990	mouse			China	28	WGS	pubmed	39789436
+PRJNA1126601	Bostaurus			China:Shanxi	981	AMPLICON	pubmed	40388308
+PRJNA908214	domestic Feline			China	48	AMPLICON	pubmed	37428087
+PRJNA1078999	Homo sapiens	9606		China: Guangdong	194	WGS	ena_only	
+PRJNA1243703	lamb			China: Inner Mongolia	1	AMPLICON	pubmed	41514203
+PRJEB22481					122	WGS	ena_only	
+PRJNA981100	Sus scrofa	9823		Spain	48	WGS	ena_only	
+PRJEB27928				Germany	82	WGS	pubmed	33504116
+PRJNA496479	Homo sapiens	9606		USA:Oregon	40	WGS	pubmed	31964729
+PRJNA589661	Migratory birds: bar-headed geese			China: Qinghai Lake	9	WGS	ena_only	
+PRJNA1151674	Homo sapiens			Japan: Osaka	71	WGS	pubmed	39693209
+PRJNA808881	Lactiplantibacillus plantarum			Italy	47	WGS	pubmed	36575413
+PRJNA834577	Gallus gallus	9031		Australia	167	AMPLICON	pubmed	35773309
+PRJNA795271	mouse			China:hangzhou	61	AMPLICON	pubmed	37774039
+PRJEB18627				USA	18	WGS	ena_only	
+PRJNA503784	Gallus gallus	9031		India:Nasik	128	RNA-Seq	ena_only	
+PRJEB76898	Podarcis muralis	64176		Spain	940	WGS	pubmed	41784373
+PRJEB65106					111	AMPLICON	pubmed	41768933
+PRJNA1244782	Ovis aries				16	OTHER	pubmed	41872905
+PRJNA717910	Korean quail			China: Nanchang	10	WGS	ena_only	
+PRJNA1171501	mouse			Taiwan: Taichung	22	WGS	pubmed	41634410
+PRJEB82952	chicken gut metagenome			Netherlands	72	WGS	ena_only	
+PRJNA628114	Mus musculus	10090		China:Nanjing	42	WGS	ena_only	
+PRJNA658643	Gallus gallus	9031		China:Yangzhou	9	WGS	ena_only	
+PRJNA646934	pig B6			China: Anhui Province	14	WGS	ena_only	
+PRJNA255875	Sus scrofa domesticus	9825		France: SAINT-GENES-CHAMPANELLE	16	WGS	ena_only	
+PRJNA788462	Sus scrofa	9823		USA:Minnesota	216	WGS	pubmed	35922873
+PRJNA656000	Pig P1			China: Chengdu	6	WGS	ena_only	
+PRJNA1069862	Musca domestica	7370		China:Fuzhou	8	AMPLICON	pubmed	39030691
+PRJEB30661	fish gut metagenome			India	2	WGS	pubmed	32787773
+PRJNA847006	Sus scrofa	9823		China:Guangxi	60	WGS	pubmed	37049457
+PRJNA656071	Mus musculus	10090		South Korea	38	AMPLICON	pubmed	33604305
+PRJNA390646	Homo sapiens	9606		USA:Davis,CA	750	AMPLICON	pubmed	38882494
+PRJNA675447	Mus musculus C57BL/6J			Spain:Alicante	16	AMPLICON	pubmed	33758301
+PRJEB25227					60	WGS	ena_only	
+PRJNA801645	Sus scrofa	9823		Canada: Quebec	12	WGS	ena_only	
+PRJEB32790				Singapore	280	WGS	ena_only	
+PRJEB40424					323	WGS	ena_only	
+PRJDB10675	Homo sapiens	9606		India	53	RNA-Seq	ena_only	
+PRJDB36191	Mus musculus	10090		missing: data agreement established pre-2023	20	WGS	ena_only	
+PRJNA871932	duck			China:lanxi	119	AMPLICON	pubmed	40294554
+PRJNA741822	Homo sapiens	9606		China:Shandong	123	WGS	ena_only	
+PRJNA1389899	Gallus gallus	9031		China: Wuhan	18	WGS	ena_only	
+PRJNA1273701	Sprague-Dawley rats				36	WGS	pubmed	41289310
+PRJEB101827	Gallus gallus domesticus	9031		India	120	WGS	ena_only	
+PRJNA859374	rat			China: Xi'an	16	WGS	ena_only	
+PRJNA688070	Gallus gallus	9031		USA: Athens, GA	2	Hi-C	ena_only	
+PRJNA899060	Sus scrofa domesticus	9825		USA	57	WGS	ena_only	
+PRJNA539906	Alligator sinensis	38654		China:Zhejiang,Changxing	14	AMPLICON	pubmed	31708889
+PRJNA825121	shrimp			China	3	WGS	ena_only	
+PRJEB57876					62	AMPLICON	ena_only	
+PRJNA506751	fish gut metagenome			India: Odisha	1	WGS	ena_only	
+PRJNA1356556	environment			China: Tangshan City, Hebei Province	28	WGS	ena_only	
+PRJEB56919				Spain	303	AMPLICON	ena_only	
+PRJNA1006089	feces metagenome			China: Xinjiang, Changji	169	WGS	ena_only	
+PRJNA732472	Mus musculus C57BL/6			Ireland: Cork	146	OTHER	pubmed	37528457
+PRJNA1339042	Gallus gallus	9031		Czechia	2	RNA-Seq	pubmed	41841524
+PRJNA943112	Gallus gallus	9031		China	24	OTHER	pubmed	40895792
+PRJNA794972	fish gut metagenome			China: Xinxiang	1	WGS	ena_only	
+PRJNA613834	Homo sapiens	9606		USA	76	WGS	ena_only	
+PRJNA1073535	Macaca fascicularis	9541		Canada: Kingston	62	AMPLICON	pubmed	39538341
+PRJNA1088536	Bos taurus	9913		USA	112	WGS	pubmed	39030654
+PRJNA384716	Homo sapiens	9606		Finland: Turku	96	WGS	pubmed	38882494
+PRJNA892774	Mus musculus	10090		China:Lanzhou	26	WGS	pubmed	37355675
+PRJDB16312	Homo sapiens	9606		Japan	30	WGS	ena_only	
+PRJNA843783	Sus scrofa	9823		China: Nanjing	45	WGS	pubmed	40083031
+PRJNA844935	Mus musculus	10090		missing	16	WGS	pubmed	37102874
+PRJNA689655	Sus scrofa domesticus	9825		China: Guangxi	42	WGS	ena_only	
+PRJNA1009013	Homo sapiens	9606		Germany: Thuringia	1	WGS	pubmed	40797302
+PRJEB58786					389	AMPLICON	ena_only	
+PRJNA563204	rat			China:Hohhot	192	WGS	ena_only	
+PRJNA660265	Nasonia giraulti			USA	8	WGS	pubmed	33824199
+PRJNA665253	Sus scrofa	9823		Canada: Edmonton	191	WGS	ena_only	
+PRJDB4176	Homo sapiens	9606		Japan	645	WGS	ena_only	
+PRJNA1332145	Sus scrofa	9823		China: Zoucheng, Shandong Province	112	WGS	ena_only	
+PRJNA929077	Rhinopithecus roxellana	61622		China:Foping	96	AMPLICON	pubmed	36860485
+PRJNA1145661	Mus musculus	10090		Japan: Osaka, Suita	22	RNA-Seq	pubmed	39693209
+PRJEB56022	feces metagenome				312	WGS	ena_only	
+PRJNA788958	Equus caballus	9796		USA: Florida	135	WGS	pubmed	36908513
+PRJEB42282	feces metagenome			USA	128	WGS	ena_only	
+PRJEB57228				Germany	44	WGS	ena_only	
+PRJNA937780	Ovis aries	9940		China:Ningxia	22	WGS	pubmed	37936065
+PRJDB33192	Homo sapiens	9606		missing: data agreement established pre-2023	51	WGS	ena_only	
+PRJNA732391	Apis mellifera	7460		Brazil: PARAIBA,AREIA	45	AMPLICON	pubmed	39939365
+PRJNA373834	Sus scrofa	9823		Germany: Berlin	22	WGS	ena_only	
+PRJEB47613	Gallus gallus	9031	Caecum content	Spain	47	WGS	ena_only	
+PRJDB16532	Homo sapiens	9606		Japan	118	AMPLICON	ena_only	
+PRJDB16167	Mus musculus	10090		Japan:Ibaraki, Tsukuba, Tsukuba University	9	WGS	ena_only	
+PRJNA942468	HV001_G05_0464_BDME190634659-1a_HMJH7DSXX_L1;HV001 G05 0464 BDME190634659-1a HMJH7DSXX L1			Netherlands	517	WGS	pubmed	39947133
+PRJNA1301039	Gallus gallus	9031		China:Lintao	48	WGS	ena_only	
+PRJNA1073587	Ailuropoda melanoleuca	9646		China:Chengdu	6	WGS	pubmed	41925227
+PRJNA1168499	Mus musculus	10090		USA:Michigan	1000	AMPLICON	pubmed	40454811
+PRJEB33219					53	WGS	ena_only	
+PRJNA1099794	Gallus gallus			China:Qingdao	56	WGS	pubmed	40859157
+PRJNA417359	Gallus gallus	9031		China:Hunan	495	WGS	pubmed	33868800
+PRJEB53667	chicken gut metagenome		intestine	USA	48	WGS	ena_only	
+PRJNA769425	Sus scrofa domesticus	9825		Thailand	18	WGS	ena_only	
+PRJNA176003	Mouse			USA: Iowa	1	WGS	pubmed	33627510
+PRJNA622417	rat			India:Tamilnadu,Vellore	4	WGS	ena_only	
+PRJNA612780	Homo sapiens			Pakistan:Peshawar	26	WGS	ena_only	
+PRJEB32644					616	WGS	ena_only	
+PRJNA63661	Homo sapiens			missing	594	WGS	pubmed	38882494
+PRJNA1245445	Bos taurus				144	WGS	pubmed	41304325
+PRJNA964437	Tenualosa ilisha	373995		Bangladesh: Chandpur	18	AMPLICON	pubmed	37747192
+PRJNA917113	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJEB101774	feces metagenome			Germany	79	WGS	ena_only	
+PRJEB22175	feces metagenome				96	WGS	ena_only	
+PRJNA1123460	Homo sapiens	9606		China: Beijing	24	WGS	pubmed	39931490
+PRJNA1031529	Mus musculus	10090		USA: University of Missouri - Columbia, Discovery Ridge	621	AMPLICON	pubmed	39386691
+PRJNA1171181	Siniperca chuatsi	119488		China:Chizhou City	8	WGS	ena_only	
+PRJNA1116530	Bacillota			China:Shandong	15	WGS	pubmed	38895717
+PRJDB37508	Homo sapiens	9606		Japan:Tokyo	470	WGS	ena_only	
+PRJNA1313004	Grus japonensis	30415		China: Jiangsu	1	RNA-Seq	pubmed	41403401
+PRJDB3819	Lagopus muta hyperborea	2969981		Japan: Kanagawa, Yokohama	9	WGS	ena_only	
+PRJNA1017798	Ochotona curzoniae	130825		China:Qinghai	24	WGS	ena_only	
+PRJNA625290	Bos taurus			USA:New Mexico	211	AMPLICON	pubmed	38004740
+PRJNA784369	Mus musculus	10090		South Korea: Seoul, Seoul National University	50	AMPLICON	pubmed	37118698
+PRJDB36534	Ailuropoda melanoleuca	9646		missing: data agreement established pre-2023	190	AMPLICON	ena_only	
+PRJNA597688	Siganus canaliculatus	75042		China:Shantou	2	WGS	ena_only	
+PRJNA801914	piglet			China:Chengde	24	WGS	ena_only	
+PRJNA1428229					18	WGS	pubmed	41787302
+PRJEB62607	feces metagenome			Denmark	25	WGS	pubmed	39300575
+PRJNA732137	Cervus nippon			China:Jiangxi	20	AMPLICON	pubmed	34851181
+PRJNA746114	Homo sapiens	9606		China:Guangzhou	169	AMPLICON	ena_only	
+PRJNA835973	rat			Japan: Kagawa Prefecture	19	WGS	ena_only	
+PRJEB31095	Gadus morhua				102	OTHER	pubmed	31953333
+PRJNA824256	Salmo salar				51	AMPLICON	pubmed	41700855
+PRJNA705799	Macaca fascicularis	9541		Thailand: Saraburi	145	AMPLICON	pubmed	34253790
+PRJNA606765	Propithecus diadema	83281		Madagascar: Ambatovy Conservation Zone	100	AMPLICON	ena_only	
+PRJNA629856	Sus scrofa domesticus			Canada:Lacombe	1000	AMPLICON	pubmed	34812652
+PRJNA635258	mouse			missing	296	AMPLICON	pubmed	33593429
+PRJDB17048	Homo sapiens	9606		Japan	71	WGS	ena_only	
+PRJNA590085	Nymphicus hollandicus	9031		China:Guangdong	145	AMPLICON	pubmed	33980682
+PRJNA1235634					15	RNA-Seq	pubmed	40753152
+PRJDB15798	Homo sapiens	9606		Japan	60	WGS	ena_only	
+PRJNA1090561	Salmo salar			China:Yantai	21	WGS	ena_only	
+PRJNA733600					48	Targeted-Capture	pubmed	34683385
+PRJEB58787					204	WGS	ena_only	
+PRJEB76817	feces metagenome			Spain	271	WGS	ena_only	
+PRJNA853153	Bacillota			China	12	WGS	pubmed	36389176
+PRJEB47609	Gallus gallus	9031	Ileum content	Spain	179	WGS	ena_only	
+PRJNA662107	Homo sapiens	9606		USA	522	WGS	ena_only	
+PRJNA31257	Homo sapiens				1	CLONEEND	pubmed	36915382
+PRJNA1028770	mouse			China:wuhan	16	WGS	ena_only	
+PRJNA990717	chicken gut metagenome			China: Hefei	12	WGS	ena_only	
+PRJNA672868	Sus scrofa	9823		United Kingdom: Sparsholt, Hampshire	5	WGS	ena_only	
+PRJNA1248599	Mus musculus	10090		China:Tianjin	31	AMPLICON	pubmed	40744840
+PRJEB47976	Homo sapiens			Germany	175	WGS	pubmed	35516807
+PRJNA1301879	Microbiology			China:Zunyi	9	AMPLICON	pubmed	40969426
+PRJNA327106	Homo sapiens	9606		USA: Pittsburgh, Magee-Womens Hospital of UPMC	45	WGS	pubmed	38882494
+PRJNA558670	Equus ferus przewalskii			China: Xinjiang	23	AMPLICON	pubmed	32226419
+PRJNA866162	Homo sapiens			USA: Indiana, West Lafayette	283	AMPLICON	ena_only	
+PRJNA820543	Anser anser	8843		China	1	RNA-Seq	pubmed	35923413
+PRJNA1257558	Pantholops hodgsonii	59538			68	WGS	pubmed	41502854
+PRJNA1006504	Gallus gallus	9031		Thailand	2	WGS	pubmed	41539238
+PRJNA1282711	Sus scrofa domesticus	9825		Netherlands:Velddriel	45	WGS	ena_only	
+PRJEB50613	pig gut metagenome			Denmark	62	WGS	ena_only	
+PRJNA987743	Bos indicus	9915		Brazil	104	WGS	pubmed	38163076
+PRJNA1368674	Ailuropoda melanoleuca	9646		China: Sichuan, Dujiangyan Panda Base (CCRCGP)	7	OTHER	pubmed	41751034
+PRJNA1206810	feces metagenome			China:jining	9	WGS	pubmed	40635073
+PRJNA1254282	Rattus norvegicus				27	AMPLICON	pubmed	40376801
+PRJNA718322	Mus musculus	10090			30	WGS	pubmed	35982311
+PRJNA526405	Porcine			Australia: NSW	667	WGS	pubmed	34080630
+PRJNA298737	Gallus gallus	9031		Italy	94	AMPLICON	ena_only	
+PRJNA356809	Lynx lynx			China:guangyuan	77	WGA	pubmed	31635158
+PRJNA1233948					24	RNA-Seq	pubmed	40753152
+PRJNA1222153					493	WGS	pubmed	41547860
+PRJNA555355	Salmo salar	8030		Norway:Inndyr	80	AMPLICON	pubmed	41700855
+PRJNA824056	Neotoma lepida	56216		USA: Utah	263	AMPLICON	pubmed	37915425
+PRJNA1145594	Mus musculus	10090		Japan: Osaka, Suita	30	RNA-Seq	pubmed	39693209
+PRJNA723218	Dairy cattle			missing	144	WGS	pubmed	36670455
+PRJNA874173	Alpha-synuclein transgenic c57bl/10 mice			China:Heilongjiang,Harbin	9	WGS	ena_only	
+PRJNA1119043	Cow			China: Beijing	91	WGS	pubmed	39695983
+PRJNA821230	Felis catus	9685		USA: Auburn	16	WGS	pubmed	36181381
+PRJEB45397					986	WGS	ena_only	
+PRJNA827933	mouse			China:Ningbo	9	WGS	ena_only	
+PRJEB32701	Mus musculus domesticus			USA	136	AMPLICON	pubmed	31141224
+PRJNA772288	Domestic animals			Botswana:Palapye	4	WGS	ena_only	
+PRJNA983744	Mus musculus	10090		China: Zhejiang	18	WGS	ena_only	
+PRJNA549182	Mus musculus	10090		USA: Providence, RI	48	WGS	pubmed	31523007
+PRJNA277984	Bos taurus			USA:CA	558	WGS	pubmed	42106836
+PRJNA637751	Mus	862507		China: Hangzhou	48	AMPLICON	pubmed	33039712
+PRJNA723631	Raphanus sativus	3726		Canada	27	WGS	ena_only	
+PRJNA772743	Mus musculus				234	RNA-Seq	pubmed	36759753
+PRJEB21793					48	WGS	ena_only	
+PRJNA730696	Salmo salar	8030		Norway:Dirdal	139	AMPLICON	pubmed	41700855
+PRJNA237362	Homo sapiens	9606		USA	662	AMPLICON	pubmed	39947133
+PRJNA1083038	Cervus elaphus	9860		China:Inner Mongolia	55	WGS	pubmed	39438539
+PRJNA902684	Rattus	10114		China: Hohhot	110	WGS	ena_only	
+PRJNA1110045	Sus scrofa	9823		China:chuzhou	1	WGS	ena_only	
+PRJEB33889	Mus musculus	10090			24	AMPLICON	pubmed	31978162
+PRJNA1120402	Ailuropoda melanoleuca	9646		China: Wenchuan	28	AMPLICON	pubmed	41971320
+PRJEB10572	mouse				56	WGS	pubmed	33627510
+PRJNA812273	Nomascus hainanus	693984		China: Hainan	1	WGS	ena_only	
+PRJNA1210156	Homo sapiens	9606		Canada	23	AMPLICON	pubmed	40537892
+PRJNA728091	Cow-dung			India: Shantiniketan	7	WGS	ena_only	
+PRJNA1211542	chickens			missing	70	RNA-Seq	pubmed	40266232
+PRJEB25441	Sparus aurata				14	AMPLICON	pubmed	30083467
+PRJNA1146738	Erinaceus amurensis			China: Qingdao, Shandong	13	AMPLICON	pubmed	39703701
+PRJDB9649	Homo sapiens	9606		China	88	WGS	ena_only	
+PRJNA522275	Mus musculus	10090			50	AMPLICON	pubmed	31138751
+PRJNA626062	Homo sapiens	9606		China:Nanjing	54	WGS	ena_only	
+PRJNA552411	Gallus gallus	9031		Ethiopia: Afar	2	WGS	ena_only	
+PRJNA741607	rat			Japan: Kagawa Prefecture	59	WGS	ena_only	
+PRJNA984595	Sus scrofa	9823		Ireland: County Cork	92	WGA	pubmed	38627869
+PRJDB7767	Homo sapiens	9606		Japan	118	WGS	ena_only	
+PRJNA978974	Mus musculus				4	RNA-Seq	pubmed	39420836
+PRJEB18726	Homo sapiens			Arctic Ocean	2	WGS	ena_only	
+PRJNA795867	Rattus norvegicus	10116		China:Shanghai	25	AMPLICON	pubmed	35151255
+PRJNA390475	Homo sapiens	9606		Austria: Graz	51	AMPLICON	pubmed	41644796
+PRJNA1273977	Sus scrofa domestica			United Kingdom:Wincherster	178	WGS	pubmed	41904571
+PRJNA553830	Mus musculus				6	RNA-Seq	pubmed	31905172
+PRJEB40824	Sus scrofa	9823		Poland	6	WGS	pubmed	33270717
+PRJNA1064443	duck			China:Zhejiang	242	OTHER	pubmed	41385957
+PRJNA913689	Larimichthys polyactis	334908			63	WGS	ena_only	
+PRJEB51353				Sweden	1000	WGS	pubmed	36925044
+PRJDB17226	Mus musculus	10090		Japan:Tokyo	10	WGS	ena_only	
+PRJNA999945	missing			missing	1	WGS	ena_only	
+PRJEB52754	Gasterosteus aculeatus	69293	gut content	Iceland	68	WGS	ena_only	
+PRJEB24041				Germany	212	WGS	ena_only	
+PRJEB15341					6	WGS	ena_only	
+PRJNA1137132	Mus musculus	10090		Italy: Genova	36	WGS	pubmed	39478626
+PRJNA974094	Danio rerio	7955			18	WGS	ena_only	
+PRJNA385038	Gallus gallus	9031		China:Wuhan	13	OTHER	pubmed	33868800
+PRJEB18805					395	WGS	ena_only	
+PRJNA825520	Bos taurus	9913		USA: Michigan	159	POOLCLONE	pubmed	38836107
+PRJNA917115	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA1240267	Mus musculus	10090		China:Shanxi	84	AMPLICON	pubmed	41088378
+PRJNA791800	Salvelinus alpinus	8036		Iceland: Reykjavik	130	AMPLICON	pubmed	38745980
+PRJEB66439	Canis lupus familiaris	9615	Intestines	Norway	472	WGS	pubmed	38481663
+PRJEB22765				China	20	WGS	ena_only	
+PRJNA1187897	missing			China:Shanxi	119	WGS	pubmed	40671160
+PRJNA658576	Crassostrea virginica	6565		USA:Ninigret Pond, Rhode Island	99	AMPLICON	pubmed	33980678
+PRJNA1322165	Felis catus	9685		South Korea	40	AMPLICON	pubmed	41040929
+PRJNA848282	Tibetan pigs			China:LinZhi	12	WGS	ena_only	
+PRJNA713764	Sparus aurata	8175		Spain: Burriana	27	AMPLICON	pubmed	37628701
+PRJNA474117	Mus musculus taxid:10090			USA:Midwest,Columbia, MO	596	AMPLICON	pubmed	29973630
+PRJDB38938	Mus musculus	10090		missing: data agreement established pre-2023	18	WGS	ena_only	
+PRJNA844237	RWA-Fecal-Sow1-time1			Not collected	40	WGS	pubmed	36139998
+PRJEB100724	Sus scrofa	9823	Caecum	Denmark	54	WGS	ena_only	
+PRJNA321058	Homo sapiens	9606		USA	53	WGS	pubmed	39947133
+PRJNA1391520	pig gut metagenome			USA: Davis, CA	24	WGS	pubmed	42106836
+PRJNA814825	Equus przewalskii	9798		China: Xinjiang Province	15	WGS	pubmed	35744684
+PRJNA735412	Pig sapiens			missing	20	OTHER	pubmed	34867862
+PRJDB8678	Homo sapiens	9606		Japan:Hyogo kobe	85	AMPLICON	ena_only	
+PRJDB1461					1	WGS	ena_only	
+PRJNA376580	indoor metagenome			USA: Pittsburgh, Pennsylvania Magee Womens Hospital	39	WGS	pubmed	38882494
+PRJNA313232	Homo sapiens	9606		China	14	WGS	pubmed	27388460
+PRJNA662976					48	AMPLICON	pubmed	41700855
+PRJNA821641	Sus scrofa	9823		Ireland: County Cork	77	WGA	pubmed	35950862
+PRJNA730677	Homo sapiens	9606		Israel: Tel-Aviv	70	WGS	ena_only	
+PRJEB15343	Gallus gallus			India	600	AMPLICON	pubmed	41852415
+PRJNA531273	Homo sapiens	9606		India: Bhopal	30	WGS	pubmed	31719139
+PRJEB14935	feces metagenome			United Kingdom	3	WGS	ena_only	
+PRJNA1124013	Ailuropoda melanoleuca	9646		China: Chengdu	22	WGS	pubmed	40442787
+PRJNA1314803	Bos taurus	9913		Canada: Quebec	52	AMPLICON	pubmed	41882801
+PRJDB16698	Mus musculus	10090		Japan:Kyoto	6	WGS	ena_only	
+PRJNA988937	Gallus gallus			China:Guangdong, Zhuhai	35	WGS	ena_only	
+PRJNA389280	Homo sapiens	9606		USA	378	WGS	pubmed	39947133
+PRJEB4336				Denmark	292	WGS	pubmed	37398234
+PRJEB56657	Mus musculus			China	12	RNA-Seq	pubmed	36710967
+PRJNA980747	Mus musculus			USA	12	RNA-Seq	pubmed	38532703
+PRJEB23010					205	WGS	ena_only	
+PRJNA1049649	Harpadon nehereus				6	WGS	ena_only	
+PRJNA720530	Salvelinus alpinus	8036		Iceland: Reykjavik	116	AMPLICON	pubmed	38745980
+PRJNA843999	Mesocricetus auratus	10036		Spain: Madrid	27	AMPLICON	pubmed	36522762
+PRJEB81272	fish gut metagenome			Norway	1000	AMPLICON	ena_only	
+PRJNA1330193	Sus scrofa	9823		China: Guangdong, Guangzhou	45	AMPLICON	pubmed	41227433
+PRJNA1112422	Sus scrofa domesticus	9825		Brazil: Porto Alegre	6	WGS	ena_only	
+PRJNA577421	Homarus gammarus	6707		United Kingdom	1	AMPLICON	pubmed	31676854
+PRJNA1247471					44	WGS	pubmed	41862790
+PRJDB4366	Apostichopus japonicus	307972		Japan:Hokkaido, Kumaishi	23	AMPLICON	pubmed	26905381
+PRJNA726636	southern_sea_otter;southern sea otter	1049777		USA: California	720	AMPLICON	ena_only	
+PRJNA1083497	Mus musculus	10090		USA: University of Missouri, Disovery Ridge, Columbia, MO	147	AMPLICON	pubmed	39679617
+PRJNA657304	Canis lupus familiaris	9615		USA: Illinois, University of Illinois Laboratory of Comparative Nutrition and Nutrigenomics	21	WGS	pubmed	33542301
+PRJNA1245063	Gallus gallus				12	WGS	ena_only	
+PRJEB6905	Mus musculus			United Kingdom	44	AMPLICON	pubmed	28821731
+PRJNA1328842	Sus scrofa	9823		USA: Kansas, Kansas State University Comparative Medicine	1000	AMPLICON	ena_only	
+PRJEB72876	fish gut metagenome			Mediterranean Sea	15	AMPLICON	pubmed	40517265
+PRJNA809837	Homo sapiens	9606		China	1	WGS	pubmed	39496841
+PRJEB30834	feces metagenome		feces	Cameroon	267	WGS	ena_only	
+PRJNA1020867	Sus scrofa domesticus	9825		USA: Clay Center, NE	707	AMPLICON	pubmed	40384785
+PRJNA1073304	mouse			missing	12	AMPLICON	pubmed	39264803
+PRJNA435487	Gallus gallus	9031		India: Anand	10	WGS	ena_only	
+PRJEB4410	Plasmodium falciparum				403	WGS	pubmed	27388460
+PRJNA1175391	Micropterus salmoides	27706			12	WGS	ena_only	
+PRJNA593263	feces metagenome			USA:Birmingham	30	WGS	ena_only	
+PRJNA1375668	Sus scrofa	9823		China:Hunan	24	WGS	ena_only	
+PRJNA1193062				USA:Ohio	323	WGS	ena_only	
+PRJNA553106	Sus scrofa				115	WGS	pubmed	39202331
+PRJNA1282110	Gallus			China:Changsha	384	AMPLICON	pubmed	42019469
+PRJDB10484	Homo sapiens	9606		Japan	102	AMPLICON	ena_only	
+PRJNA898107				China:Wuhan	16	AMPLICON	pubmed	39420836
+PRJNA1082665	canine			USA	767	WGS	pubmed	39394961
+PRJEB89830				Germany	38	WGS	ena_only	
+PRJEB81106				Israel	794	WGS	ena_only	
+PRJNA908260	domestic Feline			China	8	WGA	pubmed	37428087
+PRJNA917095	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA871950	Canis lupus	9612		China: Nei Monggol Autonomous Region	11	AMPLICON	pubmed	36386659
+PRJNA601162	Sus scrofa domesticus	9825		USA: Ohio	62	WGS	pubmed	36346230
+PRJNA428973	Artibeus lituratus	124751		Belize: Orange Walk District, Ka'kabish Archaeological Reserve	51	AMPLICON	pubmed	29765359
+PRJNA383577	Mus musculus	10090		USA	64	AMPLICON	pubmed	29950381
+PRJNA1242249	Moschus berezovskii	68408		China:Hunan	24	WGS	pubmed	40646853
+PRJNA824950	Mus musculus	10090		Singapore	102	AMPLICON	pubmed	36288294
+PRJNA1218713	Sus scrofa	9823		Spain	172	WGS	pubmed	41618383
+PRJNA915408	Mus musculus	10090		USA: University of Missouri	426	AMPLICON	pubmed	37608207
+PRJNA737271	Sus scrofa			Not collected	40	WGS	ena_only	
+PRJNA894152	Homo sapiens	9606		Nicaragua	82	WGS	ena_only	
+PRJNA453374	Bos taurus	9913		USA:Colorado	28	WGS	pubmed	30796295
+PRJEB88329				South Korea	171	WGS	ena_only	
+PRJDB34988	Anas platyrhynchos	8839		missing: data agreement established pre-2023	464	RNA-Seq	ena_only	
+PRJNA575106	dairy				1000	AMPLICON	pubmed	32591006
+PRJNA944612	Sus scrofa domesticus	9825		USA	720	WGS	ena_only	
+PRJNA438833	dairy			USA:Davis,CA	786	AMPLICON	pubmed	31562300
+PRJNA1067373	Sus scrofa	9823		China: Nanjing	1	WGS	ena_only	
+PRJNA780249	Mus musculus	10090		Spain: Valencia	28	RNA-Seq	pubmed	39684246
+PRJNA1003883	Fecal pool P1 from Mus musculus C57BL/6 R1 and mouse R6 of VLPs group at week 17			Mexico:Cuernavaca	49	AMPLICON	pubmed	41348832
+PRJNA453789	Mus musculus taxid:10090			USA:Midwest,Columbia, MO	269	AMPLICON	pubmed	30359379
+PRJDB17852	Homo sapiens	9606		missing	129	WGS	ena_only	
+PRJNA1218236	mouse			missing	16	OTHER	pubmed	40144527
+PRJNA1078280	Mus musculus			missing	38	RNA-Seq	ena_only	
+PRJNA878467	wildlife			China:Guangzhou	1	WGS	ena_only	
+PRJNA650141	Salmo salar	8030		United Kingdom: Machrihanish	167	AMPLICON	pubmed	41700855
+PRJNA325931	Homo sapiens	9606		Colombia: Medellin	112	AMPLICON	pubmed	33039709
+PRJDB6620	Mus musculus	10090		Japan	25	WGS	ena_only	
+PRJNA777737	Ochotona curzoniae	130825		China:Qinghai	26	WGS	ena_only	
+PRJNA953833					369	WGS	pubmed	42121260
+PRJNA917099	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA940065	Mus musculus	10090		USA: Pennsylvania	14	WGS	pubmed	37398234
+PRJEB9357	Felis catus			United Kingdom	88	WGS	pubmed	26659594
+PRJNA1173401	Gallus gallus	9031		China: nanjing	6	WGS	ena_only	
+PRJNA1012496				China:Beijing	12	WGS	pubmed	39080726
+PRJEB83270				United Kingdom	26	WGS	ena_only	
+PRJNA777422	feces metagenome			China:Nanjing	16	WGS	ena_only	
+PRJNA792435	Capra hircus	9925		missing	20	AMPLICON	pubmed	35801115
+PRJEB96078	Mus musculus	10090	UBERON:feces	USA;USA:CA:San Diego	192	WGS	ena_only	
+PRJEB39500					203	WGS	pubmed	37398234
+PRJNA1069863	missing			China:Baoding	20	AMPLICON	pubmed	40151573
+PRJEB60080	Sus scrofa domesticus	9825		France	6	WGS	ena_only	
+PRJEB1391				South Korea	73	AMPLICON	ena_only	
+PRJNA1187854	Bostaurus			China:Shanxi	20	WGS	pubmed	40671160
+PRJNA385949				USA:Boston	262	WGS	pubmed	39947133
+PRJEB38095					513	WGS	ena_only	
+PRJNA290380	Homo sapiens	9606		Russia:Petrozavodsk	785	WGS	pubmed	38882494
+PRJEB48041	Sus scrofa				4	OTHER	pubmed	34676935
+PRJEB74747				Denmark	143	AMPLICON	ena_only	
+PRJNA1064611	Serrasalmus rhombeus			Brazil: Para	8	WGS	pubmed	39277613
+PRJNA1130061	Mus musculus	10090		China: Shanghai	18	AMPLICON	pubmed	41778161
+PRJEB101201	pig gut metagenome			Germany	1000	AMPLICON	pubmed	42111294
+PRJEB39110	Gallus gallus	9031	Caecum content	Spain	70	WGS	ena_only	
+PRJNA945347	Ctenopharyngodon idella	7959		China	36	WGS	pubmed	38167330
+PRJNA1270037	Homo sapiens			Korea: Chuncheon	30	RNA-Seq	pubmed	40995227
+PRJDB15956	Homo sapiens	9606		Japan:Nagoya	167	WGS	ena_only	
+PRJNA384246	Homo sapiens	9606		USA: Boston MA	174	WGS	pubmed	39947133
+PRJNA594642	Mus musculus	10090			40	AMPLICON	pubmed	32723789
+PRJDB36211	Sus scrofa	9823		missing: data agreement established pre-2023	16	WGS	ena_only	
+PRJNA193217	Gallus gallus	9031		United Kingdom: England	1	AMPLICON	pubmed	33868800
+PRJEB90470	Mus musculus			China	6	WGA	pubmed	40661966
+PRJNA1228348	Trachypithecus francoisi	54180		China: Guangxi	77	RNA-Seq	pubmed	41645099
+PRJNA1233322	Mus musculus	10090		USA	80	AMPLICON	pubmed	40235074
+PRJNA543206	Gallus gallus	9031		United Kingdom: Surrey	50	WGS	pubmed	33868800
+PRJNA343584	Megalobrama amblycephala				13	WGS	ena_only	
+PRJNA645511	Gallus gallus	9031		China: Beijing	12	AMPLICON	pubmed	33424783
+PRJEB64334	Salmo salar			Norway	904	WGS	pubmed	38294254
+PRJNA1416482	Mus musculus			China:Xinjiang	4	RNA-Seq	pubmed	41969653
+PRJNA1417531					2	OTHER	pubmed	41969653
+PRJNA779845	Gallus gallus	9031		China:Harbin	80	WGS	pubmed	35250914
+PRJNA843963	Homo sapiens	9606		Ethiopia	263	WGS	ena_only	
+PRJNA734860	Homo sapiens	9606		USA	343	WGS	pubmed	39239875
+PRJNA290729	Homo sapiens	9606		Germany	92	WGS	pubmed	30944520
+PRJNA1067548	mouse			China:Guangdong, Zhuhai	20	AMPLICON	pubmed	38309691
+PRJDB3293	Potamochoerus porcus	273791		Gabon: Nyanga, Mocabe	6	WGS	ena_only	
+PRJNA746242	Oryzias latipes	8090		France: Paris	165	AMPLICON	pubmed	37194081
+PRJNA630144	Martes zibellina	36722		China: dalian	12	WGS	pubmed	32945998
+PRJNA1069876	pig gut metagenome			missing	16	WGS	ena_only	
+PRJNA311136	Pristis pectinata	685728			1	WGS	ena_only	
+PRJNA723283	Anas platyrhynchos				65	WGS	pubmed	39456444
+PRJNA983076	Camelus bactrianus			Germany: Zoo Saarbruecken	67	WGS	ena_only	
+PRJEB32407	Cercopithecus ascanius			Uganda	62	AMPLICON	pubmed	31719654
+PRJNA741980	Sus scrofa	9823		France: Brittany	28	WGA	ena_only	
+PRJNA562600	Homo sapiens	9606		missing	148	WGS	ena_only	
+PRJEB23757	Vibrio cholerae				45	WGS	ena_only	
+PRJNA748109	Gallus gallus	9031		China:shenzhen	5	WGS	ena_only	
+PRJEB103086				Switzerland	25	WGS	ena_only	
+PRJNA733503	Crocuta crocuta	9678		Kenya: Masai Mara National Reserve	317	AMPLICON	pubmed	36533929
+PRJNA684050	Propithecus coquereli	379532		USA: Duke Lemur Center, Durham NC	58	AMPLICON	ena_only	
+PRJNA796172	Sus scrofa	9823		Not collected	48	WGS	ena_only	
+PRJNA984334	Mus musculus	10090			538	AMPLICON	pubmed	37620319
+PRJEB81554	Mus musculus	10090	UBERON:feces	USA;USA:CA:Pasadena	476	WGS	ena_only	
+PRJEB60032	Sus scrofa	9823		France	882	AMPLICON	pubmed	38943206
+PRJDB8987	Macaca fuscata	9542		Japan	27	AMPLICON	ena_only	
+PRJNA1123238	Canis lupus familiaris	9615		USA:Ohio,Columbus	67	WGS	pubmed	39149494
+PRJEB66438	Canis lupus familiaris	9615	Intestines	Norway	33	WGS	pubmed	38481663
+PRJNA889347	Gallus gallus	9031		Thailand	1	AMPLICON	pubmed	41539238
+PRJEB56324					40	WGS	ena_only	
+PRJEB35362					17	WGS	pubmed	32337106
+PRJDB18770	Sus scrofa	9823		Japan	60	WGS	ena_only	
+PRJNA52169	Delftia acidovorans CCUG 15835			missing	1	WGS	pubmed	31404163
+PRJNA790716	Aedes aegypti				35	AMPLICON	pubmed	35208787
+PRJNA947914	Salmo salar	8030		Norway: Dirdal	79	WGA	ena_only	
+PRJDB36846	Mus sp.	10095		missing: data agreement established pre-2023	36	WGS	ena_only	
+PRJDB38623	Naja atra			missing: data agreement established pre-2023	95	RNA-Seq	ena_only	
+PRJNA1062915	Rattus norvegicus	10116		China:Nanjing	12	WGS	pubmed	41676120
+PRJNA1209333	Homo sapiens	9606		China: Guangzhou, Guangdong	1	WGS	pubmed	40862149
+PRJDB5383	Bos taurus	9913		Japan:Kagoshima	3	WGS	ena_only	
+PRJEB60284	Phoca vitulina			Netherlands	917	AMPLICON	pubmed	40702575
+PRJNA643396	Gallus gallus	9031		Spain	181	WGS	ena_only	
+PRJNA932774	mouse			Poland: Warszawa	24	WGA	pubmed	39354675
+PRJDB2695					1	WGS	ena_only	
+PRJNA857725	Sus scrofa domesticus	9825		Canada:Alberta,Lacombe	60	AMPLICON	ena_only	
+PRJNA887229	fish			China: Guangzhou	1	WGS	ena_only	
+PRJNA821505	Gallus gallus	9031		USA: Baltimore	156	WGS	ena_only	
+PRJNA812272	Mus musculus	10090			58	OTHER	pubmed	36321893
+PRJNA436633	Rhinopithecus roxellana	61622		China:Hubei	40	WGS	pubmed	41249177
+PRJEB71469	Danio rerio			Denmark	16	AMPLICON	pubmed	39290662
+PRJNA734005	Crocuta crocuta	9678		Kenya: Masai Mara National Reserve	32	AMPLICON	pubmed	36533929
+PRJEB51815	Salmo salar	8030	Distal gut content	Norway	179	WGS	ena_only	
+PRJEB47458					496	WGS	ena_only	
+PRJNA1227608	Mazzaella japonica				395	WGS	pubmed	42120383
+PRJNA422157	pig gut metagenome			China: Beiyi Township, Chengan County, Handan City, Hebei Province	14	WGS	ena_only	
+PRJNA1224791	Gallus gallus domesticus	9031		USA: Athens, GA	97	WGS	ena_only	
+PRJNA811727	Homo sapiens	9606		China:Hohhot	96	WGS	ena_only	
+PRJEB59610	Canis lupus familiaris	9615		Hungary	215	AMPLICON	ena_only	
+PRJNA783381	sheep101			missing	32	WGS	pubmed	36368924
+PRJEB81273	fish gut metagenome			Italy	1000	AMPLICON	ena_only	
+PRJNA952340	Gallus gallus	9031		Netherlands	96	OTHER	pubmed	38910254
+PRJNA1228539	Trachypithecus francoisi	54180		China: Guangxi	45	WGS	pubmed	41645099
+PRJNA1110616	Larimichthys crocea	215358		China:Zhejiang	24	WGS	pubmed	39820425
+PRJNA1332113	missing			USA	19	AMPLICON	pubmed	41196658
+PRJNA594310	Salmo salar			United Kingdom: Scotland, Farm	297	AMPLICON	pubmed	41700855
+PRJNA380002	Moschidae	30533		China:Helan mountain	37	AMPLICON	pubmed	32038587
+PRJDB20643	Homo sapiens	9606		Japan:Tokyo	5	WGS	ena_only	
+PRJDB17227	Homo sapiens	9606		Japan:Tokyo	52	WGS	ena_only	
+PRJEB83217	Escherichia coli HS			Switzerland	374	WGS	ena_only	
+PRJNA553191	Homo sapiens	9606		Italy: Bologna	62	WGS	pubmed	35875797
+PRJNA511372	Homo sapiens	9606		Japan: Kanazawa	37	AMPLICON	pubmed	31767028
+PRJNA821628	Aquila nipalensis	193005		China: the Wildlife Conservation Center of Baotou,Inner Mongolia,China	38	AMPLICON	pubmed	36003944
+PRJNA683598	Mus musculus	10090		USA: University of Missouri	192	AMPLICON	pubmed	34112927
+PRJNA186441	Bos taurus			missing	996	WGS	pubmed	41304325
+PRJNA1211533	chickens			missing	212	AMPLICON	pubmed	40266232
+PRJNA361402	Homo sapiens	9606		Spain	2	WGS	pubmed	37398234
+PRJNA599289	missing			China:Beijing	40	WGS	pubmed	35499050
+PRJEB55607				United Kingdom	100	WGS	ena_only	
+PRJNA905088	Sus scrofa domesticus	9825		Denmark	5	WGS	pubmed	36922976
+PRJNA909042	missing			missing	21	WGS	ena_only	
+PRJNA594992	Homo sapiens	9606		China: Haikou	4	WGS	pubmed	34193290
+PRJNA1067975	Homo sapiens			missing	104	WGS	pubmed	40366862
+PRJNA1065277	Homo sapiens	9606		China: Hulun Buir	68	WGS	ena_only	
+PRJDB3161	Homo sapiens	9606		Japan:Kanagawa	24	WGS	ena_only	
+PRJEB74482	Mus musculus	10090	UBERON:feces	USA;USA:CO:Boulder	862	WGS	ena_only	
+PRJNA999451				missing	9	WGS	pubmed	39202331
+PRJNA1095217	Anas crecca			Russia: Novosibirsk	2	WGS	ena_only	
+PRJNA977815	mice			China:Beijing	12	AMPLICON	pubmed	40565336
+PRJEB84467	chicken gut metagenome			Germany	435	WGS	ena_only	
+PRJNA815745	Sow			China:Hohhto	222	WGS	ena_only	
+PRJNA1078419	Mus musculus	10090		USA	367	WGS	pubmed	40259344
+PRJEB73330				South Korea	14	WGS	ena_only	
+PRJNA1073453	mouse			missing	16	OTHER	pubmed	39264803
+PRJNA1261602					12	WGS	pubmed	40463374
+PRJNA991623	missing			China: Shanghai	24	WGS	ena_only	
+PRJNA1109516	Canis lupus familiaris	9615		USA:Ohio,Columbus	87	AMPLICON	pubmed	39149494
+PRJNA1254409	pigeon				18	AMPLICON	pubmed	41059035
+PRJNA778431	swine			China:Fujian	12	WGS	ena_only	
+PRJNA1063537	fish gut metagenome			China: Hunan	6	WGS	ena_only	
+PRJNA917120	Canis lupus familiaris	9615		China:Jinhua	11	AMPLICON	pubmed	36992396
+PRJNA983093	Homo sapiens	9606		Malaysia	194	WGS	ena_only	
+PRJNA1190643	Mus musculus	10090		USA: Winston-Salem	63	WGS	pubmed	39843522
+PRJEB33500				Italy	244	WGS	pubmed	32075887
+PRJEB60544	Salmo salar	8030			17	AMPLICON	pubmed	41700855
+PRJNA691798	Mus musculus	10090		USA: Laurel, Maryland	20	WGS	pubmed	33995413
+PRJNA945007	Gallus gallus	9031		Tanzania: Dar es Salaam (Buguruni)	54	WGS	ena_only	
+PRJEB9488				USA	199	AMPLICON	ena_only	
+PRJNA1208715	Sus scrofa	9823		Spain:Girona	60	WGS	ena_only	
+PRJEB25514				Italy	59	WGS	pubmed	35875797
+PRJNA798835	Sus scrofa domesticus	9825		USA	242	AMPLICON	ena_only	
+PRJNA828385	Sus scrofa			China:Nanjing	36	WGS	ena_only	
+PRJEB29127	feces metagenome			Xi'an	171	WGS	ena_only	
+PRJNA870229	duck			China:lanxi	120	AMPLICON	pubmed	40294554
+PRJNA1354224	Sus scrofa	9823		China:Neijiang	24	AMPLICON	pubmed	41311501
+PRJEB37062					87	WGS	pubmed	41648142
+PRJEB46550	Gallus gallus	9031	Caecum content	Spain	344	WGS	ena_only	
+PRJNA809514	feces metagenome			China: Shantou	36	WGS	ena_only	
+PRJNA1127265	Rattus norvegicus	10116		New Zealand: Palmerston North	48	WGS	pubmed	40495477
+PRJDB1800					1	WGS	ena_only	
+PRJNA1136229	Gallus gallus subsp Domesticus			United Kingdom	24	WGS	ena_only	
+PRJNA691978	Sus scrofa	9823		USA: Georgia	61	WGS	ena_only	
+PRJEB86012			mouse-gut	United Kingdom	113	WGS	ena_only	
+PRJNA1067849	Sus scrofa	9823		China:Nanjing	54	WGS	ena_only	
+PRJNA1353630					47	WGS	pubmed	41736978
+PRJDB11394	Anas sp.	42806		Japan:Kagoshima, Izumi, plain	4	WGS	ena_only	
+PRJNA732758	Macaca mulatta	9544		China	20	AMPLICON	pubmed	34837955
+PRJNA1187876	Bos taurus			China:Shanxi	10	RNA-Seq	pubmed	40671160
+PRJNA823879	Sus scrofa				159	RNA-Seq	pubmed	36386940
+PRJNA471592	Apis mellifera			USA	1	WGS	pubmed	32531278
+PRJDB14457	Homo sapiens	9606		Japan:Kanagawa, Atsugi	98	WGS	ena_only	
+PRJNA722129	Homo sapiens	9606		China: Shandong	93	WGS	ena_only	
+PRJEB38174	chicken gut metagenome				340	WGS	ena_only	
+PRJEB104707				Iran	41	WGS	ena_only	
+PRJNA891255	Sparus aurata				20	AMPLICON	pubmed	37628701
+PRJEB29264	rat gut metagenome			Italy	23	AMPLICON	pubmed	31417524
+PRJNA940650	chicken gut metagenome			China: Kunming	13	WGS	ena_only	
+PRJNA637365	Homo sapiens	9606		Israel: Tel-Aviv	118	WGS	ena_only	
+PRJNA778925	feces metagenome			China: Lanzhou	27	WGS	ena_only	
+PRJNA693345	Homo sapiens	9606		USA: La Jolla, California	1	WGS	pubmed	33637779
+PRJEB102561	human feces metagenome			France	28	AMPLICON	pubmed	41439190
+PRJEB12669				China	19	WGS	ena_only	
+PRJNA868520	Sus scrofa f. domestica			China: Tongcheng County, Xianning City, Hubei Province	239	AMPLICON	pubmed	36204621
+PRJEB68161	pig gut metagenome			Italy	294	WGS	ena_only	
+PRJNA933177	Equus caballus	9796		USA: Georgia	8	AMPLICON	pubmed	38338088
+PRJEB10338					8	WGS	pubmed	32473013
+PRJEB103841	Brachybacterium sp.			Norway	11	WGS	pubmed	41700855
+PRJNA1163029	hamster			China	18	OTHER	pubmed	39431056
+PRJEB66261	Pycnoscelus surinamensis	36961		Denmark	62	WGS	pubmed	38095429
+PRJEB73590	Escherichia coli	562		Ethiopia	519	WGS	ena_only	
+PRJEB6456				Denmark	400	WGS	pubmed	27388460
+PRJDB13214	Homo sapiens	9606		Japan	208	WGS	ena_only	
+PRJNA917103	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA296814	Homo sapiens	9606		USA: New Hampshire, Lebanon	921	AMPLICON	pubmed	32968156
+PRJDB38851	Corvus dauuricus	477934		missing: data agreement established pre-2023	12	WGS	ena_only	
+PRJDB39249	missing			missing: data agreement established pre-2023	8	WGS	ena_only	
+PRJNA847605	Leontopithecus rosalia	30588		Brazil	21	OTHER	pubmed	37735195
+PRJNA486795	Homo sapiens	9606		China	44	WGS	pubmed	37398234
+PRJEB74702	Mus musculus	10090	feces	United Kingdom	24	WGS	ena_only	
+PRJNA1146925	Mus musculus			Japan: Osaka, Suita	32	WGS	pubmed	39693209
+PRJDB19991	Homo sapiens	9606		Japan:Tokyo	40	WGS	ena_only	
+PRJDB38848	Corvus dauuricus	477934		missing: data agreement established pre-2023	12	WGS	ena_only	
+PRJNA344006	Paralichthys olivaceus				1	CLONEEND	pubmed	36879316
+PRJNA1285067	Gallus gallus domesticus			USA: Mississippi, Mississippi State	418	AMPLICON	pubmed	41619482
+PRJNA685168	Homo sapiens	9606		USA: Boston	114	WGS	pubmed	39947133
+PRJNA1050657	Chroicocephalus ridibundus	1192867		China: Kunming	5	WGS	ena_only	
+PRJNA947193	Homo sapiens	9606		USA: Orlando	44	WGS	ena_only	
+PRJNA661076	Bos taurus	9913		South Africa: Lokaleng Village, Mahikeng	2	WGS	ena_only	
+PRJNA917023	mouse			China	12	AMPLICON	pubmed	37788279
+PRJNA1061085	Duzang pigs			China: Yunnan	9	WGS	pubmed	40094563
+PRJEB68194	Mus musculus			Spain	54	AMPLICON	pubmed	38068802
+PRJNA793776	Homo sapiens				130	WGS	pubmed	39152482
+PRJNA528960	Homo sapiens	9606		USA	133	WGS	ena_only	
+PRJEB76066	Mus musculus			Germany	771	WGS	ena_only	
+PRJNA482836	Piaractus mesopotamicus	42528		Brazil	29	WGS	ena_only	
+PRJNA1293113	Ctenopharyngodon idella	7959		China: Guangdong	24	AMPLICON	pubmed	41391055
+PRJNA1014131	Manis javanica	9974		China:Shenzhen	16	WGS	ena_only	
+PRJNA1161368	Bostaurus			China:Shanxi	60	WGS	pubmed	40388308
+PRJNA924981	Gallus gallus	9031		China: Nanjing	15	WGS	ena_only	
+PRJNA1084102	Mus musculus	10090		China:Xi'an	70	WGS	pubmed	39592438
+PRJEB57911				China	58	WGS	ena_only	
+PRJNA917097	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJEB18652	artificial			United Kingdom	39	WGS	pubmed	28720731
+PRJNA982394	Tachysurus fulvidraco	1234273		China:Wuhu	9	WGS	ena_only	
+PRJEB81356	Capreolus capreolus	9858		Germany	27	WGS	pubmed	40102546
+PRJNA910336	Sus scrofa	9823		China:Yunnan	12	AMPLICON	pubmed	36778880
+PRJNA635116	Gorilla1			Central African Republic	51	WGS	pubmed	33361321
+PRJDB36267	Moschus berezovskii	68408		missing: data agreement established pre-2023	6	WGS	ena_only	
+PRJNA1029302	Kyphosus sydneyanus	1260386		New Zealand: Nelson Island, Auckland	39	WGS	pubmed	42120383
+PRJEB49262	Homo sapiens	9606			62	WGS	ena_only	
+PRJDB37496	Homo sapiens	9606		Japan	50	WGS	ena_only	
+PRJNA489090	Homo sapiens	9606		USA: Saint Louis, MO	429	WGS	pubmed	38882494
+PRJNA317370	Homo sapiens	9606		USA:Minnesota	71	AMPLICON	pubmed	27102666
+PRJNA1023964	Ictiobus bubalus			USA: Ohio, Columbus	42	WGS	ena_only	
+PRJEB81711	Hermetia illucens			Belgium	132	AMPLICON	pubmed	41039213
+PRJNA1061804	Gallus gallus domesticus			USA: Arkansas	41	WGS	pubmed	39983259
+PRJNA213740	missing			missing	1	WGS	pubmed	33627510
+PRJNA433781	Ailuropoda melanoleuca	9646		China: Chengdu	27	AMPLICON	pubmed	34109451
+PRJEB32834	feces metagenome				74	WGS	ena_only	
+PRJNA352475	Homo sapiens	9606		Italy: Trento	230	WGS	pubmed	38882494
+PRJNA777776	Mongoose			Saint Kitts and Nevis	1	WGS	pubmed	35892380
+PRJNA755866	Myotis daubentonii			Russia:Moscow region	10	WGS	ena_only	
+PRJNA1344905					24	AMPLICON	pubmed	41777544
+PRJNA715601	Homo sapiens	9606		Denmark: Copenhagen	662	WGS	pubmed	38730321
+PRJNA755973	Homo sapiens	9606		United Kingdom	272	WGS	pubmed	37231089
+PRJNA314988	Homo sapiens	9606		Egypt	42	AMPLICON	pubmed	28191503
+PRJNA650228	Homo sapiens				18	WGS	ena_only	
+PRJNA545153	Gallus gallus	9031		USA: South Dakota, Brookings	1	WGS	pubmed	33024551
+PRJNA893407	Sus scrofa	9823		China:Wuhan farm	58	OTHER	pubmed	36625575
+PRJNA1292430					4	WGS	pubmed	41925227
+PRJEB43096	Mus musculus				1	AMPLICON	pubmed	34906228
+PRJNA849401	seagull			China: Kunming	8	WGS	pubmed	37208617
+PRJEB103317				Germany	71	WGS	ena_only	
+PRJNA397406	Mus musculus domesticus				50	WGS	pubmed	31141224
+PRJDB17221	Homo sapiens	9606		Japan	106	WGS	ena_only	
+PRJEB64278	Callithrix jacchus	9483	UBERON:feces	USA;USA:CA:SanDiego	95	WGS	pubmed	38975760
+PRJNA784453	Equus hemionus	9794		China: Gansu	32	AMPLICON	pubmed	35814657
+PRJNA407583				China	14	WGA	pubmed	29503636
+PRJNA705868	Sparus aurata	8175		Spain: Burriana	27	AMPLICON	pubmed	37628701
+PRJNA529943	yak02			China:Qinghai,Datong	9	WGA	pubmed	33897627
+PRJEB28161	feces metagenome			Shenzhen	15	WGS	ena_only	
+PRJNA616396	gut			China: Shanghai	15	WGS	pubmed	32408110
+PRJNA785979	Ovis aries			Russia: Altai Republic	565	AMPLICON	pubmed	40586543
+PRJDB18316	Homo sapiens	9606		Japan	166	WGS	ena_only	
+PRJNA817574	broiler chicken			India	42	AMPLICON	pubmed	35783415
+PRJNA616250	Guinea fowl			Gambia	87	WGS	pubmed	33868800
+PRJNA1011201	Gallus gallus domesticus			Belgium: Bruges	6	WGS	ena_only	
+PRJEB65885				Spain	22	WGS	ena_only	
+PRJEB34982	Sus scrofa				17	WGS	pubmed	32265914
+PRJNA816918	Homo sapiens	9606		USA: Davis, California	18	WGS	ena_only	
+PRJNA548523	Mus musculus	10090		USA: University of Missouri	777	AMPLICON	pubmed	32706816
+PRJNA734100	swine				23	WGS	ena_only	
+PRJDB37067	Ovis ammon	30527		missing: data agreement established pre-2023	12	WGS	ena_only	
+PRJEB55534					173	WGS	ena_only	
+PRJNA625868	Hermetia illucens			USA	13	WGA	pubmed	32774330
+PRJNA645191	Sus scrofa domesticus	9825		USA: Philadelphia	90	WGS	ena_only	
+PRJNA823519	Sus scrofa	9823		Hungary: Somogy County	16	WGS	pubmed	36290099
+PRJNA1119029	Homo sapiens	9606		USA: Stanford	171	WGS	pubmed	40059174
+PRJDB6640	Paradoxurus hermaphroditus	71117		Malaysia:Johor, Kulai	3	WGS	ena_only	
+PRJEB22062				Netherlands	363	WGS	pubmed	33868800
+PRJEB86260	Meleagris gallopavo	9103	Caecum	Austria	1000	WGS	ena_only	
+PRJNA751585	Gallus gallus	9031		USA: Indiana	223	AMPLICON	ena_only	
+PRJNA861165	Bombyx mori	7091		Turkey	15	AMPLICON	pubmed	35906393
+PRJNA491522	Mus musculus	10090		USA: Madison, Wisconsin	44	WGS	pubmed	30401779
+PRJEB32890					105	WGS	ena_only	
+PRJNA688310	Sus scrofa	9823		United Kingdom: Hertfordshire	5	WGS	ena_only	
+PRJNA278393	Homo sapiens	9606		Tanzania	38	WGS	pubmed	27388460
+PRJNA597969	mouse			China:Hainan province	15	OTHER	pubmed	34193290
+PRJDB16036	Homo sapiens	9606		Papua New Guinea	13	WGS	ena_only	
+PRJNA916113	Sus scrofa domesticus	9825		Denmark	134	AMPLICON	pubmed	36922976
+PRJEB6693					445	WGS	ena_only	
+PRJEB56669					78	WGS	ena_only	
+PRJNA1121382	Mesocricetus auratus	10036		France: Lille	30	WGS	pubmed	40172215
+PRJNA771504	Sus scrofa domesticus	9825		South Korea: Wanju	70	AMPLICON	pubmed	36108705
+PRJNA824235	Salmo salar				213	AMPLICON	pubmed	41700855
+PRJNA821272	Mice			China: Hohhot	30	WGS	ena_only	
+PRJEB88878	Mus musculus	10090		France	83	WGS	ena_only	
+PRJNA1019627	laboratory rats			Poland	6	AMPLICON	pubmed	40943581
+PRJEB81717	Papio cynocephalus and P. anubis			Kenya	27	WGS	pubmed	39763902
+PRJDB9922	Mus musculus	10090		Japan	48	WGS	ena_only	
+PRJEB26564					1000	WGS	ena_only	
+PRJEB43173					288	AMPLICON	pubmed	33815284
+PRJEB73981	Mus musculus			Germany	60	WGS	ena_only	
+PRJNA943611	Mus musculus	10090		Germany: Munich	1	WGS	pubmed	38399658
+PRJNA1145097	Homo sapiens	9606		USA: Saint Louis, Missouri	50	AMPLICON	pubmed	39395412
+PRJEB6921	Homo sapiens				709	WGS	ena_only	
+PRJNA982563	Homo sapiens	9606		China:Guangxi,Nanning	232	WGS	ena_only	
+PRJNA656141	Atelerix albiventris	9368		Kazakhstan:Almaty	1	WGS	pubmed	33414326
+PRJNA1400761	fish gut metagenome			China: Henan	28	WGS	ena_only	
+PRJNA516311	C57/BL6J male mouse			South Korea	50	AMPLICON	pubmed	31404163
+PRJNA1415237					25	WGS	pubmed	41994282
+PRJNA903810	Sus scrofa domesticus	9825		USA: Kennett Square PA	367	WGS	ena_only	
+PRJNA669575	Sus scrofa	9823		Italy	35	AMPLICON	pubmed	34676935
+PRJEB15371				China	122	WGS	pubmed	39947133
+PRJNA841806	Gallus gallus	9031		China: Henan	361	WGS	pubmed	37563495
+PRJEB33577					36	WGS	pubmed	32337106
+PRJNA1258387	Mus musculus			China: Guangzhou	80	AMPLICON	pubmed	40624638
+PRJEB21624					43	WGS	pubmed	32473013
+PRJNA866155	Salmo salar	8030		Ireland: Lehenagh pool	332	AMPLICON	pubmed	41700855
+PRJEB41787			human-gut	Denmark	107	WGS	ena_only	
+PRJNA786358	Bos taurus	9913		China: Zhejiang, Hangzhou	2	WGS	pubmed	37087457
+PRJNA633309	Panthera tigris	9694		China	12	AMPLICON	pubmed	32793154
+PRJEB72433				Switzerland	295	WGS	ena_only	
+PRJEB25764	homo sapiens			United Kingdom	109	WGS	pubmed	37231089
+PRJNA1305506	Myotis austroriparius	258936		USA:Florida	8	AMPLICON	pubmed	41304309
+PRJNA1126993	mouse1			China: Chengdu	10	AMPLICON	pubmed	39426981
+PRJEB81249	pig gut metagenome			Germany	917	AMPLICON	ena_only	
+PRJEB84922	Mus musculus	10090		Germany:Braunschweig;Germany	471	AMPLICON	ena_only	
+PRJNA730210	breedbr			India	24	WGS	pubmed	35783415
+PRJNA769968	Homo sapiens	9606		China: Weihai	222	WGS	ena_only	
+PRJNA1390420	Mus musculus	10090		China: Wuhan	15	WGS	pubmed	41828538
+PRJDB9917	Vibrio alginolyticus				2	WGS	pubmed	35301363
+PRJNA597371	Homo sapiens	9606		China: Haikou	15	WGS	pubmed	34193290
+PRJEB46212	feces metagenome			Spain	48	WGS	ena_only	
+PRJNA13342	Gallus gallus				7	WGS	pubmed	39983259
+PRJEB31266	Bos taurus	9913	rumen	United Kingdom	242	WGS	pubmed	32473013
+PRJNA271618	Papio cynocephalus	9556		Kenya	48	WGS	pubmed	25774601
+PRJNA1192041	rat			China: Sichuan	15	WGS	pubmed	40335921
+PRJNA1332038	Gallus gallus	9031			1	WGS	ena_only	
+PRJEB15296				China	3	WGS	pubmed	28392784
+PRJNA917545	mouse			China: Changchun	16	AMPLICON	pubmed	37788279
+PRJDB37123	Mus	10088		missing: data agreement established pre-2023	20	WGS	ena_only	
+PRJNA946412	Felis catus	9685		New Zealand:Palmerston North	20	WGS	ena_only	
+PRJNA1393111	Ictalurus punctatus	7998		USA:Auburn	25	WGS	pubmed	41910137
+PRJNA434147	Hypomesus transpacificus	137520		USA: California, Tracy	5	WGS	ena_only	
+PRJNA540192	Caenorhabditis elegans	6239		USA:Texas,Houston	261	AMPLICON	pubmed	34048707
+PRJNA766255	Sus scrofa	9823		China:jinhua	70	AMPLICON	pubmed	38868506
+PRJNA575288	Sus scrofa ussuricus	490583		missing	15	WGS	ena_only	
+PRJNA488302	Sus scrofa	9823		China: Jiangxi	130	WGS	ena_only	
+PRJNA471402	Sus scrofa domesticus	9825		Austria:Tulln	39	WGS	ena_only	
+PRJEB4370	Mus musculus	10090		USA	433	WGS	ena_only	
+PRJEB24891	metagenomes				43	AMPLICON	pubmed	33962692
+PRJNA688069	Gallus gallus				33	WGS	ena_only	
+PRJNA1070846	rats			China:Hohhot	41	WGS	ena_only	
+PRJNA762510	Salmo salar	8030		Norway: Aas	96	AMPLICON	pubmed	41700855
+PRJEB81427	chicken gut metagenome			Italy	1000	AMPLICON	ena_only	
+PRJEB1220				Denmark	370	WGS	pubmed	27388460
+PRJEB83251	Mus musculus	10090	Feces	USA	26	WGS	ena_only	
+PRJEB23147	Homo sapiens				930	WGS	ena_only	
+PRJEB86776	Bacteroides sp. D2			France	12	WGS	pubmed	40819039
+PRJNA556790	Bird			China: Henan	103	WGS	pubmed	32122398
+PRJNA527177	Human intestine			South Africa: Bushman Rock Shelter, Limpopo Province	5	WGS	pubmed	32375874
+PRJNA608629	Sus scrofa	9823		Spain:Girona	1000	AMPLICON	pubmed	37255458
+PRJNA1033150	Bos taurus	9913		China:Zhangye	12	OTHER	pubmed	38684965
+PRJEB80731	Diceros bicornis			Netherlands	59	AMPLICON	pubmed	40510676
+PRJNA767410	Mus musculus				17	RNA-Seq	pubmed	39331712
+PRJDB20360	Homo sapiens	9606		Japan	490	WGS	ena_only	
+PRJNA807368	Sus scrofa domesticus	9825		China: Bengbu	12	WGS	pubmed	35464928
+PRJNA1227156	Gallus gallus	9031		Czechia	26	WGS	ena_only	
+PRJEB66211				Canada	28	WGS	ena_only	
+PRJEB2778				United States	12	WGS	ena_only	
+PRJNA579226	Homo sapiens	9606		China	1	RNA-Seq	pubmed	33841399
+PRJNA504846	Mus musculus	10090		USA:Providence,RI	40	RNA-Seq	pubmed	31523007
+PRJNA1148167	Mus musculus	10090		USA: Princeton, NJ	84	AMPLICON	pubmed	39947133
+PRJNA1184454	calves 1			China:Inner Mongolia,Hohhot	44	WGS	pubmed	41466331
+PRJEB89232	Sus scrofa domesticus	9825	Small intestine	Spain	28	WGS	ena_only	
+PRJNA872265	Ailuropoda melanoleuca	9646		China: Chengdu	119	WGS	ena_only	
+PRJNA390551	Bos taurus	9913		USA: SD, Brookings	30	OTHER	pubmed	28947833
+PRJEB26585				USA	48	WGS	ena_only	
+PRJEB15095					24	WGS	pubmed	28182951
+PRJNA693262	Equus_burchelli_boehmi;Equus burchelli boehmi			Israel: The Zoological Center Tel Aviv-Ramat Gan	101	AMPLICON	pubmed	34903850
+PRJNA400119	Sus scrofa	9823		China:Ninghe,TianJin	8	WGS	ena_only	
+PRJNA750495	missing			Mexico: Morelia, Michoacan	74	AMPLICON	pubmed	35282279
+PRJEB79102	Canis aureus			Israel	17	OTHER	pubmed	39945541
+PRJNA213743	CD-1 mouse			Charles River Laboratories	1	WGS	pubmed	33627510
+PRJEB102289	chicken gut metagenome			United Kingdom	72	WGS	ena_only	
+PRJEB55812	mouse metagenome				15	WGS	pubmed	36472670
+PRJNA1008639	mouse_1;mouse 1			China: Beijing	6	WGS	ena_only	
+PRJEB77276	Mus musculus	10090		Spain	481	WGS	ena_only	
+PRJNA1002411	Bos taurus	9913		USA: Michigan	140	WGS	ena_only	
+PRJDB18854	Homo sapiens	9606		Japan:Yamanashi, Chuo	112	WGS	ena_only	
+PRJNA293625	globefish			China:Guangdong	4	WGS	ena_only	
+PRJNA1069780	Gallus gallus	9031		China: Sichuan	40	WGS	pubmed	40895792
+PRJNA765714	Lemur catta	9447		USA: Duke Lemur Center, Durham NC	392	AMPLICON	pubmed	34598739
+PRJEB42384	feces metagenome				73	WGS	ena_only	
+PRJEB59350				Finland	134	WGS	ena_only	
+PRJDB14971	Mus musculus	10090		Japan	34	WGS	ena_only	
+PRJNA638426	Sus scrofa	9823		USA: Ames, IA	984	AMPLICON	ena_only	
+PRJNA845803	Grainfed Angus 1			USA: Queenstown, Maryland	12	WGS	pubmed	40849482
+PRJNA932541	Hydropotes inermis	9883		Korea:hoengseong	51	WGS	ena_only	
+PRJDB35189	Homo sapiens	9606		missing: data agreement established pre-2023	88	WGS	ena_only	
+PRJNA637783	Fermented food			China: Haikou	1	WGS	pubmed	34193290
+PRJEB90218	Mus musculus	10090	UBERON:feces	USA;USA:CA	327	WGS	ena_only	
+PRJNA1232341	Sus	9822		missing	32	WGS	ena_only	
+PRJEB86259	Gallus gallus	9031	Caecum right	Austria	100	WGS	ena_only	
+PRJNA1119053	Mus musculus				69	WGS	pubmed	40059174
+PRJNA484151	human metagenome			USA:Ohio	18	OTHER	pubmed	31379808
+PRJEB106128	feces metagenome				1000	WGS	ena_only	
+PRJNA1060484	fish gut metagenome			China	1	WGS	ena_only	
+PRJEB76956	Mus musculus			USA	110	AMPLICON	pubmed	41576933
+PRJNA640717	not applicable-XM19C1			China: Xiamen	10	WGS	ena_only	
+PRJNA1328827	Felis catus			USA: Eugene	80	AMPLICON	ena_only	
+PRJNA473126	Homo sapiens	9606		USA:Saint Louis	402	WGS	pubmed	38882494
+PRJNA692830	Homo sapiens	9606		Sweden	24	WGS	ena_only	
+PRJNA498084	Samo salar			Chile: Santiago	11	AMPLICON	pubmed	41700855
+PRJEB42270	feces metagenome			Spain	2	OTHER	pubmed	33957869
+PRJNA511412	Bos taurus	9913		Netherlands	379	AMPLICON	pubmed	30660184
+PRJNA472376	Bos taurus	9913		USA:Colorado	28	AMPLICON	pubmed	30796295
+PRJEB9403					910	WGS	ena_only	
+PRJNA598414	feces metagenome			China: Tibet	24	WGS	ena_only	
+PRJNA1036300	mouse			China:Changsha	18	WGS	ena_only	
+PRJNA1093424	Mus musculus	10090		USA:MD	96	AMPLICON	pubmed	39371172
+PRJNA1404287	bioreactor metagenome			USA: San Diego, California	332	AMPLICON	ena_only	
+PRJNA656314	Danio rerio	7955		China: Shanghai	15	WGS	ena_only	
+PRJNA971196	Homo sapiens	9606		USA: Yakima Valley, WA	16	OTHER	pubmed	37215025
+PRJNA494387	Bos javanicus	9493		Italy	3	WGS	ena_only	
+PRJEB58106				Spain	115	WGS	ena_only	
+PRJNA917104	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA1164203	Macaca fascicularis	9541		United Kingdom: England	161	WGS	pubmed	40369669
+PRJNA989049	Mus musculus	10090		China:Wuhan	8	AMPLICON	pubmed	39420836
+PRJNA866381	Rattus norvegicus	10116		China: Xi'an	36	AMPLICON	pubmed	36504762
+PRJNA995374	Gallus gallus	9031		China:Yaan	150	AMPLICON	pubmed	38067023
+PRJNA772888	Prionailurus bengalensis	37029		South Korea	18	WGS	pubmed	35399616
+PRJEB6997	human oral metagenome			China	530	WGS	pubmed	36389176
+PRJNA1164298	Mouse			Not collected	63	AMPLICON	pubmed	39443733
+PRJDB6165				Japan:Tokyo	8	WGS	ena_only	
+PRJEB58777					396	WGS	ena_only	
+PRJNA631724	feces metagenome			Australia: Warrill View	53	WGS	ena_only	
+PRJNA590084	Salmo salar	8030		Norway	461	AMPLICON	pubmed	41700855
+PRJNA376566	Homo sapiens			USA: Pittsburgh, Pennsylvania Magee Womens Hospital	408	WGS	pubmed	38882494
+PRJNA674061	Mus musculus	10090			50	WGS	pubmed	34882531
+PRJNA1006039	Homo sapiens	9606		Tanzania:Singere	6	ChIP-Seq	pubmed	40128848
+PRJNA786887	Felis catus				40	WGS	pubmed	37624284
+PRJNA813004	Angus cattle			China:bole	10	WGS	pubmed	36560955
+PRJNA1055599	missing			China:Nanchang	24	WGS	ena_only	
+PRJEB39955	pig gut metagenome				159	WGS	ena_only	
+PRJNA175999	Mouse			USA: Iowa	1	WGS	pubmed	33627510
+PRJNA946383	Gallus gallus	9031		United Kingdom	80	WGS	ena_only	
+PRJNA339914	Homo sapiens	9606		Italy: Trento	28	WGS	pubmed	38882494
+PRJEB35449					971	AMPLICON	pubmed	31911491
+PRJNA650175	Yak			China:Tibetan Plateau,Transhumance	602	AMPLICON	pubmed	33879801
+PRJNA880707	mice			China: Nyingchi	19	AMPLICON	pubmed	38931255
+PRJEB77081	Mus musculus			USA;USA:CA:San Diego	283	WGS	ena_only	
+PRJNA1215014	Sus	9822		missing	24	WGS	ena_only	
+PRJNA974554	Homo sapiens	9606		China: shenyang	72	WGS	ena_only	
+PRJNA1039141	Sus scrofa	9823		China: Chengdu	120	WGS	pubmed	41759554
+PRJEB105017				Germany	2	WGS	ena_only	
+PRJEB1690					36	WGS	ena_only	
+PRJNA350534	Mus musculus	10090		USA:Midwest,Columbia, MO	239	AMPLICON	pubmed	28280484
+PRJNA1454930	Sus scrofa	9823		China:Gansu	10	WGS	ena_only	
+PRJNA747893	Sus scrofa	9823		China: Jilin	16	AMPLICON	pubmed	39478562
+PRJNA704780	Gallus gallus	9031		China: Guangdong	8	WGS	ena_only	
+PRJNA1259715	Mus musculus	10090		China:Yinchuan	16	AMPLICON	pubmed	41644553
+PRJNA1147314	Danio rerio	7955		USA: Corvallis, Oregon	838	WGS	ena_only	
+PRJNA1251315	Homo sapiens			China: Kunming	25	AMPLICON	pubmed	41310419
+PRJNA736861	Homo sapiens	9606		China:Beijing	33	WGS	ena_only	
+PRJEB26512					470	WGS	ena_only	
+PRJNA821627	Rat			China: Xian	8	OTHER	pubmed	36504762
+PRJEB83610	Capra	9922		Tanzania	34	WGS	pubmed	41404904
+PRJEB79367	Escherichia coli	562		Ethiopia	203	WGS	ena_only	
+PRJNA255936	Sus scrofa	9823		Switzerland	15	WGS	ena_only	
+PRJEB22036	pediatric patients				9	AMPLICON	pubmed	32743520
+PRJNA630862	Sus scrofa	9823		South Korea	20	WGS	ena_only	
+PRJNA896574	Mus musculus				18	RNA-Seq	pubmed	36759753
+PRJNA643301	Sus scrofa domesticus	9825		Canada: Saint-Hyacinthe	63	WGS	ena_only	
+PRJNA1254096	Diptychus maculatus	263537		China: Xinjiang, Upper Kizil River	14	WGS	pubmed	40630181
+PRJEB59119	feces metagenome			Denmark	42	WGS	ena_only	
+PRJNA202380	Ovis aries	9940		New Zealand	3	AMPLICON	pubmed	25909276
+PRJNA1049315	Sus scrofa	9823		Canada: Quebec	71	AMPLICON	pubmed	38606356
+PRJNA787952	Homo sapiens	9606		USA:Massachusetts	155	WGS	pubmed	35239511
+PRJNA849758	seagull			China: Kunming	8	AMPLICON	pubmed	37941936
+PRJEB26596				Germany	1	WGS	ena_only	
+PRJEB97391				South Korea	344	WGS	ena_only	
+PRJNA1055184	Gallus gallus	9031		USA: Iowa	133	WGS	ena_only	
+PRJNA1050241	Gallus gallus	9031		USA: 96 Roquemore Rd, Athens, GA 30607	60	WGS	pubmed	40482531
+PRJDB36916	Homo sapiens	9606		missing: data agreement established pre-2023	132	WGS	ena_only	
+PRJNA1416591					4	OTHER	pubmed	41969653
+PRJNA590977	Equus ferus caballus			United Kingdom:Surrey	5	WGS	pubmed	35345588
+PRJNA1205011	fish			China: Sichuan	9	WGS	ena_only	
+PRJNA760651	Jinhua pig			China: Hangzhou	10	WGS	pubmed	35103093
+PRJEB43097	Mus musculus				1	AMPLICON	pubmed	34906228
+PRJNA705468	Rattus norvegicus	10116		China: Wuxi	30	AMPLICON	pubmed	34079556
+PRJNA407723	Balemonkey			Ethiopia:Afursa	219	AMPLICON	pubmed	29311667
+PRJNA668104	Crossbred piglets (Landrace x Yorkshire x Duroc);Crossbred piglets			Denmark:Copenhagen	40	AMPLICON	pubmed	35680942
+PRJNA991276	Sus scrofa	9823		China	8	WGS	ena_only	
+PRJNA964478				China: Beijing	24	AMPLICON	pubmed	38658654
+PRJDB16225	Takifugu rubripes	31033		Japan:Nagasaki	188	AMPLICON	ena_only	
+PRJNA879251	Branta canadensis	8853		USA: Connecticut	27	AMPLICON	pubmed	36318011
+PRJEB90484	Gallus gallus	9031		USA	59	WGS	ena_only	
+PRJNA948893	Acrossocheilus fasciatus	356809		China:Wuhu	6	WGS	ena_only	
+PRJNA511382	Mus musculus	10090		Japan: Kanazawa	37	AMPLICON	pubmed	31767028
+PRJEB80533	pig gut metagenome			Italy	1000	AMPLICON	pubmed	41137177
+PRJNA1246253	lamb			China: Inner Mongolia	1	AMPLICON	pubmed	41514203
+PRJNA1092431	Mus musculus	10090		USA:University of Central Florida	53	WGS	pubmed	41853503
+PRJNA1063657	Escherichia coli			China:Inner Mongolia	52	WGS	pubmed	38792807
+PRJDB14208	Homo sapiens	9606		Japan	55	WGS	ena_only	
+PRJEB55462				Hong Kong	294	WGS	ena_only	
+PRJNA746253	Crotaphytus collaris			USA: New Mexico, Animas Pass	65	AMPLICON	pubmed	36221927
+PRJNA755985	Cervus nippon Temminck			China:Baiquan	44	AMPLICON	ena_only	
+PRJNA694380	Sus scrofa domesticus	9825		Thailand: Prachin Buri	2	WGS	ena_only	
+PRJNA908720	Canine			China:Yushu,Qinghai/Guoluo,Qinghai	1	WGS	pubmed	37724888
+PRJNA347599	Gallus gallus	9031		China: Guangzhou	12	WGS	ena_only	
+PRJNA642013	mouse				31	AMPLICON	pubmed	34819495
+PRJNA447857	Fish			Mexico	14	WGS	ena_only	
+PRJEB50568				Ecuador	119	WGS	pubmed	36202201
+PRJEB37731	vaginal metagenome		vagina	Denmark	1000	WGA	ena_only	
+PRJEB46806	Gallus gallus			Sweden	51	WGS	pubmed	36619855
+PRJNA1298833	Canis lupus familiaris	9615		China:Sichuan,Chengdu	4	WGS	pubmed	41012834
+PRJNA775062	Sus scrofa	9823		missing	48	OTHER	pubmed	41877288
+PRJNA779404	Sus scrofa domesticus			Canada:Lacombe	751	AMPLICON	ena_only	
+PRJNA1034944	Canis lupus			China:Yangzhou	26	WGS	ena_only	
+PRJDB10829	Homo sapiens	9606		Japan	112	WGS	ena_only	
+PRJNA559605	Panthera tigris tigris			India:Bhopal	21	WGS	pubmed	32582053
+PRJDB2552					1	WGS	ena_only	
+PRJNA1116578	Mice			China: Beijing	96	WGS	pubmed	39519025
+PRJEB81553	Mus musculus;Mus musculus castaneus	10091	UBERON:feces	USA;USA:CA:Pasadena	288	WGS	ena_only	
+PRJNA702770	Canis lupus	9612		China: Shenyang	68	AMPLICON	pubmed	33676490
+PRJNA1026631	Homo sapiens	9606		USA: Maywood, IL	83	WGS	ena_only	
+PRJNA290684	pig gut metagenome			China: Fuqing, Fujian	39	WGS	ena_only	
+PRJDB15623	Mus musculus	10090		Japan	20	WGS	ena_only	
+PRJNA693398					32	AMPLICON	pubmed	34824318
+PRJEB20308	Canis lupus familiaris	9615			129	WGS	pubmed	29669589
+PRJEB44024	Bos Taurus			Norway	18	WGS	pubmed	39385092
+PRJDB18359	Homo sapiens	9606		Japan:Tokyo, Shinjuku	45	WGS	ena_only	
+PRJEB38343	fish gut metagenome				48	WGS	ena_only	
+PRJNA1148165	Homo sapiens	9606		USA: Princeton, NJ	46	WGS	pubmed	39947133
+PRJNA722312	Neotoma lepida	56216		USA: Utah	438	AMPLICON	pubmed	37915425
+PRJNA601006	Gallus gallus	9031			36	AMPLICON	pubmed	32455745
+PRJDB36826	Homo sapiens	9606		missing: data agreement established pre-2023	72	WGS	ena_only	
+PRJNA1264679	Sus scrofa	9823		China:Jiangsu	16	WGS	pubmed	42063196
+PRJNA874500	Gallus gallus	9031		China:Shenzhen	4	WGS	ena_only	
+PRJEB51496	Eubothrium	70636	gut mucosa	Norway	75	AMPLICON	pubmed	35502903
+PRJNA815969	Sus scrofa domestica			South Korea: Cheongju	2	AMPLICON	pubmed	36109557
+PRJEB39298	bacterium				15	AMPLICON	pubmed	41700855
+PRJNA1049198	Gallus gallus	9031		China:Nanjing	90	WGS	ena_only	
+PRJNA1010108	Homo sapiens	9606		China:Guangdong	114	AMPLICON	pubmed	40624638
+PRJNA544874	Mus musculus	10090		Australia: Brisbane	129	WGS	pubmed	31928131
+PRJDB34615	Phascolarctos cinereus	38626		missing: data agreement established pre-2023	82	WGS	ena_only	
+PRJNA356225	Homo sapiens	9606		China:Chongqing	150	WGS	pubmed	30077182
+PRJNA1070373	Mus musculus	10090		China: Shanghai	90	AMPLICON	pubmed	41778161
+PRJNA574295	Sus scrofa	9823		Norway: As	389	AMPLICON	ena_only	
+PRJDB13194	fish gut metagenome			Japan:Iwate, Miyako, The Miyako Bay	4	WGS	ena_only	
+PRJNA862908	Homo sapiens	9606		USA: Michigan	151	WGS	pubmed	37726374
+PRJNA701711	Equus ferus przewalskii			China: Xinjiang	166	AMPLICON	pubmed	35814657
+PRJNA433811	Salmo salar	8030		Norway	4	WGS	ena_only	
+PRJDB38615	missing			missing: data agreement established pre-2023	140	WGS	ena_only	
+PRJEB7759				USA	184	WGS	pubmed	27388460
+PRJNA391047	Sus scrofa	9823		China: Yunfu	72	AMPLICON	pubmed	29540768
+PRJNA888429	Sus scrofa	9823		China:Shanxi	23	WGS	ena_only	
+PRJNA906124	Felis catus	9685		USA: Champaign, IL	33	WGS	pubmed	36471455
+PRJNA831632	Hoolock tianxing	1934190		missing	145	WGS	ena_only	
+PRJNA741390	Ctenochaetus striatus	175436		China: South China Sea	8	WGS	ena_only	
+PRJNA1226362	SPF mice BALB/c			China	30	WGS	pubmed	41540332
+PRJEB11519	pig gut metagenome				29	WGS	ena_only	
+PRJNA1102860	Equus caballus	9796		Canada: Sable Island, Nova Scotia	1000	WGS	pubmed	39039075
+PRJNA422434					370	WGS	pubmed	37398234
+PRJNA848403	seagull			China: Kunming	8	WGS	pubmed	37208617
+PRJNA556137	Rattus norvegicus	10116		Italy	30	AMPLICON	pubmed	31461893
+PRJNA504404	Crassostrea virginica	27807		USA: Wachapreague, Virginia	9	AMPLICON	pubmed	33980678
+PRJNA1193782	Sus scrofa	9823		China: Daocheng	57	WGS	ena_only	
+PRJNA1320939					111	WGS	pubmed	42039826
+PRJDB5860	Homo sapiens	9606		Thailand	376	AMPLICON	ena_only	
+PRJEB14847					323	WGS	ena_only	
+PRJNA1187550	Sus scrofa domesticus	9825		Canada: Guelph	128	WGS	pubmed	40533851
+PRJNA761967	Gallus gallus domesticus			Belgium: GHENT	84	WGS	pubmed	35992659
+PRJNA393762	Sus scrofa	9823		Spain	48	AMPLICON	pubmed	29773876
+PRJNA767939	Homo sapiens	9606		Bangladesh: Chattogram	74	AMPLICON	pubmed	35237631
+PRJNA383926	broiler			China:Beijing	6	WGS	ena_only	
+PRJNA371649	Sus scrofa	9823		Spain: Madrid	1	WGS	ena_only	
+PRJNA354235	Homo sapiens	9606		USA	813	WGS	pubmed	39947133
+PRJDB15999	Mus musculus	10090		Japan:Tokyo	35	AMPLICON	ena_only	
+PRJNA917074	Canis lupus familiaris	9615		China:Jinhua	1	AMPLICON	pubmed	36992396
+PRJNA385256	Mus musculus	10090		Ireland	254	AMPLICON	pubmed	33218339
+PRJNA666163	Gallus gallus	9031		Canada: Quebec	40	WGS	pubmed	34149685
+PRJNA804100	Micropterus salmoides	27706		USA: Michigan	53	WGS	pubmed	36056619
+PRJEB32631					1000	WGS	ena_only	
+PRJNA786362	Bos taurus	9913		China: Zhejiang, Hangzhou	1	AMPLICON	pubmed	37087457
+PRJNA861020	Felis catus	9685		New Zealand:Palmerston North	36	WGS	ena_only	
+PRJEB41102				Germany	286	WGS	pubmed	34111423
+PRJNA515074	Mus musculus	10090		USA:Providence,RI	24	WGS	pubmed	31523007
+PRJEB61251				South Korea	286	AMPLICON	ena_only	
+PRJNA701781	Sus scrofa	9823		China:Hebei	456	AMPLICON	ena_only	
+PRJNA486904	C57LB/6			China:Beijing	24	AMPLICON	pubmed	33627510
+PRJNA902117	Gallus gallus	9031		Canada: Alberta	33	WGS	ena_only	
+PRJNA1081435	Mus musculus			USA: New York	533	OTHER	pubmed	41249836
+PRJNA812583	Homo sapiens	9606		Denmark	12	WGS	ena_only	
+PRJEB1786	human metagenome				145	WGS	pubmed	37398234
+PRJNA48475	mixed DNA library				2	WGS	pubmed	29692798
+PRJNA1092107	Bos taurus			USA: Atlanta	10	WGS	ena_only	
+PRJDB4835	Mus musculus	10090		Japan:Kanagawa	30	WGS	ena_only	
+PRJNA1072233	missing			missing	18	WGS	ena_only	
+PRJNA1000214	Wenchang Chicken			China:HangZhou	16	WGS	ena_only	
+PRJNA588621	Homo sapiens	9606		China: Haikou	109	WGS	pubmed	34193290
+PRJEB109268				Mediterranean Sea	94	AMPLICON	ena_only	
+PRJDB36502	Sus scrofa	9823		missing: data agreement established pre-2023	16	WGS	ena_only	
+PRJNA524796	Rattus norvegicus	10116		Spain: Oviedo	24	ChIP-Seq	pubmed	32093685
+PRJNA894240	Sus scrofa	9823		China:Wuhan	10	OTHER	pubmed	36625575
+PRJNA673918	Homo sapiens	9606		China: Xiamen	71	WGS	ena_only	
+PRJNA1070856	Sus scrofa	9823		China:ChangSha	35	WGS	ena_only	
+PRJEB43621	Bos Taurus			Belgium	2	WGS	pubmed	39385092
+PRJNA1073703	Mus musculus			missing	6	RNA-Seq	pubmed	39264803
+PRJNA750156	feces metagenome			China:Guangdong,Maoming	46	WGS	ena_only	
+PRJEB52712	Equus caballus				198	AMPLICON	pubmed	36850017
+PRJNA778908	Homo sapiens	9606		Sweden	32	AMPLICON	pubmed	35672613
+PRJNA773861	Capreolus pygargus	48560		China:Muling Dongbei Hongdoushan Nature Reserve	62	AMPLICON	ena_only	
+PRJNA757176	Sus scrofa	9823		China:Kunming	12	WGS	ena_only	
+PRJNA756556	Homo sapiens	9606		USA	38	WGS	ena_only	
+PRJNA664334	Chionodraco hamatus				57	WGS	pubmed	36224580
+PRJNA841251	Homo sapiens	9606		China:Guangzhou	139	AMPLICON	ena_only	
+PRJNA1030894	Ochotona curzoniae	130825		China:Qinghai	100	WGS	ena_only	
+PRJNA429990	Homo sapiens	9606		China	81	WGS	pubmed	39947133
+PRJEB63613				Denmark	35	WGS	ena_only	
+PRJEB24006				USA	25	WGS	pubmed	31332384
+PRJNA721235	Romerolagus diazi	48089		Mexico: Morelos, Coajomulco	4	WGS	ena_only	
+PRJDB38518	Homo sapiens	9606		missing: data agreement established pre-2023	22	WGS	ena_only	
+PRJNA689557	Mus musculus	10090		USA: University of Missouri	237	AMPLICON	pubmed	35545042
+PRJNA532626	Diceros bicornis			South Africa: Africa	25	WGS	pubmed	31138833
+PRJEB22491					323	WGS	ena_only	
+PRJNA397041	Gallus gallus	9031		China: farm in Hebei	18	WGS	ena_only	
+PRJNA575543	Sus scrofa	9823		China: Yunfu	18	WGS	pubmed	32038603
+PRJNA780352	Silver pompano			India	2	AMPLICON	pubmed	39543167
+PRJNA353155	fish gut metagenome			India: Punjab	2	AMPLICON	ena_only	
+PRJNA1307965	Mus musculus	10090			14	WGS	pubmed	41291200
+PRJNA1163371	Sus scrofa	9823		Belgium: Gent	174	WGS	pubmed	40640502
+PRJNA1205074					36	OTHER	pubmed	39813598
+PRJNA1012124	Carollia perspicillata	40233		Russia: Moscow region	89	AMPLICON	pubmed	38139130
+PRJDB18384	Homo sapiens	9606		Japan:Tokyo, Shinjuku	11	WGS	ena_only	
+PRJNA510835	Homo sapiens	9606		Kenya	211	AMPLICON	pubmed	31015324
+PRJNA1267527	Rattus norvegicus			China: Jinzhou Medical University	9	WGS	pubmed	41784805
+PRJNA848116				China:ZheJiang	82	WGS	ena_only	
+PRJNA694773	mouse			Japan:Fukuoka	10	WGS	ena_only	
+PRJNA741606	Capra hircus	9925		China:Shandong	43	WGS	pubmed	38254181
+PRJNA1377454	Mus musculus	10090		China: Henan Province	24	WGS	pubmed	41561024
+PRJDB36775	Homo sapiens	9606		missing: data agreement established pre-2023	118	WGS	ena_only	
+PRJEB42464	Oncorhynchus mykiss	8022		Spain	59	WGS	ena_only	
+PRJNA903920	Mus musculus	10090		USA: Chicago	82	AMPLICON	pubmed	36496380
+PRJNA1416566	Mus musculus			China:Xinjiang	4	RNA-Seq	pubmed	41969653
+PRJNA951204	Sus scrofa	9823		China: Hainan	1	WGS	pubmed	37152756
+PRJEB80558	synthetic metagenome			Norway	12	AMPLICON	pubmed	40354439
+PRJNA981221	Homo sapiens	9606		USA: Tucson	172	AMPLICON	pubmed	38532703
+PRJNA744219	Bos taurus	9913		USA: Auburn	16	WGS	pubmed	41007342
+PRJEB29373	feces metagenome			China:Beijing	134	WGS	ena_only	
+PRJNA338370	broiler chickens			China:Qingdao	10	WGS	ena_only	
+PRJNA1206727	Homo sapiens	9606		Brazil: Florianpolis	8	WGS	pubmed	39896720
+PRJNA1010706	Sus scrofa	9823		Spain: Lleida	419	WGS	pubmed	38702766
+PRJNA521099	Sparus aurata	8175		Greece: Thessaloniki	2	AMPLICON	pubmed	33800578
+PRJNA769748	mouse			China:Hohhot	70	WGS	ena_only	
+PRJNA714611	fish gut metagenome			United Kingdom: Scotland	1	WGS	ena_only	
+PRJEA61445	Escherichia coli				1	WGS	pubmed	33637779
+PRJNA722684	Alces?alces			China	59	WGS	ena_only	
+PRJNA1039992	Gallus gallus	9031		China: Chengdu	120	WGS	ena_only	
+PRJNA291299	Hen			Malaysia: Institute of Bioscience, Selangor	4	WGS	pubmed	33868800
+PRJNA849257	Canis lupus familiaris	9615		Germany	24	WGS	pubmed	35990279
+PRJNA782533	feces metagenome			USA:Ariozna	79	WGS	ena_only	
+PRJNA880549	Gallus gallus	9031			285	AMPLICON	ena_only	
+PRJNA493817	feces metagenome			United Kingdom: Wales	2	WGS	ena_only	
+PRJNA818062	Homo sapiens	9606		China:Qinghai	45	WGS	ena_only	
+PRJNA492361	Pristis pectinata	685728			1	WGS	ena_only	
+PRJEB86258	Gallus gallus	9031	Caecum	Austria	1000	WGS	ena_only	
+PRJNA1171754	Mus musculus	10090		China: Jiangsu, Wuxi	32	RNA-Seq	pubmed	42067917
+PRJDB14449	Chimaeridae	7869		Japan:Suruga Bay	3	WGS	ena_only	
+PRJNA1269239	Duck			China: Zhejiang,Hangzhou	33	WGS	pubmed	41385957
+PRJEB74498	canine gut metagenome			Portugal	24	AMPLICON	pubmed	39588199
+PRJNA186306	Homo sapiens	9606		Sweden	1	WGS	pubmed	33637779
+PRJNA1260157	Mus musculus	10090		China:Yinchuan	6	WGS	pubmed	41644553
+PRJNA898082	beagle			China:Beijing	51	WGS	pubmed	39659556
+PRJNA670873	Gallus gallus	9031		Netherlands	51	WGS	ena_only	
+PRJNA1138893	Homo sapiens	9606		China:Inner Mongolia	46	WGS	pubmed	41368641
+PRJNA1232403	Apis mellifera	7460		Switzerland:Lausanne	98	WGS	pubmed	41188219
+PRJEB51122	pig gut metagenome			United Kingdom	161	WGS	ena_only	
+PRJNA1158959	Sus scrofa vittatus	2485929		Singapore: Lorong Halus	89	WGS	pubmed	41928361
+PRJNA1268176	Rattus norvegicus			China: Jinzhou Medical University	9	RNA-Seq	pubmed	41784805
+PRJNA726916	Mus musculus	10090		USA: University of Missouri	10	AMPLICON	pubmed	34638954
+PRJEB31650	Sus scrofa	9823		Denmark	567	WGS	ena_only	
+PRJNA1311824	Grus japonensis	30415		China: Jiangsu	5	RNA-Seq	pubmed	41403401
+PRJNA397886	Mus musculus	10090		USA: San Francisco	52	WGS	pubmed	35417481
+PRJEB43555	Human				66	AMPLICON	pubmed	34707577
+PRJNA1219188	Sus scrofa domestica			United Kingdom:Wincherster	185	WGS	pubmed	41904571
+PRJNA528194	yak01			China:Qinghai,Datong	44	AMPLICON	pubmed	33897627
+PRJNA574035	Homo sapiens	9606			22	AMPLICON	pubmed	31698863
+PRJEB24885	Mus musculus	10090		Israel:Safed	160	AMPLICON	pubmed	37175619
+PRJDB32644	Mus musculus	10090		missing: data agreement established pre-2023	18	WGS	ena_only	
+PRJNA273761	Homo sapiens	9606		USA: Pittsburgh, PA	60	WGS	pubmed	38882494
+PRJNA945365	Micropterus salmoides	27706		China	15	WGS	pubmed	38167330
+PRJNA1204506	Gallus gallus				5	WGS	ena_only	
+PRJDB38794	Apis cerana	7461		missing: data agreement established pre-2023	8	WGS	ena_only	
+PRJNA872826	Sus scrofa	9823		China: Kunming	9	AMPLICON	pubmed	36313418
+PRJEB28237				Canada	191	WGS	ena_only	
+PRJEB15120				USA	193	AMPLICON	ena_only	
+PRJNA415593	Gallus gallus	9031		USA: SD, Brookings	18	OTHER	pubmed	30918057
+PRJEB86255	Gallus gallus	9031	Caecum	Austria	720	WGS	ena_only	
+PRJNA1115810	Larimichthys crocea			China:Shanghai	24	RNA-Seq	pubmed	39820425
+PRJEB66224	feces metagenome			Italy	20	WGS	ena_only	
+PRJNA1274617	mouse			China:Jiangsu	45	AMPLICON	pubmed	41481285
+PRJNA389749	Sus scrofa	9823		China:Ninghe,TianJin	8	WGS	ena_only	
+PRJNA524980	Sus scrofa	9823		China:chengdu	9	WGS	ena_only	
+PRJDB31830	Pseudois nayaur	59542		missing: data agreement established pre-2023	79	WGS	ena_only	
+PRJEB102780				Estonia	195	AMPLICON	ena_only	
+PRJNA301903	Homo sapiens	9606		USA: Saint Louis, MO	407	WGS	pubmed	38882494
+PRJNA991262	chicken gut metagenome			China: Hefei	11	WGS	ena_only	
+PRJEB12469	Gadus morhua				66	WGS	pubmed	36879316
+PRJDB38277	Homo sapiens	9606		missing: data agreement established pre-2023	51	WGS	ena_only	
+PRJNA891490	Phascolarctos cinereus	38626		Australia: Toorbul	60	AMPLICON	pubmed	37525141
+PRJEB71372	Tursiops truncatus	9739	UBERON:feces	USA;USA:CA:La Jolla	123	WGS	pubmed	38305096
+PRJEB27498	Gadus morhua	8049		Norway	6	WGS	pubmed	30995938
+PRJNA1143568	Gallus gallus	9031		Canada:Saskatchewan	156	WGS	ena_only	
+PRJNA861716	Homo sapiens	9606		Italy	359	WGS	pubmed	38802370
+PRJEB62783				Germany	30	WGS	ena_only	
+PRJNA782241	Bacillota			China	55	AMPLICON	pubmed	35095912
+PRJEB4391				USA	36	WGS	pubmed	25010839
+PRJEB86262	Sus scrofa	9823	Caecum	Norway	432	WGS	ena_only	
+PRJNA1232340	Mus musculus	10090		missing	32	AMPLICON	pubmed	40969552
+PRJEB31009					24	WGS	ena_only	
+PRJEB22973				China	245	WGS	ena_only	
+PRJEB13870				China	196	WGS	pubmed	32188862
+PRJNA1105391	Aonyx cinereus	452597		China: Beijing	16	OTHER	pubmed	39601555
+PRJNA750446	Sparus aurata	8175		Spain: Burriana	18	AMPLICON	pubmed	37628701
+PRJEB10878				China	128	WGS	pubmed	35440042
+PRJNA825133	Gallus gallus			China	6	WGS	ena_only	
+PRJNA72355	Pig 28	9825		USA: Ames, Iowa	140	AMPLICON	pubmed	22128350
+PRJNA1141435	Perca flavescens	8167		USA: MN, Trout Lake	62	WGS	pubmed	39624158
+PRJEB81804	Sus scrofa	9823	UBERON:colon	USA;USA:CA: San Diego	573	WGS	ena_only	
+PRJNA667194	pig gut metagenome			China:Anhui	1	WGS	ena_only	
+PRJNA645563	poultry			China:Beijing	22	AMPLICON	pubmed	33424783
+PRJNA375762	Gallus gallus	9031		USA	12	WGS	pubmed	33868800
+PRJNA738684	Homo sapiens	9606		China:Beijing	52	WGS	ena_only	
+PRJNA1025260	Mus musculus			USA: California	35	WGS	pubmed	39331712
+PRJEB23561	bovine metagenome			France	82	WGS	pubmed	32473013
+PRJNA312222	Homo sapiens	9606		USA:Minnesota,Rochester	4	WGS	pubmed	27303377
+PRJNA1237790	mice			China: Wulumuqi	32	AMPLICON	pubmed	40943165
+PRJNA590457	plateau pika01			China:Qinghai,Gangcha	149	AMPLICON	pubmed	33369229
+PRJNA518081	oyster metagenome			USA: Narragansett Bay, Rhode Island	93	AMPLICON	pubmed	33980678
