@@ -1,0 +1,342 @@
+{
+  "_meta": {
+    "purpose": "Underrepresented / absent animal clades to cross-check against the animal gut WGS metagenomics catalog and to expand ENA/PubMed search robustness.",
+    "gap_type_values": {
+      "biological": "Genuinely understudied clade; low/no hits is a real finding for the review article.",
+      "search": "Well-studied clade (often model organisms); low hits likely means OUR query missed them, not a field gap.",
+      "mixed": "Partly studied; some lineages have data, many do not."
+    },
+    "how_to_use": "For each clade: (1) resolve scientific_name -> NCBI taxid via Entrez esearch (free), (2) query ENA tax_tree(taxid) for WGS/METAGENOMIC deposits, (3) count studies already in catalog by matching search_terms against host_* columns. Compare the three numbers.",
+    "field_notes": "search_terms mixes common names (catch PubMed titles/abstracts) and scientific names (catch ENA taxonomy). tax_anchor is the best scientific name to resolve to a taxid for tax_tree() ENA queries."
+  },
+  "clades": [
+    {
+      "clade": "Reptiles (all)",
+      "rank": "class",
+      "tax_anchor": "Sauropsida",
+      "gap_type": "biological",
+      "why_valuable": "Ectothermic amniotes with distinct gut physiology; near-absent from catalog despite ecological importance.",
+      "search_terms": ["reptile", "reptilian", "herpetofauna", "Reptilia", "Sauropsida", "squamate"]
+    },
+    {
+      "clade": "Snakes",
+      "rank": "suborder",
+      "tax_anchor": "Serpentes",
+      "gap_type": "biological",
+      "why_valuable": "Carnivorous, infrequent feeders with unusual gut dynamics.",
+      "search_terms": ["snake", "serpent", "python", "Python", "boa", "Boa", "cobra", "Naja", "viper", "rattlesnake", "Crotalus", "garter snake", "Thamnophis", "corn snake", "Pantherophis", "sea snake", "colubrid", "Serpentes"]
+    },
+    {
+      "clade": "Lizards",
+      "rank": "suborder",
+      "tax_anchor": "Lacertilia",
+      "gap_type": "biological",
+      "why_valuable": "Diverse diets (herbivore to insectivore) across a single lineage.",
+      "search_terms": ["lizard", "gecko", "iguana", "Iguana", "monitor lizard", "Varanus", "Komodo dragon", "komodoensis", "chameleon", "skink", "anole", "Anolis", "bearded dragon", "Pogona", "gila monster", "Lacertilia"]
+    },
+    {
+      "clade": "Turtles and tortoises",
+      "rank": "order",
+      "tax_anchor": "Testudines",
+      "gap_type": "biological",
+      "why_valuable": "Long-lived herbivores/omnivores; hindgut fermentation of interest.",
+      "search_terms": ["turtle", "tortoise", "terrapin", "sea turtle", "green turtle", "Chelonia mydas", "loggerhead", "Caretta", "painted turtle", "Chrysemys", "snapping turtle", "Testudo", "Gopherus", "Testudines"]
+    },
+    {
+      "clade": "Crocodilians",
+      "rank": "order",
+      "tax_anchor": "Crocodylia",
+      "gap_type": "biological",
+      "why_valuable": "Archosaurs; closest living relatives of birds, strong carnivores.",
+      "search_terms": ["crocodile", "Crocodylus", "alligator", "Alligator", "caiman", "gharial", "Crocodylia"]
+    },
+    {
+      "clade": "Amphibians (all)",
+      "rank": "class",
+      "tax_anchor": "Amphibia",
+      "gap_type": "biological",
+      "why_valuable": "Biphasic life cycle (aquatic larva to terrestrial adult) drives gut community shifts; only 1 study currently.",
+      "search_terms": ["amphibian", "Amphibia", "anuran", "salamander", "caecilian"]
+    },
+    {
+      "clade": "Frogs and toads",
+      "rank": "order",
+      "tax_anchor": "Anura",
+      "gap_type": "mixed",
+      "why_valuable": "Xenopus is a model organism (should have data); wild frogs largely unstudied.",
+      "search_terms": ["frog", "toad", "bullfrog", "Lithobates", "Rana", "tree frog", "poison dart frog", "Dendrobates", "cane toad", "Rhinella", "Bufo", "clawed frog", "Xenopus", "Anura"]
+    },
+    {
+      "clade": "Salamanders and newts",
+      "rank": "order",
+      "tax_anchor": "Caudata",
+      "gap_type": "mixed",
+      "why_valuable": "Axolotl is a regeneration model likely to have deposits; wild urodeles unstudied.",
+      "search_terms": ["salamander", "newt", "Triturus", "Notophthalmus", "axolotl", "Ambystoma", "tiger salamander", "hellbender", "Cryptobranchus", "Caudata", "Urodela"]
+    },
+    {
+      "clade": "Cartilaginous fish",
+      "rank": "class",
+      "tax_anchor": "Chondrichthyes",
+      "gap_type": "biological",
+      "why_valuable": "Sharks/rays have unique spiral-valve gut; only 3 studies.",
+      "search_terms": ["shark", "ray", "skate", "stingray", "chimaera", "elasmobranch", "dogfish", "Chondrichthyes", "Elasmobranchii"]
+    },
+    {
+      "clade": "Ray-finned fish (broad)",
+      "rank": "class",
+      "tax_anchor": "Actinopterygii",
+      "gap_type": "search",
+      "why_valuable": "Most species-rich vertebrate group; zebrafish/tilapia are models. Under-covered relative to diversity almost certainly = search gap.",
+      "search_terms": ["zebrafish", "Danio rerio", "tilapia", "Oreochromis", "medaka", "Oryzias", "cichlid", "Cichlidae", "carp", "Cyprinus", "goldfish", "Actinopterygii", "teleost"]
+    },
+    {
+      "clade": "Eels",
+      "rank": "order",
+      "tax_anchor": "Anguilliformes",
+      "gap_type": "mixed",
+      "why_valuable": "Catadromous life history; aquaculture relevance.",
+      "search_terms": ["eel", "Anguilla", "Anguilliformes", "moray"]
+    },
+    {
+      "clade": "Catfish",
+      "rank": "order",
+      "tax_anchor": "Siluriformes",
+      "gap_type": "mixed",
+      "why_valuable": "Major aquaculture species; benthic detritivores.",
+      "search_terms": ["catfish", "Ictalurus", "Siluriformes", "channel catfish", "Clarias"]
+    },
+    {
+      "clade": "Cods and relatives",
+      "rank": "order",
+      "tax_anchor": "Gadiformes",
+      "gap_type": "mixed",
+      "why_valuable": "Cold-water fisheries species.",
+      "search_terms": ["cod", "Gadus", "haddock", "pollock", "Gadiformes", "hake"]
+    },
+    {
+      "clade": "Flatfish",
+      "rank": "order",
+      "tax_anchor": "Pleuronectiformes",
+      "gap_type": "biological",
+      "why_valuable": "Asymmetric benthic fish; distinct feeding ecology.",
+      "search_terms": ["flounder", "sole", "halibut", "plaice", "turbot", "Pleuronectiformes"]
+    },
+    {
+      "clade": "Pufferfish",
+      "rank": "family",
+      "tax_anchor": "Tetraodontidae",
+      "gap_type": "mixed",
+      "why_valuable": "Fugu is a compact-genome model; toxin-associated microbiome interest.",
+      "search_terms": ["pufferfish", "fugu", "Takifugu", "Tetraodon", "Tetraodontidae"]
+    },
+    {
+      "clade": "Jawless fish",
+      "rank": "superclass",
+      "tax_anchor": "Cyclostomata",
+      "gap_type": "biological",
+      "why_valuable": "Basal vertebrates (lamprey, hagfish); deep phylogenetic signal.",
+      "search_terms": ["lamprey", "Petromyzon", "hagfish", "Cyclostomata", "Myxini"]
+    },
+    {
+      "clade": "Molluscs (broad)",
+      "rank": "phylum",
+      "tax_anchor": "Mollusca",
+      "gap_type": "biological",
+      "why_valuable": "Second-largest animal phylum; near-absent from catalog.",
+      "search_terms": ["mollusc", "mollusk", "Mollusca"]
+    },
+    {
+      "clade": "Bivalves",
+      "rank": "class",
+      "tax_anchor": "Bivalvia",
+      "gap_type": "mixed",
+      "why_valuable": "Filter feeders with aquaculture importance (oyster, mussel).",
+      "search_terms": ["oyster", "Crassostrea", "mussel", "Mytilus", "clam", "scallop", "cockle", "Bivalvia", "bivalve"]
+    },
+    {
+      "clade": "Cephalopods",
+      "rank": "class",
+      "tax_anchor": "Cephalopoda",
+      "gap_type": "biological",
+      "why_valuable": "Complex behavior; distinct digestive system.",
+      "search_terms": ["octopus", "Octopus", "squid", "Loligo", "Doryteuthis", "cuttlefish", "Sepia", "nautilus", "Cephalopoda"]
+    },
+    {
+      "clade": "Gastropods (beyond current)",
+      "rank": "class",
+      "tax_anchor": "Gastropoda",
+      "gap_type": "mixed",
+      "why_valuable": "Only 1 snail currently; huge diversity of diets.",
+      "search_terms": ["snail", "slug", "abalone", "Haliotis", "conch", "whelk", "limpet", "cone snail", "Gastropoda"]
+    },
+    {
+      "clade": "Annelids",
+      "rank": "phylum",
+      "tax_anchor": "Annelida",
+      "gap_type": "biological",
+      "why_valuable": "Earthworms are soil-ecosystem keystones; gut microbiome of interest.",
+      "search_terms": ["earthworm", "Lumbricus", "Eisenia", "leech", "Hirudo", "polychaete", "tubeworm", "Annelida"]
+    },
+    {
+      "clade": "Echinoderms",
+      "rank": "phylum",
+      "tax_anchor": "Echinodermata",
+      "gap_type": "biological",
+      "why_valuable": "Deuterostomes closely related to chordates; only 1 sea cucumber currently.",
+      "search_terms": ["sea urchin", "Strongylocentrotus", "starfish", "sea star", "Asterias", "brittle star", "sand dollar", "sea cucumber", "Apostichopus", "Echinodermata"]
+    },
+    {
+      "clade": "Cnidarians",
+      "rank": "phylum",
+      "tax_anchor": "Cnidaria",
+      "gap_type": "mixed",
+      "why_valuable": "Coral microbiome is a major research field; likely partly a search gap.",
+      "search_terms": ["coral", "Acropora", "Pocillopora", "sea anemone", "Nematostella", "Aiptasia", "jellyfish", "Aurelia", "hydra", "Hydra", "Cnidaria"]
+    },
+    {
+      "clade": "Crustaceans (beyond current)",
+      "rank": "subphylum",
+      "tax_anchor": "Crustacea",
+      "gap_type": "search",
+      "why_valuable": "Shrimp aquaculture microbiome is heavily studied; low catalog count likely = search gap.",
+      "search_terms": ["crab", "lobster", "Homarus", "shrimp", "prawn", "Penaeus", "Litopenaeus", "crayfish", "Procambarus", "krill", "barnacle", "copepod", "amphipod", "isopod", "Daphnia", "Crustacea", "Decapoda"]
+    },
+    {
+      "clade": "Nematodes",
+      "rank": "phylum",
+      "tax_anchor": "Nematoda",
+      "gap_type": "search",
+      "why_valuable": "C. elegans is a premier model organism; near-certain to have deposits.",
+      "search_terms": ["nematode", "Caenorhabditis", "elegans", "roundworm", "Nematoda"]
+    },
+    {
+      "clade": "Cetaceans",
+      "rank": "infraorder",
+      "tax_anchor": "Cetacea",
+      "gap_type": "biological",
+      "why_valuable": "Marine mammals with carnivorous diets; absent despite conservation interest.",
+      "search_terms": ["whale", "dolphin", "Tursiops", "porpoise", "orca", "killer whale", "Orcinus", "humpback", "Megaptera", "sperm whale", "beluga", "Cetacea", "cetacean"]
+    },
+    {
+      "clade": "Bats",
+      "rank": "order",
+      "tax_anchor": "Chiroptera",
+      "gap_type": "mixed",
+      "why_valuable": "Only 1 study; diverse diets (fruit, insects, blood); zoonotic reservoir relevance.",
+      "search_terms": ["bat", "fruit bat", "vampire bat", "Desmodus", "flying fox", "Pteropus", "horseshoe bat", "Rhinolophus", "microbat", "Chiroptera"]
+    },
+    {
+      "clade": "Marsupials",
+      "rank": "infraclass",
+      "tax_anchor": "Marsupialia",
+      "gap_type": "biological",
+      "why_valuable": "Foregut fermentation in some lineages (kangaroo); koala eucalyptus specialization.",
+      "search_terms": ["kangaroo", "Macropus", "koala", "Phascolarctos", "wallaby", "opossum", "Monodelphis", "Didelphis", "Tasmanian devil", "Sarcophilus", "wombat", "sugar glider", "possum", "Marsupialia", "marsupial"]
+    },
+    {
+      "clade": "Xenarthrans",
+      "rank": "superorder",
+      "tax_anchor": "Xenarthra",
+      "gap_type": "biological",
+      "why_valuable": "Sloths/armadillos/anteaters; unusual low-energy diets.",
+      "search_terms": ["sloth", "Bradypus", "Choloepus", "armadillo", "Dasypus", "anteater", "Myrmecophaga", "Xenarthra"]
+    },
+    {
+      "clade": "Sirenians",
+      "rank": "order",
+      "tax_anchor": "Sirenia",
+      "gap_type": "biological",
+      "why_valuable": "Fully aquatic marine herbivores; hindgut fermentation of seagrass.",
+      "search_terms": ["manatee", "Trichechus", "dugong", "Dugong", "Sirenia", "sea cow"]
+    },
+    {
+      "clade": "Monotremes",
+      "rank": "order",
+      "tax_anchor": "Monotremata",
+      "gap_type": "biological",
+      "why_valuable": "Egg-laying mammals; deepest mammalian phylogenetic branch.",
+      "search_terms": ["platypus", "Ornithorhynchus", "echidna", "Tachyglossus", "Monotremata", "monotreme"]
+    },
+    {
+      "clade": "Penguins",
+      "rank": "order",
+      "tax_anchor": "Sphenisciformes",
+      "gap_type": "mixed",
+      "why_valuable": "Marine piscivorous birds; Antarctic ecology interest.",
+      "search_terms": ["penguin", "Aptenodytes", "Spheniscus", "Pygoscelis", "Sphenisciformes"]
+    },
+    {
+      "clade": "Parrots",
+      "rank": "order",
+      "tax_anchor": "Psittaciformes",
+      "gap_type": "mixed",
+      "why_valuable": "Frugivore/granivore birds; companion-animal relevance.",
+      "search_terms": ["parrot", "budgerigar", "Melopsittacus", "macaw", "cockatoo", "parakeet", "Psittaciformes"]
+    },
+    {
+      "clade": "Ratites",
+      "rank": "infraclass",
+      "tax_anchor": "Palaeognathae",
+      "gap_type": "mixed",
+      "why_valuable": "Flightless herbivores (ostrich, emu); farmed and hindgut fermenting.",
+      "search_terms": ["ostrich", "Struthio", "emu", "Dromaius", "rhea", "kiwi", "cassowary", "Palaeognathae", "ratite"]
+    },
+    {
+      "clade": "Raptors",
+      "rank": "order",
+      "tax_anchor": "Accipitriformes",
+      "gap_type": "biological",
+      "why_valuable": "Obligate carnivorous birds; scavenger microbiome (vultures) notable.",
+      "search_terms": ["eagle", "hawk", "falcon", "Falco", "owl", "vulture", "condor", "Accipitriformes", "Falconiformes", "raptor", "bird of prey"]
+    },
+    {
+      "clade": "Songbirds",
+      "rank": "order",
+      "tax_anchor": "Passeriformes",
+      "gap_type": "search",
+      "why_valuable": "Zebra finch is a model; large order under-covered = likely search gap.",
+      "search_terms": ["zebra finch", "Taeniopygia", "sparrow", "crow", "raven", "Corvus", "tit", "warbler", "starling", "canary", "finch", "Passeriformes", "passerine", "songbird"]
+    },
+    {
+      "clade": "Fruit fly (Drosophila)",
+      "rank": "genus",
+      "tax_anchor": "Drosophila",
+      "gap_type": "search",
+      "why_valuable": "One of the most-sequenced animals on Earth; thin coverage = definite search gap.",
+      "search_terms": ["fruit fly", "Drosophila", "melanogaster", "vinegar fly"]
+    },
+    {
+      "clade": "Mosquitoes",
+      "rank": "family",
+      "tax_anchor": "Culicidae",
+      "gap_type": "search",
+      "why_valuable": "Vector microbiome heavily studied for disease control.",
+      "search_terms": ["mosquito", "Anopheles", "Aedes", "Culex", "Culicidae"]
+    },
+    {
+      "clade": "Termites and cockroaches",
+      "rank": "order",
+      "tax_anchor": "Blattodea",
+      "gap_type": "mixed",
+      "why_valuable": "Termite hindgut is a classic lignocellulose-degrading microbiome system.",
+      "search_terms": ["termite", "Reticulitermes", "Nasutitermes", "cockroach", "Blattodea", "Blattella"]
+    },
+    {
+      "clade": "Beetles",
+      "rank": "order",
+      "tax_anchor": "Coleoptera",
+      "gap_type": "biological",
+      "why_valuable": "Largest animal order; dung/wood-feeding guilds have specialized microbiomes.",
+      "search_terms": ["beetle", "weevil", "dung beetle", "Coleoptera", "Tribolium"]
+    },
+    {
+      "clade": "Butterflies and moths",
+      "rank": "order",
+      "tax_anchor": "Lepidoptera",
+      "gap_type": "mixed",
+      "why_valuable": "Silkworm is farmed/model; caterpillar gut microbiome debated.",
+      "search_terms": ["butterfly", "moth", "silkworm", "Bombyx", "caterpillar", "Lepidoptera", "Manduca"]
+    }
+  ]
+}

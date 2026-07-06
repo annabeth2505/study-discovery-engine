@@ -1,0 +1,67 @@
+run_accession	study_accession	scientific_name	host_scientific_name	host_tax_id	library_source	library_strategy	_clade	_tier
+ERR1720524	PRJEB17686	insect gut metagenome	Lycaenidae sp.;Papilionoidea;Lycaenidae	37572;27544	METAGENOMIC	OTHER	Lizards	anchor
+ERR2403609	PRJEB25617	oral metagenome	Testudines	8459	METAGENOMIC	AMPLICON	Turtles and tortoises	anchor
+ERR5328835	PRJEB11419	gut metagenome	Testudines	8459	METAGENOMIC	AMPLICON	Turtles and tortoises	anchor
+SRR23341648	PRJNA931656	skin metagenome	Amphibia	8292	METAGENOMIC	AMPLICON	Amphibians (all)	anchor
+SRR21859826	PRJNA889361	gut metagenome	Amphibia	8292	METAGENOMIC	AMPLICON	Amphibians (all)	anchor
+SRR25730456	PRJNA999620	amphibian metagenome	Anura	8342	METAGENOMIC	AMPLICON	Frogs and toads	anchor
+SRR19118083	PRJNA835803	fish gut metagenome	Actinopterygii	7898	METAGENOMIC	AMPLICON	Ray-finned fish (broad)	anchor
+SRR30573970	PRJNA1156918	fish metagenome	Actinopterygii	7898	METAGENOMIC	AMPLICON	Ray-finned fish (broad)	anchor
+SRR15135972	PRJNA746569	invertebrate metagenome	Mollusca	6447	METAGENOMIC	AMPLICON	Molluscs (broad)	anchor
+SRR1296389	PRJNA244498	Nematoda		6448	METAGENOMIC	AMPLICON	Gastropods (beyond current)	anchor
+SRR3498804	PRJNA312520	gut metagenome	Gastropoda	6448	METAGENOMIC	AMPLICON	Gastropods (beyond current)	anchor
+SRR34846783	PRJNA365078	annelid metagenome	Annelida	6340	METAGENOMIC	WGS	Annelids	anchor
+SRR34846782	PRJNA365079	annelid metagenome	Annelida	6340	METAGENOMIC	WGS	Annelids	anchor
+SRR34846807	PRJNA365080	annelid metagenome	Annelida	6340	METAGENOMIC	WGS	Annelids	anchor
+SRR33039483	PRJNA1248212	soil metagenome	Nematoda	6231	METAGENOMIC	AMPLICON	Nematodes	anchor
+SRR33215780	PRJNA1252374	Cruznema sp. NTM-2021	Nematoda	6231	METAGENOMIC	AMPLICON	Nematodes	anchor
+ERR3943043	PRJEB36857	human skin metagenome	Homo sapiens;Cetacea	9721	METAGENOMIC	AMPLICON	Cetaceans	anchor
+ERR1462849	PRJEB14489	bat metagenome	Chiroptera	9397	METAGENOMIC	OTHER	Bats	anchor
+SRR12179522	PRJNA565775	feces metagenome	Chiroptera	9397	METAGENOMIC	OTHER	Bats	anchor
+SRR33769952	PRJNA1269778	bat gut metagenome	Chiroptera	9397	METAGENOMIC	WGS	Bats	anchor
+SRR3672948	PRJNA325503	gut metagenome	Chiroptera	9397	METAGENOMIC	AMPLICON	Bats	anchor
+SRR408750	PRJNA84289	uncultured bacterium	Chiroptera	9397	METAGENOMIC	AMPLICON	Bats	anchor
+SRR5351760	PRJNA379515	bat metagenome	Chiroptera	9397	METAGENOMIC	WGS	Bats	anchor
+SRR8654767	PRJNA525109	gut metagenome	Chiroptera	9397	METAGENOMIC	AMPLICON	Bats	anchor
+SRR10448412	PRJNA464362	feces metagenome	Chiroptera	9397	METAGENOMIC	AMPLICON	Bats	anchor
+SRR7127579	PRJNA464356	feces metagenome	Chiroptera	9397	METAGENOMIC	AMPLICON	Bats	anchor
+SRR975462	PRJNA218570	gut metagenome	Chiroptera	9397	METAGENOMIC	OTHER	Bats	anchor
+SRR13255162	PRJNA685292	synthetic metagenome		2081351	METAGENOMIC	AMPLICON	Fruit fly (Drosophila)	anchor
+SRR13825924	PRJNA705894	metagenome	Culicidae	7157	METAGENOMIC	WGS	Mosquitoes	anchor
+SRR16203552	PRJNA768434	feces metagenome	Culicidae	7157	METAGENOMIC	AMPLICON	Mosquitoes	anchor
+SRR17856739	PRJNA802710	Cell fusing agent virus	Culicidae	7157	METAGENOMIC	WGS	Mosquitoes	anchor
+SRR31439580	PRJNA1187880	mosquito metagenome	Culicidae	7157	METAGENOMIC	AMPLICON	Mosquitoes	anchor
+SRR33037373	PRJNA1248132	mosquito metagenome	Culicidae	7157	METAGENOMIC	AMPLICON	Mosquitoes	anchor
+SRR26675359	PRJNA1036017	insect metagenome	Coleoptera	7041	METAGENOMIC	AMPLICON	Beetles	anchor
+SRR30928202	PRJNA1169755	insect metagenome		7041	METAGENOMIC	AMPLICON	Beetles	anchor
+SRR19744570	PRJNA849724	insect metagenome	Lepidoptera	7088	METAGENOMIC	AMPLICON	Butterflies and moths	anchor
+SRR28000469	PRJNA1077668	insect metagenome	Lepidoptera	7088	METAGENOMIC	AMPLICON	Butterflies and moths	anchor
+SRR15296376	PRJNA750668	gut metagenome	Lepidoptera	7088	METAGENOMIC	AMPLICON	Butterflies and moths	anchor
+SRR24416562	PRJNA965898	insect metagenome	Lepidoptera	7088	METAGENOMIC	AMPLICON	Butterflies and moths	anchor
+DRR658114	PRJDB20379	cetacean metagenome	Sagmatias obliquidens	3371155	METAGENOMIC	WGS	Cetaceans	species
+SRR33121902	PRJNA1250450	skin metagenome	Tursiops erebennus	2944587	METAGENOMIC	RNA-Seq	Cetaceans	species
+SRR22936438	PRJNA901878	viral metagenome	Murina sp.	3412434	METAGENOMIC	WGS	Bats	species
+ERR15337958	PRJEB91453	mammal metagenome	Dugong dugon	29137	METAGENOMIC	WGS	Sirenians	species
+SRR18146619	PRJNA810306	gut metagenome	Trichechus manatus	9778	METAGENOMIC	AMPLICON	Sirenians	species
+SRR2960049	PRJNA303105	gut metagenome	Trichechus manatus	9778	METAGENOMIC	AMPLICON	Sirenians	species
+SRR21816580	PRJNA887424	feces metagenome	Trichechus manatus	9778	METAGENOMIC	AMPLICON	Sirenians	species
+SRR17438131	PRJNA794207	gut metagenome	Spheniscus mendiculus	156760	METAGENOMIC	AMPLICON	Penguins	species
+SRR15609747	PRJNA757721	metagenome	Spheniscus demersus	92683	METAGENOMIC	AMPLICON	Penguins	species
+SRR31788956	PRJNA1200941	metagenome	Spheniscus demersus	92683	METAGENOMIC	AMPLICON	Penguins	species
+SRR13767224	PRJNA704214	feces metagenome	Pygoscelis antarcticus	79643	METAGENOMIC	AMPLICON	Penguins	species
+SRR24212603	PRJNA956456	gut metagenome	Pygoscelis antarcticus	79643	METAGENOMIC	RNA-Seq	Penguins	species
+SRR9719864	PRJNA555609	bird metagenome	Pygoscelis antarcticus	79643	METAGENOMIC	RNA-Seq	Penguins	species
+SRR32391605	PRJNA1224211	bird metagenome	Eudyptes chrysolophus	79627	METAGENOMIC	AMPLICON	Penguins	species
+ERR196170	PRJEB3384	Eudyptula minor	Eudyptula minor	37083	METAGENOMIC	AMPLICON	Penguins	species
+SRR22881774	PRJNA437674	metagenome	Eudyptula minor	37083	METAGENOMIC	AMPLICON	Penguins	species
+ERR4657875	PRJEB40660	Spheniscus magellanicus	Spheniscus magellanicus	37081	METAGENOMIC	RNA-Seq	Penguins	species
+SRR24581845	PRJNA972831	bird metagenome	Spheniscus magellanicus	37081	METAGENOMIC	AMPLICON	Penguins	species
+SRR32416737	PRJNA1225745	metagenome	Spheniscus magellanicus	37081	METAGENOMIC	AMPLICON	Penguins	species
+SRR9161222	PRJNA544469	gut metagenome		37081	METAGENOMIC	AMPLICON	Penguins	species
+SRR13341099	PRJNA689088	feces metagenome	Pygoscelis papua	30457	METAGENOMIC	AMPLICON	Penguins	species
+SRR36086900	PRJNA1359116	gut metagenome	Pygoscelis papua	30457	METAGENOMIC	AMPLICON	Penguins	species
+SRR24915820	PRJNA983076	feces metagenome	Spheniscus humboldti	9240	METAGENOMIC	WGS	Penguins	species
+DRR531588	PRJDB17206	feces metagenome	Pygoscelis adeliae	9238	METAGENOMIC	AMPLICON	Penguins	species
+SRR10136532	PRJNA566128	feces metagenome	Pygoscelis adeliae	9238	METAGENOMIC	AMPLICON	Penguins	species
+SRR7614690	PRJNA481090	feces metagenome	Pygoscelis adeliae	9238	METAGENOMIC	AMPLICON	Penguins	species
+SRR6378197	PRJNA422502	insect gut metagenome	Ruptitermes nr. xanthochiton	3472100	METAGENOMIC	AMPLICON	Termites and cockroaches	species
