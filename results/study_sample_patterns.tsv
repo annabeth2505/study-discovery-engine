@@ -1,0 +1,1048 @@
+study_accession	n_samples	n_host_populated	pct_host_complete	n_distinct_hosts	distinct_host_list	sample_host_pattern	seq_type_mix	n_distinct_seq_types	has_genomic	n_genomic	host_pattern_confirmed	host_pattern_llm_note
+PRJDB10829	112	112	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:112	1	False	0	UNIFORM	
+PRJDB11394	4	4	1.0	1	Anas sp.	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJDB13194	4	0	0.0	0		NO_HOST_DATA	METAGENOMIC:4	1	False	0	NO_HOST_DATA	
+PRJDB13214	208	208	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:208	1	False	0	UNIFORM	
+PRJDB14208	55	55	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:55	1	False	0	UNIFORM	
+PRJDB14449	3	3	1.0	1	Chimaeridae	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJDB14457	98	98	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:98	1	False	0	UNIFORM	
+PRJDB1459	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJDB1461	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJDB15258	4	0	0.0	0		NO_HOST_DATA	METAGENOMIC:4	1	False	0	NO_HOST_DATA	
+PRJDB15798	60	60	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJDB15857	80	80	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:80	1	False	0	UNIFORM	
+PRJDB15956	167	167	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:167	1	False	0	UNIFORM	
+PRJDB16036	13	13	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJDB16260	250	104	0.416	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:250	1	False	0	UNIFORM_WITH_GAPS	
+PRJDB16312	30	30	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJDB16698	6	6	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJDB16790	428	428	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:428	1	False	0	UNIFORM	
+PRJDB17048	71	71	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:71	1	False	0	UNIFORM	
+PRJDB17221	106	106	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:106	1	False	0	UNIFORM	
+PRJDB17226	10	10	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJDB17227	52	52	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJDB1800	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJDB18316	166	166	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:166	1	False	0	UNIFORM	
+PRJDB18359	45	45	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:45	1	False	0	UNIFORM	
+PRJDB18384	11	11	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:11	1	False	0	UNIFORM	
+PRJDB18854	112	112	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:112	1	False	0	UNIFORM	
+PRJDB19991	40	40	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJDB20286	14	14	1.0	1	Locusta migratoria	UNIFORM	METAGENOMIC:14	1	False	0	UNIFORM	
+PRJDB20287	1	1	1.0	1	Locusta migratoria	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJDB20360	490	490	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:490	1	False	0	UNIFORM	
+PRJDB20379	63	63	1.0	8	Balaenoptera acutorostrata; Kogia breviceps; Mesoplodon stejnegeri; Phocoena phocoena; Phocoenoides dalli; Physeter macrocephalus; Sagmatias obliquidens; Ziphius cavirostris	DIVERSE	METAGENOMIC:63	1	False	0	DIVERSE	Eight distinct cetacean species representing genuinely different animals across multiple families and genera.
+PRJDB20772	8	8	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJDB2552	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJDB2695	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJDB31830	79	79	1.0	1	Pseudois nayaur	UNIFORM	METAGENOMIC:79	1	False	0	UNIFORM	
+PRJDB32644	18	18	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJDB33192	51	51	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:51	1	False	0	UNIFORM	
+PRJDB34615	82	82	1.0	1	Phascolarctos cinereus	UNIFORM	METAGENOMIC:82	1	False	0	UNIFORM	
+PRJDB35189	88	88	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:88	1	False	0	UNIFORM	
+PRJDB36191	20	20	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJDB36334	114	114	1.0	3	Capreolus pygargus; Cervus albirostris; Cervus nippon	DIVERSE	METAGENOMIC:114	1	False	0	DIVERSE	Three distinct deer species from different genera and/or species within Cervidae family.
+PRJDB36502	16	16	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJDB36556	7	7	1.0	2	Corvus corax; Corvus macrorhynchos	DIVERSE	METAGENOMIC:7	1	False	0	DIVERSE	Two distinct Corvus species: common raven versus large-billed crow.
+PRJDB36557	7	7	1.0	2	Corvus corax; Corvus macrorhynchos	DIVERSE	METAGENOMIC:7	1	False	0	DIVERSE	Two distinct Corvus species: common raven and large-billed crow are genuinely different animals.
+PRJDB36775	118	118	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:118	1	False	0	UNIFORM	
+PRJDB36826	72	72	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:72	1	False	0	UNIFORM	
+PRJDB36846	36	36	1.0	2	Eukaryota sp.; Mus sp.	DIVERSE	METAGENOMIC:27; TRANSCRIPTOMIC:9	2	False	0	UNIFORM	Mus sp. is a genus-level label for the mouse genus, and Eukaryota sp. is an overly general kingdom-level label that contains Mus; both refer to the same mouse study with inconsistent taxonomic precision.
+PRJDB36905	42	12	0.286	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:42	1	False	0	UNIFORM_WITH_GAPS	
+PRJDB36916	132	132	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:132	1	False	0	UNIFORM	
+PRJDB37067	12	12	1.0	4	Capra hircus; Kobus leche; Naemorhedus goral; Ovis ammon	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Four genuinely different ungulate species from distinct genera; not variants or general-vs-specific relationships.
+PRJDB37496	50	50	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:50	1	False	0	UNIFORM	
+PRJDB37508	470	470	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:470	1	False	0	UNIFORM	
+PRJDB38277	51	51	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:51	1	False	0	UNIFORM	
+PRJDB38518	22	22	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:22	1	False	0	UNIFORM	
+PRJDB38615	140	6	0.043	1	Mus musculus	UNIFORM_WITH_GAPS	METAGENOMIC:134; TRANSCRIPTOMIC:6	2	False	0	UNIFORM_WITH_GAPS	
+PRJDB38794	8	8	1.0	1	Apis cerana	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJDB38848	12	12	1.0	3	Corvus dauuricus; Corvus frugilegus; Pyrrhocorax pyrrhocorax	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Three distinct corvid species representing genuinely different animals.
+PRJDB38851	12	12	1.0	3	Corvus dauuricus; Corvus frugilegus; Pyrrhocorax pyrrhocorax	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Three distinct bird species from different genera (Corvus vs Pyrrhocorax), representing genuinely different animals.
+PRJDB38938	18	18	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:12; TRANSCRIPTOMIC SINGLE CELL:6	2	False	0	UNIFORM	
+PRJDB39230	32	32	1.0	1	Equus hemionus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJDB39249	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJDB4176	645	645	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:645	1	False	0	UNIFORM	
+PRJDB4525	36	36	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:36	1	False	0	UNIFORM	
+PRJDB5383	3	3	1.0	1	Bos taurus	UNIFORM	VIRAL RNA:2; METAGENOMIC:1	2	False	0	UNIFORM	
+PRJDB6165	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJDB6503	30	30	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJDB6620	25	25	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:25	1	False	0	UNIFORM	
+PRJDB6640	3	3	1.0	1	Paradoxurus hermaphroditus	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJDB7378	50	50	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:50	1	False	0	UNIFORM	
+PRJDB7630	40	40	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJDB7767	118	118	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:118	1	False	0	UNIFORM	
+PRJDB9383	8	8	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJDB9649	88	88	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:88	1	False	0	UNIFORM	
+PRJDB9922	48	48	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJEB101774	79	0	0.0	0		NO_HOST_DATA	METAGENOMIC:79	1	False	0	NO_HOST_DATA	
+PRJEB101827	120	120	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:120	1	False	0	UNIFORM	
+PRJEB101960	107	0	0.0	0		NO_HOST_DATA	METAGENOMIC:107	1	False	0	NO_HOST_DATA	
+PRJEB102170	71	0	0.0	0		NO_HOST_DATA	METAGENOMIC:71	1	False	0	NO_HOST_DATA	
+PRJEB102289	72	0	0.0	0		NO_HOST_DATA	METAGENOMIC:72	1	False	0	NO_HOST_DATA	
+PRJEB102366	72	0	0.0	0		NO_HOST_DATA	METAGENOMIC:72	1	False	0	NO_HOST_DATA	
+PRJEB103086	25	0	0.0	0		NO_HOST_DATA	METAGENOMIC:25	1	False	0	NO_HOST_DATA	
+PRJEB103317	71	0	0.0	0		NO_HOST_DATA	METAGENOMIC:71	1	False	0	NO_HOST_DATA	
+PRJEB10338	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJEB104707	41	0	0.0	0		NO_HOST_DATA	METAGENOMIC:41	1	False	0	NO_HOST_DATA	
+PRJEB105017	2	0	0.0	0		NO_HOST_DATA	METAGENOMIC:2	1	False	0	NO_HOST_DATA	
+PRJEB106128	1400	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1400	1	False	0	NO_HOST_DATA	
+PRJEB106514	23	23	1.0	1	Panthera leo	UNIFORM	METAGENOMIC:23	1	False	0	UNIFORM	
+PRJEB107655	64	62	0.969	1	Callithrix jacchus	UNIFORM	METAGENOMIC:64	1	False	0	UNIFORM	
+PRJEB108722	80	80	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:80	1	False	0	UNIFORM	
+PRJEB10878	128	0	0.0	0		NO_HOST_DATA	METAGENOMIC:128	1	False	0	NO_HOST_DATA	
+PRJEB11519	29	0	0.0	0		NO_HOST_DATA	METAGENOMIC:29	1	False	0	NO_HOST_DATA	
+PRJEB11755	295	0	0.0	0		NO_HOST_DATA	METAGENOMIC:295	1	False	0	NO_HOST_DATA	
+PRJEB1220	396	0	0.0	0		NO_HOST_DATA	METAGENOMIC:396	1	False	0	NO_HOST_DATA	
+PRJEB12449	110	0	0.0	0		NO_HOST_DATA	METAGENOMIC:110	1	False	0	NO_HOST_DATA	
+PRJEB12669	19	0	0.0	0		NO_HOST_DATA	METAGENOMIC:19	1	False	0	NO_HOST_DATA	
+PRJEB13870	196	0	0.0	0		NO_HOST_DATA	METAGENOMIC:196	1	False	0	NO_HOST_DATA	
+PRJEB14215	73	0	0.0	0		NO_HOST_DATA	METAGENOMIC:73	1	False	0	NO_HOST_DATA	
+PRJEB14312	5	5	1.0	1	Ovis aries	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJEB14847	323	0	0.0	0		NO_HOST_DATA	METAGENOMIC:323	1	False	0	NO_HOST_DATA	
+PRJEB14935	3	0	0.0	0		NO_HOST_DATA	METAGENOMIC:3	1	False	0	NO_HOST_DATA	
+PRJEB15095	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJEB15296	3	0	0.0	0		NO_HOST_DATA	METAGENOMIC:3	1	False	0	NO_HOST_DATA	
+PRJEB15341	6	0	0.0	0		NO_HOST_DATA	METAGENOMIC:6	1	False	0	NO_HOST_DATA	
+PRJEB15371	122	0	0.0	0		NO_HOST_DATA	METAGENOMIC:122	1	False	0	NO_HOST_DATA	
+PRJEB1690	36	0	0.0	0		NO_HOST_DATA	METAGENOMIC:36	1	False	0	NO_HOST_DATA	
+PRJEB1786	145	0	0.0	0		NO_HOST_DATA	METAGENOMIC:145	1	False	0	NO_HOST_DATA	
+PRJEB18627	18	0	0.0	0		NO_HOST_DATA	METAGENOMIC:18	1	False	0	NO_HOST_DATA	
+PRJEB18805	395	0	0.0	0		NO_HOST_DATA	METAGENOMIC:395	1	False	0	NO_HOST_DATA	
+PRJEB20308	129	129	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:129	1	False	0	UNIFORM	
+PRJEB21490	10	0	0.0	0		NO_HOST_DATA	METAGENOMIC:10	1	False	0	NO_HOST_DATA	
+PRJEB21599	1	1	1.0	1	Arion ater	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJEB21612	117	0	0.0	0		NO_HOST_DATA	METAGENOMIC:117	1	False	0	NO_HOST_DATA	
+PRJEB21624	43	0	0.0	0		NO_HOST_DATA	METAGENOMIC:42; GENOMIC:1	2	True	1	NO_HOST_DATA	
+PRJEB21827	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJEB22062	363	0	0.0	0		NO_HOST_DATA	METAGENOMIC:363	1	False	0	NO_HOST_DATA	
+PRJEB22175	96	0	0.0	0		NO_HOST_DATA	METAGENOMIC:96	1	False	0	NO_HOST_DATA	
+PRJEB22491	323	0	0.0	0		NO_HOST_DATA	METAGENOMIC:323	1	False	0	NO_HOST_DATA	
+PRJEB22710	52	0	0.0	0		NO_HOST_DATA	METAGENOMIC:52	1	False	0	NO_HOST_DATA	
+PRJEB22765	20	0	0.0	0		NO_HOST_DATA	METAGENOMIC:20	1	False	0	NO_HOST_DATA	
+PRJEB22973	245	0	0.0	0		NO_HOST_DATA	METAGENOMIC:245	1	False	0	NO_HOST_DATA	
+PRJEB23010	205	0	0.0	0		NO_HOST_DATA	METAGENOMIC:205	1	False	0	NO_HOST_DATA	
+PRJEB23147	5249	5151	0.981	1	Homo sapiens	UNIFORM	METAGENOMIC:5249	1	False	0	UNIFORM	
+PRJEB23561	82	0	0.0	0		NO_HOST_DATA	METAGENOMIC:82	1	False	0	NO_HOST_DATA	
+PRJEB23642	12	12	1.0	1	Balaenoptera acutorostrata	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJEB24006	25	0	0.0	0		NO_HOST_DATA	METAGENOMIC:25	1	False	0	NO_HOST_DATA	
+PRJEB24041	212	0	0.0	0		NO_HOST_DATA	METAGENOMIC:212	1	False	0	NO_HOST_DATA	
+PRJEB25514	59	0	0.0	0		NO_HOST_DATA	METAGENOMIC:59	1	False	0	NO_HOST_DATA	
+PRJEB26512	470	68	0.145	65	Akkermansia muciniphila; Anaerococcus vaginalis; Anaerostipes caccae; Anaerostipes hadrus; Bacteroides caccae; Bacteroides faecis; Bacteroides intestinalis; Bacteroides ovatus; Bacteroides uniformis; Bifidobacterium adolescentis; Bifidobacterium breve; Bifidobacterium dentium; Bifidobacterium longum; Bifidobacterium pseudocatenulatum; Blautia glucerasea; Blautia hansenii; Blautia wexlerae; Campylobacter ureolyticus; Citrobacter amalonaticus; Clostridioides difficile; Clostridium butyricum; Clostridium paraputrificum; Clostridium tertium; Collinsella aerofaciens; Collinsella intestinalis; Eggerthella lenta; Enterocloster bolteae; Enterococcus casseliflavus; Enterococcus faecium; Escherichia coli; Eubacterium limosum; Faecalimonas nexilis; Finegoldia magna; Flavonifractor plautii; Hungatella hathewayi; Intestinibacter bartlettii; Klebsiella oxytoca; Lacticaseibacillus rhamnosus; Mediterraneibacter gnavus; Mediterraneibacter torques; Pantoea agglomerans; Parabacteroides distasonis; Parabacteroides merdae; Paraprevotella clara; Peptoniphilus gorbachii; Phocaeicola vulgatus; Phytobacter massiliensis; Roseburia intestinalis; Schaalia odontolytica; Staphylococcus aureus; Staphylococcus simulans; Streptococcus lutetiensis; Streptococcus oralis; Streptococcus parasanguinis; Streptococcus salivarius; Thomasclavelia ramosa; Veillonella atypica; Veillonella dispar; Veillonella parvula; Veillonella ratti; [Clostridium] innocuum; [Clostridium] symbiosum; uncultured Anaerotruncus sp.; uncultured Blautia sp.; uncultured Clostridium sp.	DIVERSE_AND_SPARSE	METAGENOMIC:343; GENOMIC:68; TRANSCRIPTOMIC:59	3	True	68	UNIFORM_WITH_GAPS	All 65 labels are bacterial species/strains from the human gut microbiome; this is a single-host study with detailed microbial community characterization, not multiple animal hosts.
+PRJEB26564	2979	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1974; GENOMIC:1005	2	True	1005	NO_HOST_DATA	
+PRJEB26585	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJEB26596	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJEB26961	220	220	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:220	1	False	0	UNIFORM	
+PRJEB27498	6	6	1.0	1	Gadus morhua	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJEB2778	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJEB27928	82	0	0.0	0		NO_HOST_DATA	METAGENOMIC:82	1	False	0	NO_HOST_DATA	
+PRJEB28161	15	0	0.0	0		NO_HOST_DATA	METAGENOMIC:15	1	False	0	NO_HOST_DATA	
+PRJEB28237	191	0	0.0	0		NO_HOST_DATA	METAGENOMIC:191	1	False	0	NO_HOST_DATA	
+PRJEB29127	171	0	0.0	0		NO_HOST_DATA	METAGENOMIC:171	1	False	0	NO_HOST_DATA	
+PRJEB29152	47	0	0.0	0		NO_HOST_DATA	METAGENOMIC:47	1	False	0	NO_HOST_DATA	
+PRJEB29232	131	131	1.0	1	Vulpes vulpes	UNIFORM	METAGENOMIC:131	1	False	0	UNIFORM	
+PRJEB29346	57	57	1.0	1	Gadus morhua	UNIFORM	METAGENOMIC:57	1	False	0	UNIFORM	
+PRJEB29373	134	0	0.0	0		NO_HOST_DATA	METAGENOMIC:134	1	False	0	NO_HOST_DATA	
+PRJEB30661	2	0	0.0	0		NO_HOST_DATA	METAGENOMIC:2	1	False	0	NO_HOST_DATA	
+PRJEB30834	267	0	0.0	0		NO_HOST_DATA	METAGENOMIC:267	1	False	0	NO_HOST_DATA	
+PRJEB31009	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJEB31051	113	0	0.0	0		NO_HOST_DATA	METAGENOMIC:113	1	False	0	NO_HOST_DATA	
+PRJEB31266	242	240	0.992	1	Bos taurus	UNIFORM	METAGENOMIC:242	1	False	0	UNIFORM	
+PRJEB31650	567	287	0.506	1	Sus scrofa	UNIFORM_WITH_GAPS	METAGENOMIC:567	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB31742	4	0	0.0	0		NO_HOST_DATA	METAGENOMIC:4	1	False	0	NO_HOST_DATA	
+PRJEB32496	77	77	1.0	2	Bos; Swine	DIVERSE	METAGENOMIC:77	1	False	0	DIVERSE	Bos and Swine are two distinct animal species, not variants of the same animal.
+PRJEB32631	2387	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1679; GENOMIC:708	2	True	708	NO_HOST_DATA	
+PRJEB32644	616	24	0.039	2	Collinsella aerofaciens; Collinsella intestinalis	DIVERSE_AND_SPARSE	METAGENOMIC:561; METATRANSCRIPTOMIC:55	2	False	0	DIVERSE_AND_SPARSE	Two distinct bacterial species within the same genus Collinsella, representing genuinely different organisms.
+PRJEB32790	280	0	0.0	0		NO_HOST_DATA	METAGENOMIC:280	1	False	0	NO_HOST_DATA	
+PRJEB32834	74	0	0.0	0		NO_HOST_DATA	METAGENOMIC:74	1	False	0	NO_HOST_DATA	
+PRJEB32890	105	0	0.0	0		NO_HOST_DATA	METAGENOMIC:105	1	False	0	NO_HOST_DATA	
+PRJEB33219	53	0	0.0	0		NO_HOST_DATA	METAGENOMIC:53	1	False	0	NO_HOST_DATA	
+PRJEB33338	25	0	0.0	0		NO_HOST_DATA	METAGENOMIC:25	1	False	0	NO_HOST_DATA	
+PRJEB33500	244	0	0.0	0		NO_HOST_DATA	METAGENOMIC:244	1	False	0	NO_HOST_DATA	
+PRJEB33577	36	0	0.0	0		NO_HOST_DATA	METAGENOMIC:36	1	False	0	NO_HOST_DATA	
+PRJEB34270	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJEB34982	17	17	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:17	1	False	0	UNIFORM	
+PRJEB34992	144	0	0.0	0		NO_HOST_DATA	METAGENOMIC:144	1	False	0	NO_HOST_DATA	
+PRJEB35362	17	0	0.0	0		NO_HOST_DATA	METAGENOMIC:17	1	False	0	NO_HOST_DATA	
+PRJEB36943	90	0	0.0	0		NO_HOST_DATA	METAGENOMIC:90	1	False	0	NO_HOST_DATA	
+PRJEB37062	87	0	0.0	0		NO_HOST_DATA	METAGENOMIC:87	1	False	0	NO_HOST_DATA	
+PRJEB37383	12	12	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJEB37572	86	86	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:86	1	False	0	UNIFORM	
+PRJEB37731	3342	0	0.0	0		NO_HOST_DATA	METAGENOMIC:3342	1	False	0	NO_HOST_DATA	
+PRJEB38000	94	0	0.0	0		NO_HOST_DATA	METAGENOMIC:94	1	False	0	NO_HOST_DATA	
+PRJEB38095	513	0	0.0	0		NO_HOST_DATA	METAGENOMIC:513	1	False	0	NO_HOST_DATA	
+PRJEB38174	340	12	0.035	1	unidentified	UNIFORM_WITH_GAPS	METAGENOMIC:340	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB38343	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJEB39110	70	70	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJEB39465	938	938	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:800; TRANSCRIPTOMIC:138	2	False	0	UNIFORM	
+PRJEB39500	203	0	0.0	0		NO_HOST_DATA	METAGENOMIC:203	1	False	0	NO_HOST_DATA	
+PRJEB39685	132	132	1.0	2	Bos taurus; Meleagris gallopavo	DIVERSE	METAGENOMIC:132	1	False	0	DIVERSE	Cattle and turkey are two distinctly different species.
+PRJEB39955	159	0	0.0	0		NO_HOST_DATA	METAGENOMIC:159	1	False	0	NO_HOST_DATA	
+PRJEB40424	323	0	0.0	0		NO_HOST_DATA	METAGENOMIC:323	1	False	0	NO_HOST_DATA	
+PRJEB40719	31	0	0.0	0		NO_HOST_DATA	METAGENOMIC:31	1	False	0	NO_HOST_DATA	
+PRJEB40767	157	157	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:157	1	False	0	UNIFORM	
+PRJEB40824	6	6	1.0	5	Gallus gallus; Meleagris gallopavo; Rodentia; Sus scrofa; Vulpes vulpes	DIVERSE	METAGENOMIC:6	1	False	0	DIVERSE	Five genuinely different animals: chicken, turkey, rodent(s), pig, and fox represent distinct species across different animal groups.
+PRJEB40866	5	5	1.0	5	Alistipes sp. CU970; Barnesiella sp. CU968; Olsenella sp. CU969; Oscillibacter sp. CU971; Oscillospiraceae bacterium	DIVERSE	GENOMIC:5	1	True	5	DIVERSE	Five distinct bacterial taxa representing different genera/families, not variants of a single organism.
+PRJEB40990	16	16	1.0	3	Coregonus lavaretus; Oncorhynchus mykiss; Salmo salar	DIVERSE	METAGENOMIC:16	1	False	0	DIVERSE	Three distinct fish species from different genera; not general-versus-specific variants of a single animal.
+PRJEB41102	286	0	0.0	0		NO_HOST_DATA	METAGENOMIC:286	1	False	0	NO_HOST_DATA	
+PRJEB41222	60	0	0.0	0		NO_HOST_DATA	METAGENOMIC:60	1	False	0	NO_HOST_DATA	
+PRJEB41306	75	0	0.0	0		NO_HOST_DATA	METAGENOMIC:75	1	False	0	NO_HOST_DATA	
+PRJEB41323	210	210	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:210	1	False	0	UNIFORM	
+PRJEB41657	359	359	1.0	1	Salmo salar	UNIFORM	METAGENOMIC:359	1	False	0	UNIFORM	
+PRJEB41786	150	0	0.0	0		NO_HOST_DATA	METAGENOMIC:150	1	False	0	NO_HOST_DATA	
+PRJEB41787	107	0	0.0	0		NO_HOST_DATA	METAGENOMIC:107	1	False	0	NO_HOST_DATA	
+PRJEB42282	128	0	0.0	0		NO_HOST_DATA	METAGENOMIC:128	1	False	0	NO_HOST_DATA	
+PRJEB42464	59	59	1.0	1	Oncorhynchus mykiss	UNIFORM	METAGENOMIC:59	1	False	0	UNIFORM	
+PRJEB43098	360	360	1.0	1	Salmo salar	UNIFORM	METATRANSCRIPTOMIC:360	1	False	0	UNIFORM	
+PRJEB4336	292	0	0.0	0		NO_HOST_DATA	METAGENOMIC:292	1	False	0	NO_HOST_DATA	
+PRJEB4370	433	431	0.995	2	Bacteroides cellulosilyticus; Mus musculus	DIVERSE	METAGENOMIC:426; GENOMIC:7	2	True	7	DIVERSE	Bacteroides cellulosilyticus is a bacterial species while Mus musculus is a eukaryotic mammal; these are fundamentally different organisms.
+PRJEB4391	36	0	0.0	0		NO_HOST_DATA	METAGENOMIC:36	1	False	0	NO_HOST_DATA	
+PRJEB44507	4	4	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJEB45273	850	850	1.0	1	Gallus gallus	UNIFORM	GENOMIC:850	1	True	850	UNIFORM	
+PRJEB45274	531	531	1.0	1	Salmo salar	UNIFORM	GENOMIC:531	1	True	531	UNIFORM	
+PRJEB46212	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJEB46550	344	344	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:344	1	False	0	UNIFORM	
+PRJEB46788	2750	0	0.0	0		NO_HOST_DATA	METAGENOMIC:2750	1	False	0	NO_HOST_DATA	
+PRJEB46806	51	51	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:51	1	False	0	UNIFORM	
+PRJEB47458	496	0	0.0	0		NO_HOST_DATA	METAGENOMIC:496	1	False	0	NO_HOST_DATA	
+PRJEB47609	179	179	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:179	1	False	0	UNIFORM	
+PRJEB47613	47	47	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:47	1	False	0	UNIFORM	
+PRJEB47909	115	0	0.0	0		NO_HOST_DATA	METAGENOMIC:115	1	False	0	NO_HOST_DATA	
+PRJEB47976	175	175	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:175	1	False	0	UNIFORM	
+PRJEB48382	120	120	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:120	1	False	0	UNIFORM	
+PRJEB49262	62	62	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:62	1	False	0	UNIFORM	
+PRJEB50555	537	0	0.0	0		NO_HOST_DATA	METAGENOMIC:537	1	False	0	NO_HOST_DATA	
+PRJEB50568	119	0	0.0	0		NO_HOST_DATA	METAGENOMIC:119	1	False	0	NO_HOST_DATA	
+PRJEB50613	62	0	0.0	0		NO_HOST_DATA	METAGENOMIC:62	1	False	0	NO_HOST_DATA	
+PRJEB50625	30	0	0.0	0		NO_HOST_DATA	METAGENOMIC:30	1	False	0	NO_HOST_DATA	
+PRJEB51122	161	0	0.0	0		NO_HOST_DATA	METAGENOMIC:161	1	False	0	NO_HOST_DATA	
+PRJEB51353	9819	0	0.0	0		NO_HOST_DATA	METAGENOMIC:9819	1	False	0	NO_HOST_DATA	
+PRJEB51635	148	0	0.0	0		NO_HOST_DATA	METAGENOMIC:148	1	False	0	NO_HOST_DATA	
+PRJEB51815	179	179	1.0	1	Salmo salar	UNIFORM	METAGENOMIC:179	1	False	0	UNIFORM	
+PRJEB52043	97	0	0.0	0		NO_HOST_DATA	METAGENOMIC:97	1	False	0	NO_HOST_DATA	
+PRJEB52095	438	438	1.0	1	Gallus gallus	UNIFORM	TRANSCRIPTOMIC:438	1	False	0	UNIFORM	
+PRJEB52139	70	70	1.0	1	Gallus gallus	UNIFORM	METATRANSCRIPTOMIC:70	1	False	0	UNIFORM	
+PRJEB5224	260	0	0.0	0		NO_HOST_DATA	METAGENOMIC:260	1	False	0	NO_HOST_DATA	
+PRJEB52269	64	64	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:64	1	False	0	UNIFORM	
+PRJEB52754	68	62	0.912	1	Gasterosteus aculeatus	UNIFORM	METAGENOMIC:68	1	False	0	UNIFORM	
+PRJEB53667	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJEB55462	294	0	0.0	0		NO_HOST_DATA	METAGENOMIC:294	1	False	0	NO_HOST_DATA	
+PRJEB55534	173	0	0.0	0		NO_HOST_DATA	METAGENOMIC:173	1	False	0	NO_HOST_DATA	
+PRJEB55607	100	0	0.0	0		NO_HOST_DATA	METAGENOMIC:100	1	False	0	NO_HOST_DATA	
+PRJEB55711	44	0	0.0	0		NO_HOST_DATA	METAGENOMIC:44	1	False	0	NO_HOST_DATA	
+PRJEB55713	55	0	0.0	0		NO_HOST_DATA	METAGENOMIC:55	1	False	0	NO_HOST_DATA	
+PRJEB55812	15	0	0.0	0		NO_HOST_DATA	METAGENOMIC:15	1	False	0	NO_HOST_DATA	
+PRJEB56324	40	0	0.0	0		NO_HOST_DATA	METAGENOMIC:40	1	False	0	NO_HOST_DATA	
+PRJEB56669	78	0	0.0	0		NO_HOST_DATA	METAGENOMIC:78	1	False	0	NO_HOST_DATA	
+PRJEB57214	145	0	0.0	0		NO_HOST_DATA	METAGENOMIC:145	1	False	0	NO_HOST_DATA	
+PRJEB57228	44	0	0.0	0		NO_HOST_DATA	METAGENOMIC:44	1	False	0	NO_HOST_DATA	
+PRJEB57911	58	0	0.0	0		NO_HOST_DATA	METAGENOMIC:58	1	False	0	NO_HOST_DATA	
+PRJEB58106	115	0	0.0	0		NO_HOST_DATA	METAGENOMIC:115	1	False	0	NO_HOST_DATA	
+PRJEB58157	277	0	0.0	0		NO_HOST_DATA	METAGENOMIC:277	1	False	0	NO_HOST_DATA	
+PRJEB58265	110	110	1.0	2	Apodemus sylvaticus; Crocidura russula	DIVERSE	METAGENOMIC:110	1	False	0	DIVERSE	Two distinct rodent species from different families: Apodemus sylvaticus (wood mouse, Muridae) and Crocidura russula (Iberian shrew, Soricidae).
+PRJEB58441	587	0	0.0	0		NO_HOST_DATA	METAGENOMIC:587	1	False	0	NO_HOST_DATA	
+PRJEB58777	396	0	0.0	0		NO_HOST_DATA	METAGENOMIC:236; GENOMIC:160	2	True	160	NO_HOST_DATA	
+PRJEB58787	204	0	0.0	0		NO_HOST_DATA	METAGENOMIC:108; GENOMIC:96	2	True	96	NO_HOST_DATA	
+PRJEB59119	42	0	0.0	0		NO_HOST_DATA	METAGENOMIC:42	1	False	0	NO_HOST_DATA	
+PRJEB59225	6	6	1.0	1	Gadus morhua	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJEB59350	134	0	0.0	0		NO_HOST_DATA	METAGENOMIC:134	1	False	0	NO_HOST_DATA	
+PRJEB59886	76	76	1.0	1	Salmo salar	UNIFORM	METAGENOMIC:76	1	False	0	UNIFORM	
+PRJEB60080	6	4	0.667	2	Cloning vector pBR322; Sus scrofa domesticus	DIVERSE_AND_SPARSE	METAGENOMIC:5; GENOMIC:1	2	True	1	DIVERSE_AND_SPARSE	A plasmid cloning vector is not an animal; Sus scrofa domesticus is a domestic pig—these are fundamentally different entities.
+PRJEB6070	424	424	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:424	1	False	0	UNIFORM	
+PRJEB60740	3365	1803	0.536	1	Mus musculus	UNIFORM_WITH_GAPS	METAGENOMIC:3365	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB60852	1	1	1.0	1	Rangifer tarandus platyrhynchus	UNIFORM	GENOMIC:1	1	True	1	UNIFORM	
+PRJEB62607	25	0	0.0	0		NO_HOST_DATA	METAGENOMIC:25	1	False	0	NO_HOST_DATA	
+PRJEB62783	30	0	0.0	0		NO_HOST_DATA	METAGENOMIC:30	1	False	0	NO_HOST_DATA	
+PRJEB63613	35	0	0.0	0		NO_HOST_DATA	METAGENOMIC:35	1	False	0	NO_HOST_DATA	
+PRJEB64278	95	87	0.916	1	Callithrix jacchus	UNIFORM	METAGENOMIC:95	1	False	0	UNIFORM	
+PRJEB64334	1292	1250	0.967	1	Salmo salar	UNIFORM	METAGENOMIC:548; TRANSCRIPTOMIC:419; GENOMIC:325	3	True	325	UNIFORM	
+PRJEB6456	400	0	0.0	0		NO_HOST_DATA	METAGENOMIC:400	1	False	0	NO_HOST_DATA	
+PRJEB65885	22	0	0.0	0		NO_HOST_DATA	METAGENOMIC:22	1	False	0	NO_HOST_DATA	
+PRJEB66211	28	0	0.0	0		NO_HOST_DATA	METAGENOMIC:28	1	False	0	NO_HOST_DATA	
+PRJEB66224	20	0	0.0	0		NO_HOST_DATA	METAGENOMIC:20	1	False	0	NO_HOST_DATA	
+PRJEB66261	62	62	1.0	1	Pycnoscelus surinamensis	UNIFORM	METAGENOMIC:62	1	False	0	UNIFORM	
+PRJEB66438	33	33	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:33	1	False	0	UNIFORM	
+PRJEB66439	472	426	0.903	2	Blank sample;blank sample; Canis lupus familiaris	DIVERSE	METAGENOMIC:472	1	False	0	DIVERSE	Blank samples represent negative controls or environmental blanks, genuinely distinct from dog host samples.
+PRJEB66719	306	0	0.0	0		NO_HOST_DATA	METAGENOMIC:306	1	False	0	NO_HOST_DATA	
+PRJEB67586	167	0	0.0	0		NO_HOST_DATA	METAGENOMIC:167	1	False	0	NO_HOST_DATA	
+PRJEB68161	294	0	0.0	0		NO_HOST_DATA	METAGENOMIC:294	1	False	0	NO_HOST_DATA	
+PRJEB6997	530	0	0.0	0		NO_HOST_DATA	METAGENOMIC:530	1	False	0	NO_HOST_DATA	
+PRJEB70517	173	173	1.0	2	Mus musculus; control sample	DIVERSE	METAGENOMIC:173	1	False	0	UNIFORM	'control sample' is a sample type descriptor, not a host label; both labels refer to the same mouse species.
+PRJEB70928	129	129	1.0	1	Macaca mulatta	UNIFORM	METAGENOMIC:129	1	False	0	UNIFORM	
+PRJEB71372	123	123	1.0	1	Tursiops truncatus	UNIFORM	METAGENOMIC:123	1	False	0	UNIFORM	
+PRJEB72433	295	0	0.0	0		NO_HOST_DATA	METAGENOMIC:295	1	False	0	NO_HOST_DATA	
+PRJEB72437	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJEB73330	14	0	0.0	0		NO_HOST_DATA	METAGENOMIC:14	1	False	0	NO_HOST_DATA	
+PRJEB73511	47	0	0.0	0		NO_HOST_DATA	METAGENOMIC:47	1	False	0	NO_HOST_DATA	
+PRJEB73709	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJEB73981	60	52	0.867	1	Mus musculus	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJEB74042	931	0	0.0	0		NO_HOST_DATA	METAGENOMIC:931	1	False	0	NO_HOST_DATA	
+PRJEB74236	118	0	0.0	0		NO_HOST_DATA	METAGENOMIC:118	1	False	0	NO_HOST_DATA	
+PRJEB74482	862	779	0.904	1	Mus musculus	UNIFORM	METAGENOMIC:862	1	False	0	UNIFORM	
+PRJEB74702	24	24	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJEB75763	3	0	0.0	0		NO_HOST_DATA	METAGENOMIC:3	1	False	0	NO_HOST_DATA	
+PRJEB76409	32	15	0.469	1	Mus musculus	UNIFORM_WITH_GAPS	METAGENOMIC:32	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB76898	940	930	0.989	22	Calotriton asper; Canis lupus familiaris; Chalcides striatus; Geospizopsis unicolor; Lepus europaeus; Lissotriton helveticus; Natrix astreptophora; Perisoreus infaustus; Plecotus auritus; Podarcis filfolensis; Podarcis gaigeae; Podarcis liolepis; Podarcis milensis; Podarcis muralis; Podarcis pityusensis; Psittacula echo; Salamandra atra; Sciurus carolinensis; Sciurus vulgaris; Strix aluco; Trichosurus vulpecula; Zonotrichia capensis	DIVERSE	METAGENOMIC:938; GENOMIC:2	2	True	2	DIVERSE	22 distinct species spanning amphibians, reptiles, birds, and mammals representing a genuine multi-host environmental or ecological study.
+PRJEB77081	283	122	0.431	1	Mus musculus	UNIFORM_WITH_GAPS	METAGENOMIC:283	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB77276	481	468	0.973	1	Mus musculus	UNIFORM	METAGENOMIC:481	1	False	0	UNIFORM	
+PRJEB7759	184	0	0.0	0		NO_HOST_DATA	METAGENOMIC:184	1	False	0	NO_HOST_DATA	
+PRJEB7774	156	0	0.0	0		NO_HOST_DATA	METAGENOMIC:156	1	False	0	NO_HOST_DATA	
+PRJEB77930	3	0	0.0	0		NO_HOST_DATA	METAGENOMIC:3	1	False	0	NO_HOST_DATA	
+PRJEB79352	240	240	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:240	1	False	0	UNIFORM	
+PRJEB79635	5	0	0.0	0		NO_HOST_DATA	METAGENOMIC:5	1	False	0	NO_HOST_DATA	
+PRJEB79769	96	96	1.0	1	Felis catus	UNIFORM	METAGENOMIC:96	1	False	0	UNIFORM	
+PRJEB81106	794	0	0.0	0		NO_HOST_DATA	METAGENOMIC:794	1	False	0	NO_HOST_DATA	
+PRJEB81356	27	27	1.0	1	Capreolus capreolus	UNIFORM	METAGENOMIC:27	1	False	0	UNIFORM	
+PRJEB81553	288	217	0.753	1	Mus musculus;Mus musculus castaneus	UNIFORM_WITH_GAPS	METAGENOMIC:288	1	False	0	UNIFORM_WITH_GAPS	
+PRJEB81554	476	449	0.943	1	Mus musculus	UNIFORM	METAGENOMIC:476	1	False	0	UNIFORM	
+PRJEB81709	173	173	1.0	1	Acrocephalus sechellensis	UNIFORM	METAGENOMIC:173	1	False	0	UNIFORM	
+PRJEB81717	27	27	1.0	1	Papio cynocephalus and P. anubis	UNIFORM	METAGENOMIC:27	1	False	0	UNIFORM	
+PRJEB81804	573	417	0.728	2	Homo sapiens; Sus scrofa	DIVERSE_AND_SPARSE	METAGENOMIC:573	1	False	0	DIVERSE_AND_SPARSE	Human and pig are two distinctly different species; this is a legitimate multi-host study.
+PRJEB81807	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJEB82776	279	279	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:279	1	False	0	UNIFORM	
+PRJEB82952	72	0	0.0	0		NO_HOST_DATA	METAGENOMIC:72	1	False	0	NO_HOST_DATA	
+PRJEB83251	26	26	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:26	1	False	0	UNIFORM	
+PRJEB83610	34	34	1.0	1	Capra	UNIFORM	METAGENOMIC:34	1	False	0	UNIFORM	
+PRJEB84467	435	0	0.0	0		NO_HOST_DATA	METAGENOMIC:435	1	False	0	NO_HOST_DATA	
+PRJEB86012	113	0	0.0	0		NO_HOST_DATA	METAGENOMIC:113	1	False	0	NO_HOST_DATA	
+PRJEB86255	720	720	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:720	1	False	0	UNIFORM	
+PRJEB86258	2723	2611	0.959	1	Gallus gallus	UNIFORM	METAGENOMIC:2658; METATRANSCRIPTOMIC:65	2	False	0	UNIFORM	
+PRJEB86259	100	100	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:100	1	False	0	UNIFORM	
+PRJEB86260	1418	1418	1.0	1	Meleagris gallopavo	UNIFORM	METAGENOMIC:1418	1	False	0	UNIFORM	
+PRJEB86261	1128	1128	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:1104; METATRANSCRIPTOMIC:24	2	False	0	UNIFORM	
+PRJEB86262	432	432	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:432	1	False	0	UNIFORM	
+PRJEB88012	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJEB88111	108	108	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:59; GENOMIC:49	2	True	49	UNIFORM	
+PRJEB88329	171	14	0.082	2	Mus musculus; mixed DNA library	DIVERSE_AND_SPARSE	METAGENOMIC:167; TRANSCRIPTOMIC:4	2	False	0	UNIFORM_WITH_GAPS	Mixed DNA library is a technical description of sample composition, not a distinct host animal; both labels refer to Mus musculus samples.
+PRJEB88878	83	83	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:83	1	False	0	UNIFORM	
+PRJEB89232	28	28	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJEB89408	117	117	1.0	23	Dactylopsila trivirgata; Dendrolagus lumholtzi; Lasiorhinus latifrons; Macropus giganteus; Notamacropus agilis; Notamacropus parma; Notamacropus rufogriseus; Onychogalea unguifera; Osphranter rufus; Petauroides volans; Petaurus australis; Petaurus gracilis; Petaurus norfolcensis; Phascolarctos cinereus; Pseudocheirus peregrinus; Pseudochirops archeri; Pseudochirulus herbertensis; Thylogale stigmatica; Trichosurus caninus; Trichosurus cunninghami; Trichosurus vulpecula; Vombatus ursinus; Wallabia bicolor	DIVERSE	METAGENOMIC:117	1	False	0	DIVERSE	23 distinct Australian marsupial species representing genuine biological diversity.
+PRJEB89425	32	0	0.0	0		NO_HOST_DATA	METAGENOMIC:32	1	False	0	NO_HOST_DATA	
+PRJEB89830	38	0	0.0	0		NO_HOST_DATA	METAGENOMIC:38	1	False	0	NO_HOST_DATA	
+PRJEB90218	327	272	0.832	1	Mus musculus	UNIFORM	METAGENOMIC:327	1	False	0	UNIFORM	
+PRJEB90470	6	6	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJEB9357	88	88	1.0	1	Felis catus	UNIFORM	METAGENOMIC:88	1	False	0	UNIFORM	
+PRJEB9403	2281	787	0.345	140	Amycolatopsis mediterranei U32; Aplysiopsis enteromorphae; Arum byzantinum; Arum euxinum; Arum jacquemontii; Arum lucanum; Arum palaestinum; Ascidonia miserabilis; Bosellia sp. PJK-2010; Caliphylla mediterranea; Caliphylla viridis; Chungangia sp. CAU 8465; Elysia stylifera; Ercolania boodleae; Ercolania felina; Ercolania fuscata; Ercolania sp. PJK-2010; Euonymus macropterus; Euonymus sachalinensis; Exhippolysmata ensirostris; Hermaea bifida; Hermaea cruciata; Homo sapiens; Influenza A virus (A/Anhui-Baohe/1351/2009(H1N1)); Influenza A virus (A/Anhui-Baohe/1392/2009(H1N1)); Influenza A virus (A/Beijing-Huairou/1264/2009(H1N1)); Influenza A virus (A/Beijing-Xuanwu/141/2009(H1N1)); Influenza A virus (A/Fujian-Cangshan/1120/2009(H1N1)); Influenza A virus (A/Fujian-Gulou/1333/2009(H1N1)); Influenza A virus (A/Fujian-Gulou/1482/2009(H1N1)); Influenza A virus (A/Fujian-Gulou/1896/2009(H1N1)); Influenza A virus (A/Fujian-Shishi/51/2009(H1N1)); Influenza A virus (A/Guangdong-Futian/174/2009(H1N1)); Influenza A virus (A/Guangdong-Jinping/2138/2009(H1N1)); Influenza A virus (A/Guangdong-Maonan/51/2009(H1N1)); Influenza A virus (A/Guangdong-Xuwen/313/2009(H1N1)); Influenza A virus (A/Guangdong-Yuncheng/1193/2009(H1N1)); Influenza A virus (A/Guangdong-Yuncheng/1512/2009(H1N1)); Influenza A virus (A/Guangxi-Qingxiu/1250/2009(H1N1)); Influenza A virus (A/Hebei-Xinshi/117/2009(H1N1)); Influenza A virus (A/Heilongjiang-Daoli/112/2009(H1N1)); Influenza A virus (A/Heilongjiang-Hailin/15/2009(H1N1)); Influenza A virus (A/Heilongjiang-Nangang/1110/2009(H1N1)); Influenza A virus (A/Heilongjiang-Xiangfang/169/2009(H1N1)); Influenza A virus (A/Henan-Jinshui/125/2009(H1N1)); Influenza A virus (A/Henan-Jinshui/51/2009(H1N1)); Influenza A virus (A/Henan-Xigong/18/2009(H1N1)); Influenza A virus (A/Henan-Zhongyuan/111/2009(H1N1)); Influenza A virus (A/Huairou/620/2009(H1N1)); Influenza A virus (A/Hubei-Jiangan/117/2009(H1N1)); Influenza A virus (A/Hubei-Xiangcheng/312/2009(H1N1)); Influenza A virus (A/Hubei-Yidu/314/2009(H1N1)); Influenza A virus (A/Hunan-Beihu/1237/2009(H1N1)); Influenza A virus (A/Hunan-Furong/112/2009(H1N1)); Influenza A virus (A/Hunan-Leiyang/39/2009(H1N1)); Influenza A virus (A/Hunan-Louxing/322/2009(H1N1)); Influenza A virus (A/Hunan-Qiyang/34/2009(H1N1)); Influenza A virus (A/Hunan-Wuling/1120/2009(H1N1)); Influenza A virus (A/Hunan-Yuelu/310/2009(H1N1)); Influenza A virus (A/Hunan-Yuelu/32/2009(H1N1)); Influenza A virus (A/Hunan-Yuelu/37/2009(H1N1)); Influenza A virus (A/Hunan-Yueyanglou/317/2009(H1N1)); Influenza A virus (A/Jiangsu-Gulou/11/2009(H1N1)); Influenza A virus (A/Jiangsu-Gulou/110/2009(H1N1)); Influenza A virus (A/Jiangxi-Yuanzhou/1119/2009(H1N1)); Influenza A virus (A/Jiangxi-Yuanzhou/14/2009(H1N1)); Influenza A virus (A/Jiangxi-Zhanggong/118/2009(H1N1)); Influenza A virus (A/Jilin-Chaoyang/111/2009(H1N1)); Influenza A virus (A/Jilin-Chuanying/121/2009(H1N1)); Influenza A virus (A/Jilin-Chuanying/163/2009(H1N1)); Influenza A virus (A/Lanzhou/121/2009(H1N1)); Influenza A virus (A/Liaoning-Heping/146/2009(H1N1)); Influenza A virus (A/Liaoning-Tiedong/14/2009(H1N1)); Influenza A virus (A/Liaoning-Zhenxing/1117/2009(H1N1)); Influenza A virus (A/Liaoning-Zhenxing/175/2009(H1N1)); Influenza A virus (A/Ningxia-Xingqing/233/2009(H1N1)); Influenza A virus (A/Ningxia-Zhongning/17/2009(H1N1)); Influenza A virus (A/Shandong-HuaiYin/11/2009(H1N1)); Influenza A virus (A/Shandong-HuaiYin/1106/2009(H1N1)); Influenza A virus (A/Shandong-HuaiYin/148/2009(H1N1)); Influenza A virus (A/Shandong-HuaiYin/162/2009(H1N1)); Influenza A virus (A/Shandong-HuaiYin/19/2009(H1N1)); Influenza A virus (A/Shandong-Taishan/126/2009(H1N1)); Influenza A virus (A/Shanghai-Nanhui/1128/2009(H1N1)); Influenza A virus (A/Shanxi-Taigu/118/2009(H1N1)); Influenza A virus (A/Sichuan-Anyue/154/2009(H1N1)); Influenza A virus (A/Sichuan-Longmatan/515/2009(H1N1)); Influenza A virus (A/Sichuan-Wuhou/51/2009(H1N1)); Influenza A virus (A/Tianjin-Jinnan/15/2009(H1N1)); Influenza A virus (A/Xinjiang-Hutubi/11/2009(H1N1)); Influenza A virus (A/Zhejiang-Haishu/1305/2009(H1N1)); Limnospira maxima KMMCC CY-049; Limnospira maxima UTEX LB 2342; Limnospira platensis KMMCC CY-007; Lysmata argentopunctata; Lysmata cf. boggessi JAB-2010; Lysmata cf. intermedia JAB-2010; Lysmata vittata; Merguia oligodon; Merhippolyte ancistrota; Palaemon floridanum; Placida kingstoni; Placida verticillata; Pontonia domestica; Pontonia mexicana; Prunus carduchorum; Prunus fenzliana; Prunus haussknechtii; Prunus korshinskyi; Prunus nairica; Prunus scoparia; Prunus spartioides; Prunus x keredjensis; Pupa nitidula; Salix canariensis; Salmonella enterica subsp. enterica serovar Montevideo str. 30077; Salmonella enterica subsp. enterica serovar Montevideo str. 50079; Salmonella enterica subsp. enterica serovar Montevideo str. 50080; Salmonella enterica subsp. enterica serovar Montevideo str. 50262; Salmonella enterica subsp. enterica serovar Montevideo str. 50270; Salmonella enterica subsp. enterica serovar Montevideo str. ATCC BAA710; Salmonella enterica subsp. enterica serovar Montevideo str. CASC_09SCPH15965; Salmonella enterica subsp. enterica serovar Montevideo str. LQC 10; Salmonella enterica subsp. enterica serovar Montevideo str. NC_MB110209-0054; Salmonella enterica subsp. enterica serovar Montevideo str. OH_2009072675; Salmonella enterica subsp. enterica serovar Montevideo str. SAL0145; Salmonella enterica subsp. enterica serovar Montevideo str. SARB30; Salmonella enterica subsp. enterica serovar Montevideo str. SARB31; Salmonella enterica subsp. enterica serovar Senftenberg str. 316235162; Salmonella enterica subsp. enterica serovar Senftenberg str. 361154004; Salmonella enterica subsp. enterica serovar Senftenberg str. 423984-1; Salmonella enterica subsp. enterica serovar Senftenberg str. 423984-2; Salmonella enterica subsp. enterica serovar Senftenberg str. NC_MB012510-0038; Salmonella enterica subsp. enterica serovar Senftenberg str. WA_14508; Salmonella enterica subsp. enterica serovar Tennessee str. 4083; Salmonella enterica subsp. enterica serovar Tennessee str. 4535; Salmonella enterica subsp. enterica serovar Tennessee str. 54; Taenia arctos; uncultured Breviata; unidentified	DIVERSE_AND_SPARSE	METAGENOMIC:1496; GENOMIC:785	2	True	785	DIVERSE_AND_SPARSE	This is a highly diverse metagenomic study spanning multiple kingdoms: humans, viruses, marine invertebrates, plants, bacteria, and other organisms—genuine multi-host diversity, not labeling variants.
+PRJEB96078	192	167	0.87	1	Mus musculus	UNIFORM	METAGENOMIC:192	1	False	0	UNIFORM	
+PRJEB97391	344	9	0.026	1	mixed DNA library	UNIFORM_WITH_GAPS	METAGENOMIC:344	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1000214	16	16	1.0	1	Wenchang Chicken	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA1002411	140	140	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:140	1	False	0	UNIFORM	
+PRJNA1003305	6	6	1.0	1	Mice	UNIFORM	OTHER:6	1	False	0	UNIFORM	
+PRJNA1006089	169	0	0.0	0		NO_HOST_DATA	METAGENOMIC:169	1	False	0	NO_HOST_DATA	
+PRJNA1006316	350	350	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:350	1	False	0	UNIFORM	
+PRJNA1008639	6	5	0.833	5	mouse_1;mouse 1; mouse_3;mouse 3; mouse_5;mouse 5; mouse_7;mouse 7; mouse_9;mouse 9	DIVERSE	METAGENOMIC:6	1	False	0	DIVERSE	Five distinct individual mice identified by unique numbering (1, 3, 5, 7, 9), not alternative labels for a single animal.
+PRJNA1009258	61	61	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:61	1	False	0	UNIFORM	
+PRJNA1010388	109	109	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:109	1	False	0	UNIFORM	
+PRJNA1010706	419	419	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:279; METATRANSCRIPTOMIC:140	2	False	0	UNIFORM	
+PRJNA1011201	6	6	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1011357	10	10	1.0	1	Cyprinus carpio	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA1012496	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJNA1014131	16	16	1.0	2	Manis javanica; Manis pentadactyla	DIVERSE	METAGENOMIC:16	1	False	0	DIVERSE	Two distinct pangolin species with different geographic distributions and taxonomic classifications.
+PRJNA1017798	24	24	1.0	1	Ochotona curzoniae	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1023249	3	2	0.667	1	Capra hircus	UNIFORM_WITH_GAPS	METAGENOMIC:3	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1023964	42	22	0.524	13	Aplodinotus grunniens; Carpiodes carpio; Carpiodes cyprinus; Cyprinus carpio; Dorosoma cepedianum; Ictalurus punctatus; Ictiobus bubalus; Micropterus dolomieu; Morone chrysops; Morone saxatilis x M. chrysops; Moxostoma erythrurum; Moxostoma macrolepidotum; Sander canadensis x S. vitreus	DIVERSE_AND_SPARSE	METAGENOMIC:42	1	False	0	DIVERSE_AND_SPARSE	Thirteen distinct freshwater fish species/hybrid combinations from different families and genera.
+PRJNA1025260	35	35	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:35	1	False	0	UNIFORM	
+PRJNA1026073	1	1	1.0	1	Plutella xylostella	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA1026631	83	83	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:83	1	False	0	UNIFORM	
+PRJNA1026909	4	4	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA1027632	197	197	1.0	1	Gallus gallus subsp domesticus	UNIFORM	METAGENOMIC:197	1	False	0	UNIFORM	
+PRJNA1028770	16	16	1.0	1	mouse	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA1029302	39	39	1.0	1	Kyphosus sydneyanus	UNIFORM	METAGENOMIC:26; METATRANSCRIPTOMIC:13	2	False	0	UNIFORM	
+PRJNA1030894	100	100	1.0	1	Ochotona curzoniae	UNIFORM	METAGENOMIC:100	1	False	0	UNIFORM	
+PRJNA1030990	28	28	1.0	1	mouse	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA1031251	34	0	0.0	0		NO_HOST_DATA	OTHER:34	1	False	0	NO_HOST_DATA	
+PRJNA1031700	32	32	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA1036300	18	18	1.0	1	mouse	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA1036376	70	70	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJNA1039141	120	120	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:120	1	False	0	UNIFORM	
+PRJNA1039992	120	120	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:120	1	False	0	UNIFORM	
+PRJNA1040965	20	20	1.0	1	C57/BL6	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA1043846	9	9	1.0	1	Clanis bilineata	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA1044797	39	39	1.0	4	Bombus impatiens; Bombus rufocinctus; Bombus ternarius; Bombus vagans	DIVERSE	METAGENOMIC:39	1	False	0	DIVERSE	Four distinct bumblebee species; all are named at the same taxonomic rank with no general-vs-specific relationship.
+PRJNA1046219	8	8	1.0	3	feces; freshwater; soil	DIVERSE	METAGENOMIC:8	1	False	0	UNIFORM	Feces, freshwater, and soil are sample types/environments, not different animals; all likely represent human microbiome/environmental samples from one study.
+PRJNA1047964	14	14	1.0	1	Ovis aries	UNIFORM	METAGENOMIC:14	1	False	0	UNIFORM	
+PRJNA1049198	90	90	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:90	1	False	0	UNIFORM	
+PRJNA1049576	28	28	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA1049649	6	3	0.5	3	Harpadon nehereus; Johnius elongatus; Otolithoides biauritus	DIVERSE_AND_SPARSE	METAGENOMIC:6	1	False	0	DIVERSE_AND_SPARSE	Three distinct fish species from different genera, representing genuine diversity.
+PRJNA1050241	60	60	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA1050657	5	4	0.8	1	Chroicocephalus ridibundus	UNIFORM_WITH_GAPS	METAGENOMIC:5	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1052069	134	134	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:134	1	False	0	UNIFORM	
+PRJNA1054518	3124	2997	0.959	1	Mus musculus	UNIFORM	METAGENOMIC:3124	1	False	0	UNIFORM	
+PRJNA1054761	30	30	1.0	1	Danio rerio	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA1055184	133	133	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:133	1	False	0	UNIFORM	
+PRJNA1055599	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJNA1056763	327	327	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:327	1	False	0	UNIFORM	
+PRJNA1060362	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA1060484	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA1061085	9	9	1.0	1	Duzang pigs	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA1061804	41	40	0.976	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:41	1	False	0	UNIFORM	
+PRJNA1061805	3	3	1.0	1	Holothuria glaberrima	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA1062568	10	0	0.0	0		NO_HOST_DATA	METAGENOMIC:10	1	False	0	NO_HOST_DATA	
+PRJNA1062915	12	12	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA1063537	6	0	0.0	0		NO_HOST_DATA	METAGENOMIC:6	1	False	0	NO_HOST_DATA	
+PRJNA1063657	52	52	1.0	1	Escherichia coli	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJNA1064611	8	4	0.5	1	Serrasalmus rhombeus	UNIFORM_WITH_GAPS	METAGENOMIC:8	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1065277	68	68	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:68	1	False	0	UNIFORM	
+PRJNA1066198	49	49	1.0	1	Bombus impatiens	UNIFORM	METAGENOMIC:49	1	False	0	UNIFORM	
+PRJNA1067380	3	3	1.0	1	Cotesia vestalis	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA1067415	3	3	1.0	1	Cotesia vestalis	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA1067830	312	312	1.0	7	Agrobacterium radiobacter; Alicyclobacillus acidiphilus; Homo sapiens; Leyella stercorea DSM 18206; Ligilactobacillus ruminis; Mitsuokella multacida; Mus musculus	DIVERSE	METAGENOMIC:282; GENOMIC SINGLE CELL:22; TRANSCRIPTOMIC SINGLE CELL:8	3	False	0	DIVERSE	Seven distinct species spanning bacteria, human, and mouse—this is a genuine multi-host/multi-organism study, likely investigating microbial or pathogenic interactions.
+PRJNA1067849	54	54	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:54	1	False	0	UNIFORM	
+PRJNA1067975	104	104	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:104	1	False	0	UNIFORM	
+PRJNA1069780	40	40	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA1069876	16	0	0.0	0		NO_HOST_DATA	METAGENOMIC:16	1	False	0	NO_HOST_DATA	
+PRJNA1070846	41	41	1.0	1	rats	UNIFORM	METAGENOMIC:41	1	False	0	UNIFORM	
+PRJNA1070856	35	35	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:35	1	False	0	UNIFORM	
+PRJNA1072233	18	0	0.0	0		NO_HOST_DATA	METAGENOMIC:18	1	False	0	NO_HOST_DATA	
+PRJNA1073587	6	6	1.0	1	Ailuropoda melanoleuca	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1078419	367	367	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:367	1	False	0	UNIFORM	
+PRJNA1078999	194	194	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:194	1	False	0	UNIFORM	
+PRJNA1082665	873	767	0.879	2	canine; feline	DIVERSE	METAGENOMIC:767; METATRANSCRIPTOMIC:106	2	False	0	DIVERSE	Canine and feline are distinct animal families/groups; a dog is not a cat.
+PRJNA1083038	55	55	1.0	1	Cervus elaphus	UNIFORM	METAGENOMIC:55	1	False	0	UNIFORM	
+PRJNA1084102	70	70	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJNA1084222	20	20	1.0	1	Mauremys reevesii	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA1086397	184	184	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:184	1	False	0	UNIFORM	
+PRJNA1088536	112	112	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:112	1	False	0	UNIFORM	
+PRJNA1088789	12	12	1.0	4	Elaphe taeniura; Pareas formosensis; Protobothrops jerdonii; Rhabdophis chiwen	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Four distinct snake species with no general-to-specific or naming-variant relationships.
+PRJNA1090271	86	0	0.0	0		NO_HOST_DATA	METAGENOMIC:86	1	False	0	NO_HOST_DATA	
+PRJNA1090561	21	9	0.429	1	Salmo salar	UNIFORM_WITH_GAPS	METAGENOMIC:21	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1091038	15	15	1.0	1	Dama dama	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA1092107	10	10	1.0	8	Bos taurus; Canis lupus; Capra hircus; Felis catus; Gallus gallus; Sus scrofa; septage; wastewater	DIVERSE	METAGENOMIC:10	1	False	0	DIVERSE	Multiple distinct domestic/wild animal species plus environmental samples (septage and wastewater are non-animal sources).
+PRJNA1092431	53	53	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:53	1	False	0	UNIFORM	
+PRJNA1092791	41	41	1.0	4	Canis lupus familiaris; Macaca fascicularis; Mus musculus; Sus scrofa	DIVERSE	METAGENOMIC:41	1	False	0	DIVERSE	Four genuinely distinct species spanning different mammalian orders: dog, macaque, mouse, and pig.
+PRJNA1095217	2	2	1.0	2	Anas crecca; Aythia ferina	DIVERSE	METAGENOMIC:2	1	False	0	DIVERSE	Two distinct duck species: Northern Pintail and Pochard are different waterfowl genera.
+PRJNA1097789	4	4	1.0	1	Drosophila melanogaster	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA1098026	21	21	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:21	1	False	0	UNIFORM	
+PRJNA1099794	56	56	1.0	2	Gallus gallus; Hy-Ling brown laying hens	DIVERSE	METAGENOMIC:56	1	False	0	UNIFORM	Hy-Ling brown laying hens is a breed of Gallus gallus (domestic chicken), not a different species.
+PRJNA1102166	1	1	1.0	1	Coilia nasus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA1102860	2778	2778	1.0	3	Equus caballus; negative control; positive control	DIVERSE	METAGENOMIC:2778	1	False	0	UNIFORM	Negative and positive controls are experimental controls, not distinct animals; only one host species (horse) is present.
+PRJNA1108401	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA1108898	1	1	1.0	1	Trimeresurus stejnegeri	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA1108923	13	13	1.0	1	Trimeresurus stejnegeri	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA1108955	21	21	1.0	2	Lycodon rosozonatus; Lycodon rufozonatus	DIVERSE	METAGENOMIC:21	1	False	0	DIVERSE	These are two distinct species of colubrid snakes with different names and recognized taxonomic status.
+PRJNA1110045	1	1	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA1110616	24	24	1.0	1	Larimichthys crocea	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1112422	6	6	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1116530	15	15	1.0	3	Bacillota; Bacteroidota bacterium; Pseudomonadota	DIVERSE	METAGENOMIC:15	1	False	0	DIVERSE	These are three distinct bacterial phyla, representing genuinely different microbial taxa, not variants or hierarchical descriptions of a single organism.
+PRJNA1116578	96	96	1.0	1	Mice	UNIFORM	METAGENOMIC:96	1	False	0	UNIFORM	
+PRJNA1119029	171	118	0.69	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:171	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1119043	91	91	1.0	2	Cow; Equus asinus	DIVERSE	METAGENOMIC:91	1	False	0	DIVERSE	Cow (Bos taurus) and Equus asinus (donkey) are two distinct animal species.
+PRJNA1119051	55	55	1.0	1	Camelus dromedarius	UNIFORM	METAGENOMIC:55	1	False	0	UNIFORM	
+PRJNA1119053	69	15	0.217	1	Mus musculus	UNIFORM_WITH_GAPS	METAGENOMIC:69	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1121382	30	30	1.0	1	Mesocricetus auratus	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA1123238	67	58	0.866	2	Canis lupus familiaris; Homo sapiens	DIVERSE	METAGENOMIC:67	1	False	0	DIVERSE	Dogs and humans are two distinctly different species; this is a legitimate multi-host study.
+PRJNA1123460	24	24	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1123873	15	15	1.0	2	Enterococcus casseliflavus; Enterococcus mundtii	DIVERSE	METAGENOMIC:15	1	False	0	DIVERSE	Two distinct bacterial species with different species epithets, not general/specific variants of each other.
+PRJNA1124990	60	60	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA1125130	20	20	1.0	1	Equus caballus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA1127265	48	48	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA1130047	8	8	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA1134918	12	12	1.0	2	Bifidobacterium animalis; Bifidobacterium pseudolongum	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Two distinct bacterial species within the genus Bifidobacterium, not variants or strain names of the same species.
+PRJNA1135459	18	18	1.0	2	DNA-Seq of Mus musculus: adult female spleen; Mus musculus	DIVERSE	METAGENOMIC:18	1	False	0	UNIFORM	Both labels refer to the same species; the first is simply a more detailed description (adult female spleen tissue) while the second is the species name alone.
+PRJNA1135945	157	157	1.0	2	Homo sapiens; Mus musculus	DIVERSE	METAGENOMIC:157	1	False	0	DIVERSE	Human and mouse are two distinct species; a legitimate multi-host comparative study.
+PRJNA1136229	24	24	1.0	1	Gallus gallus subsp Domesticus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1137132	36	36	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:36	1	False	0	UNIFORM	
+PRJNA1138893	46	46	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:46	1	False	0	UNIFORM	
+PRJNA1140353	16	16	1.0	2	Apis mellifera bacteriome; Apis mellifera mycobiome	DIVERSE	METAGENOMIC:16	1	False	0	UNIFORM	Both labels refer to the same honey bee species; 'bacteriome' and 'mycobiome' are microbiota compartment descriptors, not different animals.
+PRJNA1141391	24	24	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1141435	62	62	1.0	1	Perca flavescens	UNIFORM	METAGENOMIC:38; METATRANSCRIPTOMIC:24	2	False	0	UNIFORM	
+PRJNA1141889	10	10	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA1144187	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJNA1145617	104	104	1.0	1	Meleagris gallopavo	UNIFORM	METAGENOMIC:104	1	False	0	UNIFORM	
+PRJNA1146968	13	13	1.0	3	Capricornis sumatraensis; Cervus albirostris; Moschus berezovskii	DIVERSE	METAGENOMIC:13	1	False	0	DIVERSE	Three distinct ungulate species from different genera: a serow, a deer, and a musk deer.
+PRJNA1147314	838	838	1.0	1	Danio rerio	UNIFORM	METAGENOMIC:838	1	False	0	UNIFORM	
+PRJNA1148062	6	6	1.0	1	Porcine	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1148150	34	34	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:34	1	False	0	UNIFORM	
+PRJNA1148165	46	46	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:46	1	False	0	UNIFORM	
+PRJNA1151203	30	30	1.0	2	Macaca mulatta vestita; Semnopithecus schistaceus	DIVERSE	METAGENOMIC:30	1	False	0	DIVERSE	These are two distinct primate species: rhesus macaque and Nepal gray langur.
+PRJNA1154995	34	0	0.0	0		NO_HOST_DATA	METAGENOMIC:34	1	False	0	NO_HOST_DATA	
+PRJNA1157353	200	200	1.0	5	Apis andreniformis; Apis cerana; Apis dorsata; Apis florea; Apis mellifera	DIVERSE	METAGENOMIC:200	1	False	0	DIVERSE	Five distinct Apis species; these are genuinely different animals, not variants of one species.
+PRJNA1157396	24	24	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1158959	89	89	1.0	4	Sus scrofa; Sus scrofa cristatus; Sus scrofa leucomystax; Sus scrofa vittatus	DIVERSE	METAGENOMIC:89	1	False	0	UNIFORM	All four labels are subspecies or regional variants of the domestic pig (Sus scrofa), representing the same species with different taxonomic classifications.
+PRJNA1161368	60	60	1.0	1	Bostaurus	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA1161616	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA1163371	174	174	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:174	1	False	0	UNIFORM	
+PRJNA1164203	161	161	1.0	1	Macaca fascicularis	UNIFORM	METAGENOMIC:161	1	False	0	UNIFORM	
+PRJNA1165944	8	8	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA1167890	36	36	1.0	15	Aepyprymnus rufescens; Dendrolagus lumholtzi; Diprotodontia; Isoodon macrourus; Lasiorhinus latifrons; Macropus giganteus; Petauroides volans; Petaurus australis; Petaurus gracilis; Petaurus norfolcensis; Phascolarctos cinereus; Potorous tridactylus; Sminthopsis crassicaudata; Thylogale stigmatica; Vombatus ursinus	DIVERSE	METAGENOMIC:36	1	False	0	DIVERSE	Diprotodontia is a marsupial order containing multiple species listed; all other labels are distinct marsupial species genuinely different from each other.
+PRJNA1171181	8	8	1.0	1	Siniperca chuatsi	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA1171501	22	22	1.0	1	mouse	UNIFORM	METAGENOMIC:22	1	False	0	UNIFORM	
+PRJNA1173401	6	6	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1175391	12	12	1.0	1	Micropterus salmoides	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA1175865	128	128	1.0	5	Alexandromys fortis; Apodemus agrarius; Mus musculus; Rattus flavipectus; Rattus norvegicus	DIVERSE	METAGENOMIC:128	1	False	0	DIVERSE	Five distinct rodent species from different genera (Alexandromys, Apodemus, Mus, Rattus) representing genuinely different animals.
+PRJNA1180206	30	30	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA1182340	134	134	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:134	1	False	0	UNIFORM	
+PRJNA1184324	20	20	1.0	1	mouse	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA1184454	44	44	1.0	44	calves 1; calves 10; calves 11; calves 12; calves 13; calves 14; calves 15; calves 16; calves 17; calves 18; calves 19; calves 2; calves 20; calves 21; calves 22; calves 23; calves 24; calves 25; calves 26; calves 27; calves 28; calves 29; calves 3; calves 30; calves 31; calves 32; calves 33; calves 34; calves 35; calves 36; calves 37; calves 38; calves 39; calves 4; calves 40; calves 41; calves 42; calves 43; calves 44; calves 5; calves 6; calves 7; calves 8; calves 9	DIVERSE	METAGENOMIC:44	1	False	0	UNIFORM	All 44 labels are individual identifiers (calves 1-44) for the same species: young domestic cattle.
+PRJNA1186832	112	112	1.0	1	mouse	UNIFORM	METAGENOMIC:112	1	False	0	UNIFORM	
+PRJNA1187318	40	40	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA1187854	20	20	1.0	1	Bostaurus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA1187897	119	0	0.0	0		NO_HOST_DATA	METAGENOMIC:119	1	False	0	NO_HOST_DATA	
+PRJNA1190643	63	63	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:63	1	False	0	UNIFORM	
+PRJNA1192041	15	15	1.0	1	rat	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA1193062	323	0	0.0	0		NO_HOST_DATA	METAGENOMIC:323	1	False	0	NO_HOST_DATA	
+PRJNA1193782	57	57	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:57	1	False	0	UNIFORM	
+PRJNA1199800	30	12	0.4	1	Canis lupus familiaris	UNIFORM_WITH_GAPS	METAGENOMIC:30	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1202651	72	72	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:72	1	False	0	UNIFORM	
+PRJNA1204506	5	1	0.2	1	Gallus gallus	UNIFORM_WITH_GAPS	METAGENOMIC:5	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1205011	9	5	0.556	1	fish	UNIFORM_WITH_GAPS	METAGENOMIC:9	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1205074	36	9	0.25	1	Rattus norvegicus	UNIFORM_WITH_GAPS	OTHER:24; METAGENOMIC:12	2	False	0	UNIFORM_WITH_GAPS	
+PRJNA1206451	3	3	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA1206727	8	8	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA1206810	9	0	0.0	0		NO_HOST_DATA	METAGENOMIC:9	1	False	0	NO_HOST_DATA	
+PRJNA1208715	60	60	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA1209849	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA1210771	22	22	1.0	1	Euphausia superba	UNIFORM	METAGENOMIC:10; OTHER:9; METATRANSCRIPTOMIC:3	3	False	0	UNIFORM	
+PRJNA1211045	15	15	1.0	8	Anisus; Biomphalaria sp.; Bulinus sp.; Cleopatra sp.; Lanistes sp.; Lymnaea sp.; Physella sp.; Pila sp.	DIVERSE	METAGENOMIC:15	1	False	0	DIVERSE	These are eight distinct genera of freshwater snails, representing genuinely different animals, not variants of one species.
+PRJNA1211300	17	17	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:17	1	False	0	UNIFORM	
+PRJNA1211805	78	78	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:78	1	False	0	UNIFORM	
+PRJNA1212753	60	60	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA1214001	17	17	1.0	1	rat	UNIFORM	METAGENOMIC:17	1	False	0	UNIFORM	
+PRJNA1214037	144	144	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:144	1	False	0	UNIFORM	
+PRJNA1215014	24	24	1.0	1	Sus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1217868	24	24	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1218713	172	172	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:172	1	False	0	UNIFORM	
+PRJNA1219188	185	185	1.0	1	Sus scrofa domestica	UNIFORM	METAGENOMIC:185	1	False	0	UNIFORM	
+PRJNA1222153	493	0	0.0	0		NO_HOST_DATA	METAGENOMIC:493	1	False	0	NO_HOST_DATA	
+PRJNA1224791	97	97	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:97	1	False	0	UNIFORM	
+PRJNA1225188	63	15	0.238	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:63	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1225421	210	210	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:210	1	False	0	UNIFORM	
+PRJNA1226362	30	30	1.0	2	SPF mice BALB/c; SPF mice C57	DIVERSE	METAGENOMIC:30	1	False	0	UNIFORM	BALB/c and C57 are two different inbred strains of the same species (Mus musculus), both laboratory mice.
+PRJNA1227156	26	26	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:14; OTHER:12	2	False	0	UNIFORM	
+PRJNA1227608	395	47	0.119	5	Bovine; Candidatus Ozemibacteraceae bacterium; Giraffa camelopardalis; Mazzaella japonica; Moschidae	DIVERSE_AND_SPARSE	METAGENOMIC:388; GENOMIC:7	2	True	7	DIVERSE_AND_SPARSE	Five genuinely different organisms spanning mammals (bovine, giraffe), bacteria, and algae; this appears to be a metadata contamination or misclassification error in the host labels.
+PRJNA1227753	9	9	1.0	1	mice	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA1228539	45	45	1.0	1	Trachypithecus francoisi	UNIFORM	METAGENOMIC:45	1	False	0	UNIFORM	
+PRJNA1228986	34	34	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:34	1	False	0	UNIFORM	
+PRJNA1229795	62	62	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:62	1	False	0	UNIFORM	
+PRJNA1232341	32	32	1.0	1	Sus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA1232403	98	98	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:98	1	False	0	UNIFORM	
+PRJNA1233886	4	4	1.0	1	Holothuria glaberrima	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA1234694	9	9	1.0	1	Diaprepres abbreviatus	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA1238482	9	9	1.0	1	snake	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA1242249	24	24	1.0	1	Moschus berezovskii	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1243555	20	13	0.65	1	Escherichia coli	UNIFORM_WITH_GAPS	OTHER:13; GENOMIC:7	2	True	7	UNIFORM_WITH_GAPS	
+PRJNA1244851	36	0	0.0	0		NO_HOST_DATA	METAGENOMIC:36	1	False	0	NO_HOST_DATA	
+PRJNA1245063	12	6	0.5	1	Gallus gallus	UNIFORM_WITH_GAPS	METAGENOMIC:12	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1245445	144	20	0.139	1	Bos taurus	UNIFORM_WITH_GAPS	METAGENOMIC:144	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA1247471	44	0	0.0	0		NO_HOST_DATA	METAGENOMIC:44	1	False	0	NO_HOST_DATA	
+PRJNA1253095	10	10	1.0	2	Nyctalus noctula; Vespertilio murinus	DIVERSE	METAGENOMIC:10	1	False	0	DIVERSE	These are two distinct bat species: common noctule and parti-coloured bat.
+PRJNA1254096	14	14	1.0	3	Diptychus maculatus; Schizothorax biddulphi; Triplophysa yarkandensis	DIVERSE	METAGENOMIC:14	1	False	0	DIVERSE	Three distinct fish species from different genera in the family Cyprinidae.
+PRJNA1257558	68	68	1.0	1	Pantholops hodgsonii	UNIFORM	METAGENOMIC:68	1	False	0	UNIFORM	
+PRJNA1260157	6	6	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA1261602	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJNA1263030	18	18	1.0	1	Ovis aries	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA1264679	16	16	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA1264687	10	10	1.0	1	Protaetia brevitarsis	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA1268041	16	16	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA1268758	24	24	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1269114	13	13	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA1269239	33	33	1.0	1	Duck	UNIFORM	METAGENOMIC:33	1	False	0	UNIFORM	
+PRJNA1273701	36	36	1.0	1	Sprague-Dawley rats	UNIFORM	METAGENOMIC:36	1	False	0	UNIFORM	
+PRJNA1280790	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJNA1282711	45	45	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:45	1	False	0	UNIFORM	
+PRJNA1283350	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJNA1289129	4	4	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA1293833	39	39	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:39	1	False	0	UNIFORM	
+PRJNA1293880	29	0	0.0	0		NO_HOST_DATA	METAGENOMIC:29	1	False	0	NO_HOST_DATA	
+PRJNA1297587	16	16	1.0	2	Citrus x aurantiifolia; Diaprepes abbreviatus	DIVERSE	METAGENOMIC:16	1	False	0	DIVERSE	Citrus is a plant genus while Diaprepes abbreviatus is an insect species (weevil); these are genuinely different organisms.
+PRJNA1298367	104	104	1.0	2	Homo sapiens; Mus musculus	DIVERSE	METAGENOMIC:92; TRANSCRIPTOMIC SINGLE CELL:12	2	False	0	DIVERSE	Human and mouse are two distinct species; this is a genuine multi-host study.
+PRJNA1298833	4	4	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA1298916	27	27	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:27	1	False	0	UNIFORM	
+PRJNA1301039	48	48	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA1302101	2	2	1.0	1	Phalacrocorax auritus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA1302757	9	0	0.0	0		NO_HOST_DATA	METAGENOMIC:9	1	False	0	NO_HOST_DATA	
+PRJNA1306187	94	0	0.0	0		NO_HOST_DATA	METAGENOMIC:94	1	False	0	NO_HOST_DATA	
+PRJNA1307965	14	14	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:14	1	False	0	UNIFORM	
+PRJNA1320715	66	66	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:66	1	False	0	UNIFORM	
+PRJNA1320939	111	0	0.0	0		NO_HOST_DATA	METAGENOMIC:75; METATRANSCRIPTOMIC:36	2	False	0	NO_HOST_DATA	
+PRJNA1332038	1	1	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA1332145	112	112	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:112	1	False	0	UNIFORM	
+PRJNA1353630	47	0	0.0	0		NO_HOST_DATA	METAGENOMIC:47	1	False	0	NO_HOST_DATA	
+PRJNA1356556	28	28	1.0	8	day 0 broiler; day 1 broiler; day 14 broiler; day 28 broiler; day 3 broiler; day 42 broiler; day 7 broiler; environment	DIVERSE	METAGENOMIC:28	1	False	0	UNIFORM	All labels refer to broiler chickens at different developmental timepoints (days 0, 1, 3, 7, 14, 28, 42); 'environment' is not a host animal but an environmental control sample.
+PRJNA1367213	109	109	1.0	1	Ovis aries	UNIFORM	METAGENOMIC:109	1	False	0	UNIFORM	
+PRJNA1375668	24	24	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1376267	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJNA1377454	24	24	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA1389899	18	18	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA1390420	15	15	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA1391520	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJNA1393111	25	25	1.0	1	Ictalurus punctatus	UNIFORM	METAGENOMIC:25	1	False	0	UNIFORM	
+PRJNA1399069	30	0	0.0	0		NO_HOST_DATA	METAGENOMIC:30	1	False	0	NO_HOST_DATA	
+PRJNA1399070	13	13	1.0	1	Manis javanica	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA1400761	28	0	0.0	0		NO_HOST_DATA	METAGENOMIC:28	1	False	0	NO_HOST_DATA	
+PRJNA1405988	64	64	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:64	1	False	0	UNIFORM	
+PRJNA1415237	25	0	0.0	0		NO_HOST_DATA	METAGENOMIC:15; TRANSCRIPTOMIC:8; GENOMIC:2	3	True	2	NO_HOST_DATA	
+PRJNA1417531	2	0	0.0	0		NO_HOST_DATA	OTHER:2	1	False	0	NO_HOST_DATA	
+PRJNA1428229	18	0	0.0	0		NO_HOST_DATA	METAGENOMIC:18	1	False	0	NO_HOST_DATA	
+PRJNA1434035	6	0	0.0	0		NO_HOST_DATA	METAGENOMIC:6	1	False	0	NO_HOST_DATA	
+PRJNA1442370	75	0	0.0	0		NO_HOST_DATA	METAGENOMIC:75	1	False	0	NO_HOST_DATA	
+PRJNA1454930	10	10	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA1475489	39	39	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:39	1	False	0	UNIFORM	
+PRJNA1477333	48	0	0.0	0		NO_HOST_DATA	METAGENOMIC:48	1	False	0	NO_HOST_DATA	
+PRJNA158313	2	2	1.0	2	Rhinopithecus bieti; Xanthonycticebus pygmaeus	DIVERSE	METAGENOMIC:2	1	False	0	DIVERSE	Two distinct primate species from different genera.
+PRJNA193472	3	3	1.0	1	Macrotermes natalensis	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA255439	32	32	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA255875	16	16	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA255936	15	15	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA269993	1	1	1.0	1	Cow	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA271123	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA271618	48	48	1.0	1	Papio cynocephalus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA273761	60	60	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA278393	38	38	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:38	1	False	0	UNIFORM	
+PRJNA290380	785	785	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:785	1	False	0	UNIFORM	
+PRJNA290684	39	0	0.0	0		NO_HOST_DATA	METAGENOMIC:39	1	False	0	NO_HOST_DATA	
+PRJNA290729	92	92	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:92	1	False	0	UNIFORM	
+PRJNA291299	4	4	1.0	1	Hen	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA293625	4	4	1.0	1	globefish	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA293646	13	13	1.0	3	Bos; Gallus gallus; Sus scrofa	DIVERSE	METAGENOMIC:13	1	False	0	DIVERSE	Three distinct species: cattle, chicken, and pig represent genuinely different animals.
+PRJNA294605	11	1	0.091	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:11	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA297579	31	31	1.0	1	Gymnogyps californianus	UNIFORM	METAGENOMIC:31	1	False	0	UNIFORM	
+PRJNA298736	13	13	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA301903	422	422	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:422	1	False	0	UNIFORM	
+PRJNA311136	1	1	1.0	1	Pristis pectinata	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA312048	6	6	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA312222	4	4	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA313232	14	14	1.0	2	Guinea pig; Homo sapiens	DIVERSE	METAGENOMIC:14	1	False	0	DIVERSE	Guinea pig (Cavia porcellus) and human (Homo sapiens) are two distinct species.
+PRJNA316560	2	2	1.0	1	Anser indicus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA316570	2	2	1.0	1	Anser indicus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA321058	53	53	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:53	1	False	0	UNIFORM	
+PRJNA327106	45	45	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:45	1	False	0	UNIFORM	
+PRJNA338370	10	10	1.0	1	broiler chickens	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA339914	28	28	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:24; METATRANSCRIPTOMIC:4	2	False	0	UNIFORM	
+PRJNA340521	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA340908	29	29	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:29	1	False	0	UNIFORM	
+PRJNA347599	12	12	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA352475	230	230	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:230	1	False	0	UNIFORM	
+PRJNA354235	1307	1307	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:1307	1	False	0	UNIFORM	
+PRJNA356225	150	150	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:150	1	False	0	UNIFORM	
+PRJNA356809	77	77	1.0	14	Golden_Cat;Golden Cat; Himalayan_Goral;Himalayan Goral; Lynx lynx; Martes flavigula; Mustela sibirica; Otocolobus manul; Panda; Panthera pardus; Prionailurus bengalensis; Swinhoe; Viverricula indica; black_bear;black bear; tibetan_human;tibetan human; tibetan_pig;tibetan pig	DIVERSE	METAGENOMIC:77	1	False	0	DIVERSE	This is a genuine multi-host study containing 14 distinct animal species including multiple carnivores, a human, and a pig, representing real biological diversity.
+PRJNA358755	207	207	1.0	3	Panda; black bear; red panda	DIVERSE	METAGENOMIC:207	1	False	0	DIVERSE	Three distinct carnivoran species from different genera, not variants of a single animal.
+PRJNA361402	2	2	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA371649	1	1	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA373834	22	22	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:22	1	False	0	UNIFORM	
+PRJNA374522	8	0	0.0	0		NO_HOST_DATA	METAGENOMIC:8	1	False	0	NO_HOST_DATA	
+PRJNA375762	12	12	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA376566	408	2	0.005	2	Homo sapiens; blank sample	DIVERSE_AND_SPARSE	METAGENOMIC:408	1	False	0	DIVERSE_AND_SPARSE	One sample is labeled as human (Homo sapiens) while the other has no host annotation, representing genuinely different or indeterminate host categorization.
+PRJNA376580	39	0	0.0	0		NO_HOST_DATA	METAGENOMIC:39	1	False	0	NO_HOST_DATA	
+PRJNA379709	8	8	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:4; METATRANSCRIPTOMIC:4	2	False	0	UNIFORM	
+PRJNA381379	3	3	1.0	1	Strigops habroptila	UNIFORM	GENOMIC:2; METAGENOMIC:1	2	True	2	UNIFORM	
+PRJNA383926	6	6	1.0	1	broiler	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA384716	96	96	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:96	1	False	0	UNIFORM	
+PRJNA385134	26	26	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:26	1	False	0	UNIFORM	
+PRJNA385949	262	0	0.0	0		NO_HOST_DATA	METAGENOMIC:262	1	False	0	NO_HOST_DATA	
+PRJNA389280	378	378	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:300; METATRANSCRIPTOMIC:78	2	False	0	UNIFORM	
+PRJNA389470	113	113	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:113	1	False	0	UNIFORM	
+PRJNA389749	8	8	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA389927	181	181	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:181	1	False	0	UNIFORM	
+PRJNA397041	18	18	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA397112	110	110	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:110	1	False	0	UNIFORM	
+PRJNA397886	52	52	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJNA398089	2979	2979	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:2217; METATRANSCRIPTOMIC:762	2	False	0	UNIFORM	
+PRJNA399458	1	1	1.0	1	Indri indri	UNIFORM	GENOMIC:1	1	True	1	UNIFORM	
+PRJNA400072	220	220	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:220	1	False	0	UNIFORM	
+PRJNA400119	8	8	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA401977	145	0	0.0	0		NO_HOST_DATA	METAGENOMIC:145	1	False	0	NO_HOST_DATA	
+PRJNA407583	14	0	0.0	0		NO_HOST_DATA	METAGENOMIC:14	1	False	0	NO_HOST_DATA	
+PRJNA408020	130	130	1.0	1	avian	UNIFORM	GENOMIC:130	1	True	130	UNIFORM	
+PRJNA415003	50	50	1.0	4	Desmodus rotundus; Macroderma gigas; Rhinolophus ferrumequinum; Rousettus aegyptiacus	DIVERSE	METAGENOMIC:50	1	False	0	DIVERSE	Four distinct bat species from different genera, representing genuine biological diversity.
+PRJNA415307	9	9	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:6; METATRANSCRIPTOMIC:3	2	False	0	UNIFORM	
+PRJNA416199	12	12	1.0	12	mudskipper1; mudskipper10; mudskipper11; mudskipper12; mudskipper2; mudskipper3; mudskipper4; mudskipper5; mudskipper6; mudskipper7; mudskipper8; mudskipper9	DIVERSE	METAGENOMIC:12	1	False	0	UNIFORM	All 12 labels refer to individual mudskippers (mudskipper1 through mudskipper12), which are different specimens of the same species, not different animal types.
+PRJNA417359	495	495	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:495	1	False	0	UNIFORM	
+PRJNA419985	16	16	1.0	1	Rat	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA422434	370	0	0.0	0		NO_HOST_DATA	METAGENOMIC:370	1	False	0	NO_HOST_DATA	
+PRJNA430956	8	8	1.0	2	Papio anubis; Papio kindae	DIVERSE	METAGENOMIC:8	1	False	0	DIVERSE	Two distinct Papio species: olive baboon and lesser baboon are genuinely different animals.
+PRJNA431482	76	76	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:76	1	False	0	UNIFORM	
+PRJNA433811	4	4	1.0	1	Salmo salar	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA434147	5	5	1.0	1	Hypomesus transpacificus	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA435487	10	10	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA436633	40	40	1.0	1	Rhinopithecus roxellana	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA447857	14	3	0.214	2	Fish; Hemichromis guttatus Fish	DIVERSE_AND_SPARSE	METAGENOMIC:14	1	False	0	UNIFORM_WITH_GAPS	'Fish' is a general category that contains the specific species Hemichromis guttatus; this represents inconsistent labelling precision for one fish species.
+PRJNA453374	28	28	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA471402	39	39	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:39	1	False	0	UNIFORM	
+PRJNA473126	402	402	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:402	1	False	0	UNIFORM	
+PRJNA473429	48	48	1.0	1	Mus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA475246	286	286	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:286	1	False	0	UNIFORM	
+PRJNA475948	2	2	1.0	2	Cortaritermes fulviceps; Nasutitermes aquilinus	DIVERSE	METAGENOMIC:2	1	False	0	DIVERSE	Two distinct termite species from different genera, representing genuinely different animals.
+PRJNA478457	49	49	1.0	1	mouse	UNIFORM	GENOMIC:49	1	True	49	UNIFORM	
+PRJNA479518	80	80	1.0	1	vulture	UNIFORM	METAGENOMIC:80	1	False	0	UNIFORM	
+PRJNA482836	29	29	1.0	1	Piaractus mesopotamicus	UNIFORM	METAGENOMIC:29	1	False	0	UNIFORM	
+PRJNA486795	44	44	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:44	1	False	0	UNIFORM	
+PRJNA488302	130	130	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:130	1	False	0	UNIFORM	
+PRJNA489090	429	429	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:429	1	False	0	UNIFORM	
+PRJNA491335	208	208	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:208	1	False	0	UNIFORM	
+PRJNA491522	44	44	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:44	1	False	0	UNIFORM	
+PRJNA492361	1	1	1.0	1	Pristis pectinata	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA493817	2	0	0.0	0		NO_HOST_DATA	METAGENOMIC:2	1	False	0	NO_HOST_DATA	
+PRJNA494387	3	3	1.0	3	Bos javanicus; Callimico goeldii; Cebuella pygmaea	DIVERSE	METAGENOMIC:3	1	False	0	DIVERSE	Three distinct primate and ungulate species from different families.
+PRJNA494824	71	71	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:71	1	False	0	UNIFORM	
+PRJNA494875	67	67	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:67	1	False	0	UNIFORM	
+PRJNA496479	40	40	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA506751	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA509211	28	28	1.0	5	Cryptotermes domesticus; Cryptotermes secundus; Prorhinotermes simplex; Reticulitermes flavipes; Reticulitermes grassei	DIVERSE	METAGENOMIC:28	1	False	0	DIVERSE	Five distinct termite species from different genera (Cryptotermes, Prorhinotermes, Reticulitermes) represent genuinely different animals.
+PRJNA515074	24	24	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA518164	4	4	1.0	1	Apostichopus japonicus	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA524980	9	9	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA526405	921	877	0.952	2	Porcine; Sus scrofa	DIVERSE	METAGENOMIC:921	1	False	0	UNIFORM	Porcine is the common name (general) and Sus scrofa is the Latin species name (specific) for pig, representing the same animal.
+PRJNA527177	5	5	1.0	2	Human intestine; Sediment	DIVERSE	METAGENOMIC:5	1	False	0	DIVERSE	Human intestine and sediment represent genuinely different sample sources: one is a human host and the other is an environmental (non-host) sample.
+PRJNA528960	133	133	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:105; METATRANSCRIPTOMIC:28	2	False	0	UNIFORM	
+PRJNA529943	9	9	1.0	9	yak02; yak03; yak07; yak19; yak20; yak22; yak34; yak35; yak38	DIVERSE	METAGENOMIC:9	1	False	0	DIVERSE	Nine distinct individual yak specimens identified by unique numeric identifiers, representing genuinely different animals in a multi-host study.
+PRJNA531273	30	30	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA532626	25	25	1.0	1	Diceros bicornis	UNIFORM	METAGENOMIC:25	1	False	0	UNIFORM	
+PRJNA541820	8	8	1.0	1	C57BL/6	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA542645	1	1	1.0	1	Mus musculus	UNIFORM	GENOMIC:1	1	True	1	UNIFORM	
+PRJNA542998	201	201	1.0	1	mice	UNIFORM	METAGENOMIC:201	1	False	0	UNIFORM	
+PRJNA543206	50	50	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:50	1	False	0	UNIFORM	
+PRJNA543906	27	27	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:27	1	False	0	UNIFORM	
+PRJNA544874	129	129	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:129	1	False	0	UNIFORM	
+PRJNA549182	48	48	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA552411	2	2	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA553191	62	62	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:62	1	False	0	UNIFORM	
+PRJNA555120	12	12	1.0	1	Macaca mulatta	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA559386	2	2	1.0	1	Mus musculus	UNIFORM	GENOMIC:2	1	True	2	UNIFORM	
+PRJNA559605	21	21	1.0	3	Indian leopard; Panthera leo; Panthera tigris tigris	DIVERSE	METAGENOMIC:21	1	False	0	DIVERSE	Three distinct Panthera species with different ecological roles and geographic distributions.
+PRJNA560329	589	589	1.0	8	Cornitermes sp.; Embiratermes neotenicus; Isognathotermes ugandensis; Labiotermes labralis; Microcerotermes parvus; Nasutitermes corniger; Neocapritermes taracua; Termes hospes	DIVERSE	METAGENOMIC:589	1	False	0	DIVERSE	Eight distinct termite species from different genera representing a genuine multi-host termite microbiome study.
+PRJNA562600	148	148	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:148	1	False	0	UNIFORM	
+PRJNA563204	192	192	1.0	1	rat	UNIFORM	METAGENOMIC:192	1	False	0	UNIFORM	
+PRJNA564888	13	13	1.0	4	Callosciurus notatus; Rattus tanezumi; Sundamys annandalei; Tupaia glis	DIVERSE	METAGENOMIC:13	1	False	0	DIVERSE	Four distinct mammal species from different genera and families, representing genuine biological diversity.
+PRJNA574033	2	2	1.0	2	Hexaprotodon liberiensis; Homo sapiens	DIVERSE	METAGENOMIC:2	1	False	0	DIVERSE	Pygmy hippopotamus and human are two distinct species; not general-vs-specific variants.
+PRJNA574851	10	10	1.0	1	Macaca mulatta	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA575543	18	18	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA589661	9	6	0.667	5	Local ruminants: sheep; Local ruminants: yak; Migratory birds: bar-headed geese; Migratory birds: great black-headed gulls; Migratory birds: great cormorants	DIVERSE_AND_SPARSE	METAGENOMIC:9	1	False	0	DIVERSE_AND_SPARSE	Five genuinely different animal species: two ruminant mammals (Ovis aries, Bos grunniens) and three distinct bird species from different families.
+PRJNA590585	12	12	1.0	12	plateau pika01; plateau pika02; plateau pika03; plateau pika04; plateau pika05; plateau pika06; yak01; yak02; yak03; yak04; yak05; yak06	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Plateau pika (Ochotona curzoniae) and yak (Bos grunniens) are two genuinely different animal species.
+PRJNA590977	5	5	1.0	1	Equus ferus caballus	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA593263	30	0	0.0	0		NO_HOST_DATA	METAGENOMIC:30	1	False	0	NO_HOST_DATA	
+PRJNA594263	18	15	0.833	1	Rattus norvegicus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA595610	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA597688	2	2	1.0	1	Siganus canaliculatus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA598094	40	40	1.0	2	Apis cerana japonica; Apis mellifera	DIVERSE	METAGENOMIC:40	1	False	0	DIVERSE	Two distinct Apis species: japonica is a subspecies of Apis cerana, while mellifera is a separate species.
+PRJNA598414	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJNA599288	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJNA599289	40	0	0.0	0		NO_HOST_DATA	METAGENOMIC:40	1	False	0	NO_HOST_DATA	
+PRJNA601052	130	130	1.0	1	Leghorn chicken	UNIFORM	METAGENOMIC:130	1	False	0	UNIFORM	
+PRJNA601162	62	62	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:62	1	False	0	UNIFORM	
+PRJNA601807	10	10	1.0	1	Microhyla fissipes	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA605640	12	12	1.0	1	Mouse	UNIFORM	GENOMIC:12	1	True	12	UNIFORM	
+PRJNA609596	74	74	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:74	1	False	0	UNIFORM	
+PRJNA612780	26	26	1.0	2	Gallus gallus domesticus; Homo sapiens	DIVERSE	METAGENOMIC:26	1	False	0	DIVERSE	Chicken and human are two distinct species with no taxonomic containment relationship.
+PRJNA613182	90	90	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:90	1	False	0	UNIFORM	
+PRJNA613834	76	76	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:76	1	False	0	UNIFORM	
+PRJNA616396	15	15	1.0	1	gut	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA622417	4	4	1.0	1	rat	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA624223	73	73	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:73	1	False	0	UNIFORM	
+PRJNA624740	5	5	1.0	1	Bos grunniens	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA626062	54	54	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:54	1	False	0	UNIFORM	
+PRJNA627251	16	16	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA628114	42	42	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:42	1	False	0	UNIFORM	
+PRJNA630144	12	12	1.0	1	Martes zibellina	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA630862	20	20	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA631724	53	0	0.0	0		NO_HOST_DATA	METAGENOMIC:53	1	False	0	NO_HOST_DATA	
+PRJNA631951	24	24	1.0	1	Bos	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA635116	51	51	1.0	51	Gorilla1; Gorilla10; Gorilla11; Gorilla12; Gorilla13; Gorilla14; Gorilla15; Gorilla16; Gorilla17; Gorilla18; Gorilla19; Gorilla2; Gorilla20; Gorilla21; Gorilla22; Gorilla23; Gorilla3; Gorilla4; Gorilla5; Gorilla6; Gorilla7; Gorilla8; Gorilla9; Human1; Human10; Human11; Human12; Human13; Human14; Human15; Human16; Human17; Human18; Human19; Human2; Human20; Human21; Human22; Human23; Human24; Human25; Human26; Human27; Human28; Human3; Human4; Human5; Human6; Human7; Human8; Human9	DIVERSE	METAGENOMIC:51	1	False	0	DIVERSE	Gorilla and Human are two genuinely different species; the numbered suffixes (Gorilla1-23, Human1-28) represent individual animals within each species.
+PRJNA635664	1	1	1.0	1	Labiotermes labralis	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA63661	1569	188	0.12	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:1569	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA637365	118	118	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:118	1	False	0	UNIFORM	
+PRJNA640717	10	10	1.0	10	not applicable-XM19C1; not applicable-XM19E1; not applicable-XM19F1; not applicable-XM19F2; not applicable-XM19F7; not applicable-XM19M1; not applicable-XM19M2; not applicable-XM19M3; not applicable-XM19M4; not applicable-XM19W1	DIVERSE	METAGENOMIC:10	1	False	0	UNIFORM	All labels are identical except for sample identifiers (XM19C1, XM19E1, etc.), which are technical replicates or sample codes, not different animals.
+PRJNA641245	24	24	1.0	9	breed1; breed2; breed3; breed4; breed5; breed6; breed7; breed8; breed9	DIVERSE	GENOMIC:24	1	True	24	UNIFORM	All nine labels are breed designations of the same species: domestic dog.
+PRJNA641765	1	1	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA643301	63	63	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:63	1	False	0	UNIFORM	
+PRJNA645015	125	125	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:125	1	False	0	UNIFORM	
+PRJNA645191	90	90	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:90	1	False	0	UNIFORM	
+PRJNA646934	14	14	1.0	14	pig B6; pig C6; pig P6; pig PA2; pig PA4; pig PA5; pig PE; pig PI2; pig PI3; pig PI5; pig PL1; pig PL3; pig PL5; pig S6	DIVERSE	METAGENOMIC:14	1	False	0	UNIFORM	All labels refer to different individual pigs or pig samples from the same study, with alphanumeric identifiers (B6, C6, P6, PA2, etc.) distinguishing sample replicates or individuals, not species diversity.
+PRJNA647157	11	11	1.0	1	tibetan pig	UNIFORM	METAGENOMIC:11	1	False	0	UNIFORM	
+PRJNA650228	18	10	0.556	2	Homo sapiens; multiple	DIVERSE_AND_SPARSE	METAGENOMIC:18	1	False	0	DIVERSE_AND_SPARSE	Homo sapiens is a specific named species, while 'multiple' is an unspecified general term that does not contain humans and represents genuinely different animal(s).
+PRJNA655594	10	10	1.0	1	C57BL/6J	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA656000	6	6	1.0	6	Pig P1; Pig P2; Pig P3; Pig P4; Pig P5; Pig P6	DIVERSE	METAGENOMIC:6	1	False	0	UNIFORM	All labels are individual identifiers (P1-P6) for the same species; pigs are tracked by individual ID, not representing genuinely different animal types.
+PRJNA656141	1	1	1.0	1	Atelerix albiventris	UNIFORM	OTHER:1	1	False	0	UNIFORM	
+PRJNA656314	15	15	1.0	1	Danio rerio	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA656389	695	695	1.0	1	Bubalus bubalis	UNIFORM	METAGENOMIC:695	1	False	0	UNIFORM	
+PRJNA657304	21	19	0.905	9	Canis lupus familiaris; Canis lupus familiaris - AM high protein; Canis lupus familiaris - AM low protein; Canis lupus familiaris - BR high protein; Canis lupus familiaris - BR low protein; Canis lupus familiaris - HO high protein; Canis lupus familiaris - HO low protein; Canis lupus familiaris - SH high protein; Canis lupus familiaris - SH low protein	DIVERSE	METAGENOMIC:21	1	False	0	UNIFORM	All labels refer to domestic dogs with different diet treatments (protein levels) and breed/group codes (AM, BR, HO, SH), not different animal species.
+PRJNA658643	9	9	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA660443	70	70	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJNA660549	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJNA661076	2	2	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA662107	522	522	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:522	1	False	0	UNIFORM	
+PRJNA663646	20	20	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA663847	12	12	1.0	1	Sprague Dawley rat	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA665253	191	191	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:191	1	False	0	UNIFORM	
+PRJNA666163	40	40	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA667194	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA667247	36	36	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:36	1	False	0	UNIFORM	
+PRJNA669162	47	47	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:47	1	False	0	UNIFORM	
+PRJNA671703	229	0	0.0	0		NO_HOST_DATA	METAGENOMIC:229	1	False	0	NO_HOST_DATA	
+PRJNA671745	44	0	0.0	0		NO_HOST_DATA	METAGENOMIC:44	1	False	0	NO_HOST_DATA	
+PRJNA672868	5	5	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA673878	5	5	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA673918	71	45	0.634	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:71	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA678871	152	152	1.0	3	Gallus gallus; Homo sapiens; Soil	DIVERSE	METAGENOMIC:152	1	False	0	DIVERSE	Study contains chicken, human, and soil samples representing genuinely different organisms/substrates.
+PRJNA681546	10	0	0.0	0		NO_HOST_DATA	METAGENOMIC:10	1	False	0	NO_HOST_DATA	
+PRJNA681986	70	70	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJNA685168	114	114	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:114	1	False	0	UNIFORM	
+PRJNA685398	40	40	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA688069	33	2	0.061	1	Gallus gallus	UNIFORM_WITH_GAPS	METAGENOMIC:33	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA688310	5	5	1.0	3	Equus caballus; Sus scrofa; Sus scrofa domesticus	DIVERSE	METAGENOMIC:5	1	False	0	DIVERSE	Horse and pig are two genuinely different species; Sus scrofa domesticus is a breed/subspecies of Sus scrofa (same animal).
+PRJNA690892	13	13	1.0	1	Camelus bactrianus ferus	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA691798	20	20	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA691978	61	45	0.738	3	Bos taurus; Homo sapiens; Sus scrofa	DIVERSE_AND_SPARSE	METAGENOMIC:61	1	False	0	DIVERSE_AND_SPARSE	Three genuinely distinct species: cattle, human, and pig.
+PRJNA692042	216	216	1.0	9	Gorilla beringei beringei; Gorilla gorilla gorilla; Homo sapiens sapiens; Pan paniscus; Pan troglodytes; Pan troglodytes schweinfurthii; Pan troglodytes troglodytes; Pan troglodytes verus; Pongo abelii	DIVERSE	METAGENOMIC:216	1	False	0	DIVERSE	Study contains samples from six distinct primate species across multiple genera (Gorilla, Homo, Pan, Pongo), representing genuinely different animals; subspecies variants of Pan troglodytes are intraspecific variation within one species.
+PRJNA692830	24	24	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA694380	2	2	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA694773	10	10	1.0	1	mouse	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA695396	39	39	1.0	1	Hypophthalmichthys nobilis	UNIFORM	METAGENOMIC:39	1	False	0	UNIFORM	
+PRJNA699146	48	48	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA699440	1	1	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA699677	29	29	1.0	1	Bombus terrestris	UNIFORM	METAGENOMIC:29	1	False	0	UNIFORM	
+PRJNA704780	8	8	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA706869	18	18	1.0	1	Capra hircus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA712972	6	6	1.0	1	C57BL/6J	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA714611	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA715601	662	662	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:662	1	False	0	UNIFORM	
+PRJNA715658	751	751	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:751	1	False	0	UNIFORM	
+PRJNA717669	12	12	1.0	2	Rattus norvegicus; Rattus rattus	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Two distinct rat species: Norway rat and black rat are genuinely different animals.
+PRJNA718160	28	28	1.0	2	Macaca mulatta; Rhinopithecus roxellana	DIVERSE	METAGENOMIC:28	1	False	0	DIVERSE	Two distinct primate species: rhesus macaque and golden snub-nosed monkey are different animals, not variants of one species.
+PRJNA718322	30	30	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA721002	51	0	0.0	0		NO_HOST_DATA	METAGENOMIC:51	1	False	0	NO_HOST_DATA	
+PRJNA721235	4	4	1.0	1	Romerolagus diazi	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA722063	6	0	0.0	0		NO_HOST_DATA	GENOMIC:6	1	True	6	NO_HOST_DATA	
+PRJNA722129	93	93	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:93	1	False	0	UNIFORM	
+PRJNA722684	59	59	1.0	1	Alces?alces	UNIFORM	METAGENOMIC:59	1	False	0	UNIFORM	
+PRJNA723218	144	144	1.0	2	Bos taurus; Dairy cattle	DIVERSE	METAGENOMIC:120; TRANSCRIPTOMIC:24	2	False	0	UNIFORM	Bos taurus is the Latin name and dairy cattle is the common name for the same domesticated bovine species.
+PRJNA723283	65	30	0.462	1	Anas platyrhynchos	UNIFORM_WITH_GAPS	METAGENOMIC:35; OTHER:30	2	False	0	UNIFORM_WITH_GAPS	
+PRJNA723444	17	17	1.0	1	Mice	UNIFORM	METAGENOMIC:17	1	False	0	UNIFORM	
+PRJNA723631	27	27	1.0	2	Gallus gallus; Raphanus sativus	DIVERSE	METAGENOMIC:27	1	False	0	DIVERSE	Gallus gallus (chicken) and Raphanus sativus (radish) are two genuinely different organisms from different kingdoms (animal vs plant).
+PRJNA726842	7	7	1.0	1	Macaca mulatta	UNIFORM	METAGENOMIC:7	1	False	0	UNIFORM	
+PRJNA728091	7	7	1.0	1	Cow-dung	UNIFORM	METAGENOMIC:7	1	False	0	UNIFORM	
+PRJNA728379	14	0	0.0	0		NO_HOST_DATA	METAGENOMIC:14	1	False	0	NO_HOST_DATA	
+PRJNA728669	1	1	1.0	1	Hermetia illucens	UNIFORM	GENOMIC:1	1	True	1	UNIFORM	
+PRJNA729899	31	31	1.0	1	Mus musculus	UNIFORM	GENOMIC:31	1	True	31	UNIFORM	
+PRJNA730677	70	70	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:58; GENOMIC:12	2	True	12	UNIFORM	
+PRJNA730805	30	30	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA731974	12	12	1.0	1	Mus musculus	UNIFORM	GENOMIC:12	1	True	12	UNIFORM	
+PRJNA732531	48	48	1.0	46	Alyscotermes sp.; Astalotermes quietus; Calcaritermes temnocephalus; Coatitermes kartaboensis; Constrictotermes cavifrons; Coptotermes formosanus; Cornitermes pugnax; Crepititermes verruculosus; Cryptotermes cavifrons; Cryptotermes dudleyi; Cylindrotermes parvignathus; Dicuspiditermes spinitibialis; Euhamitermes sp.; Furculitermes sp.; Globitermes sulphureus; Glyptotermes sp.; Hodotermes mossambicus; Hodotermopsis sjostedti; Incisitermes marginipennis; Incisitermes snyderi; Jugositermes tuberculatus; Kalotermes flavicollis; Macrotermes cf. amplus; Mastotermes darwiniensis; Microcerotermes sp.; Nasutitermes ephratae; Nasutitermes lujae; Neocapritermes taracua; Neotermes castaneus; Neotermes cubanus; Neotermes meruensis; Odontotermes sp.; Palmitermes impostor; Polyspathotermes sulcifrons; Porotermes adamsoni; Porotermes quadricollis; Procryptotermes leewardensis; Procubitermes undulans; Promirotermes sp.; Prorhinotermes canalifrons; Reticulitermes flavipes; Roisinitermes ebogoensis; Sphaerotermes sphaerothorax; Spinitermes trispinosus; Trinervitermes sp.; Zootermopsis nevadensis	DIVERSE	METAGENOMIC:48	1	False	0	DIVERSE	46 distinct termite species from multiple genera across Isoptera; this is a genuine multi-host comparative metagenomics study.
+PRJNA734100	23	18	0.783	1	swine	UNIFORM_WITH_GAPS	METAGENOMIC:23	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA734104	8	8	1.0	1	Mouse	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA734720	79	79	1.0	1	rats	UNIFORM	METAGENOMIC:79	1	False	0	UNIFORM	
+PRJNA734860	343	343	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:343	1	False	0	UNIFORM	
+PRJNA736861	33	33	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:33	1	False	0	UNIFORM	
+PRJNA737271	40	20	0.5	1	Sus scrofa	UNIFORM_WITH_GAPS	METAGENOMIC:40	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA738554	24	24	1.0	1	C57BL/6 mouse	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA738608	107	107	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:107	1	False	0	UNIFORM	
+PRJNA738684	52	52	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJNA739153	20	20	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA741606	43	43	1.0	1	Capra hircus	UNIFORM	METAGENOMIC:43	1	False	0	UNIFORM	
+PRJNA741607	59	59	1.0	1	rat	UNIFORM	METAGENOMIC:59	1	False	0	UNIFORM	
+PRJNA741822	123	123	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:123	1	False	0	UNIFORM	
+PRJNA741980	28	28	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA744213	297	297	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:297	1	False	0	UNIFORM	
+PRJNA744219	16	16	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA744378	30	30	1.0	1	Rhodnius prolixus	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA748109	5	5	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA750156	46	0	0.0	0		NO_HOST_DATA	METAGENOMIC:46	1	False	0	NO_HOST_DATA	
+PRJNA750644	6	6	1.0	2	Pardosa agraria; Pardosa laura	DIVERSE	METAGENOMIC:6	1	False	0	DIVERSE	Two distinct Pardosa spider species, not variants of the same animal.
+PRJNA751718	2	2	1.0	1	Vespa mandarinia	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA752224	20	0	0.0	0		NO_HOST_DATA	METAGENOMIC:20	1	False	0	NO_HOST_DATA	
+PRJNA753312	24	24	1.0	2	Bos taurus; Mus musculus	DIVERSE	METAGENOMIC:24	1	False	0	DIVERSE	Cattle and mouse are two distinct mammalian species from different families.
+PRJNA755866	10	10	1.0	6	Bat; Myotis brandtii; Myotis dasycneme; Myotis daubentonii; Nyctalus noctula; Pippistrellus nathusii	DIVERSE	METAGENOMIC:10	1	False	0	DIVERSE	Five distinct bat species; 'Bat' is a general term containing them but the specific species names represent genuinely different animals.
+PRJNA756556	38	38	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:38	1	False	0	UNIFORM	
+PRJNA757176	12	12	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA757579	162	162	1.0	1	mouse	UNIFORM	METAGENOMIC:162	1	False	0	UNIFORM	
+PRJNA758898	16	16	1.0	1	Felis catus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA760651	10	10	1.0	1	Jinhua pig	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA761967	84	84	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:84	1	False	0	UNIFORM	
+PRJNA763692	1859	1859	1.0	3	Homo sapiens; archaeon; bacterium	DIVERSE	METAGENOMIC:1859	1	False	0	DIVERSE	Homo sapiens is a eukaryotic animal, while archaea and bacteria are distinct prokaryotic domains; these represent genuinely different biological entities.
+PRJNA769425	18	18	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA769748	70	70	1.0	1	mouse	UNIFORM	METAGENOMIC:70	1	False	0	UNIFORM	
+PRJNA769968	222	222	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:222	1	False	0	UNIFORM	
+PRJNA770101	71	71	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:71	1	False	0	UNIFORM	
+PRJNA772288	4	4	1.0	4	Domestic animals; Domestic dog; Soil; Water	DIVERSE	METAGENOMIC:3; GENOMIC:1	2	True	1	DIVERSE	Domestic dog is an animal, while Soil and Water are non-animal environmental samples, representing genuinely different sample types.
+PRJNA772888	18	18	1.0	2	Lutra lutra; Prionailurus bengalensis	DIVERSE	METAGENOMIC:18	1	False	0	DIVERSE	Eurasian otter and flat-headed cat are two distinct carnivoran species from different families.
+PRJNA773596	83	83	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:83	1	False	0	UNIFORM	
+PRJNA777422	16	0	0.0	0		NO_HOST_DATA	METAGENOMIC:16	1	False	0	NO_HOST_DATA	
+PRJNA777737	26	26	1.0	1	Ochotona curzoniae	UNIFORM	METAGENOMIC:26	1	False	0	UNIFORM	
+PRJNA778431	12	12	1.0	1	swine	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA778925	27	0	0.0	0		NO_HOST_DATA	METAGENOMIC:27	1	False	0	NO_HOST_DATA	
+PRJNA779106	236	236	1.0	2	delivery room; piglet	DIVERSE	METAGENOMIC:236	1	False	0	UNIFORM	'delivery room' is a location label, not a host species; piglet is the actual animal host, with inconsistent labeling across samples.
+PRJNA779845	80	80	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:80	1	False	0	UNIFORM	
+PRJNA782061	6	6	1.0	1	Ctenopharyngodon idella	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA782533	79	0	0.0	0		NO_HOST_DATA	METAGENOMIC:79	1	False	0	NO_HOST_DATA	
+PRJNA783381	32	32	1.0	32	sheep101; sheep102; sheep103; sheep104; sheep105; sheep106; sheep107; sheep108; sheep109; sheep110; sheep111; sheep112; sheep113; sheep114; sheep115; sheep116; sheep117; sheep118; sheep119; sheep120; sheep121; sheep122; sheep123; sheep124; sheep125; sheep126; sheep127; sheep128; sheep129; sheep130; sheep131; sheep132	DIVERSE	METAGENOMIC:32	1	False	0	DIVERSE	Numbered individual sheep (sheep101-sheep132) represent 32 distinct animal specimens, a genuine multi-host study.
+PRJNA784741	28	28	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA786358	2	2	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA786887	40	40	1.0	1	Felis catus	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA787384	24	24	1.0	1	Rhinopithecus bieti	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA787952	155	155	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:155	1	False	0	UNIFORM	
+PRJNA788462	216	216	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:216	1	False	0	UNIFORM	
+PRJNA788958	135	135	1.0	1	Equus caballus	UNIFORM	METAGENOMIC:135	1	False	0	UNIFORM	
+PRJNA788972	2	2	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:2	1	False	0	UNIFORM	
+PRJNA792023	29	29	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:29	1	False	0	UNIFORM	
+PRJNA792486	45	45	1.0	2	Black goat; Wuzhishanpig	DIVERSE	METAGENOMIC:45	1	False	0	DIVERSE	Black goat (Capra aegagrus hircus) and Wuzhishanpig (Sus scrofa) are two distinct species from different genera.
+PRJNA793776	130	130	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:130	1	False	0	UNIFORM	
+PRJNA794972	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA795985	290	290	1.0	1	Homo sapiens	UNIFORM	GENOMIC:290	1	True	290	UNIFORM	
+PRJNA796172	48	48	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA798875	2	2	1.0	2	broiler; layer	DIVERSE	METAGENOMIC:2	1	False	0	DIVERSE	Broiler and layer are distinct chicken phenotypes bred for different purposes (meat vs egg production), representing functionally different animal types despite same species.
+PRJNA799796	40	40	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:40	1	False	0	UNIFORM	
+PRJNA801062	10	10	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA801070	14	14	1.0	1	Zophobas morio	UNIFORM	METAGENOMIC:14	1	False	0	UNIFORM	
+PRJNA801645	12	12	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA801914	24	24	1.0	1	piglet	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA804100	53	53	1.0	3	Control; Lampsilis cardium; Micropterus salmoides	DIVERSE	METAGENOMIC:53	1	False	0	DIVERSE	Two distinct fish/mollusk species from different taxonomic families; 'Control' is a treatment label, not a host animal.
+PRJNA805352	1	1	1.0	1	Cnaphalocrocis medinalis	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA806371	5	5	1.0	1	Danio rerio	UNIFORM	METAGENOMIC:5	1	False	0	UNIFORM	
+PRJNA806482	18	18	1.0	1	RAT	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA807368	12	12	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA809514	36	0	0.0	0		NO_HOST_DATA	METAGENOMIC:36	1	False	0	NO_HOST_DATA	
+PRJNA809764	132	132	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:127; TRANSCRIPTOMIC:5	2	False	0	UNIFORM	
+PRJNA811648	16	0	0.0	0		NO_HOST_DATA	GENOMIC:16	1	True	16	NO_HOST_DATA	
+PRJNA811727	96	96	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:96	1	False	0	UNIFORM	
+PRJNA812273	1	1	1.0	1	Nomascus hainanus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA812583	12	12	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA813004	10	10	1.0	2	Angus cattle; Xinjiang brown cattle	DIVERSE	METAGENOMIC:10	1	False	0	DIVERSE	Two distinct cattle breeds representing different genetic lineages and geographic origins.
+PRJNA814825	15	15	1.0	2	Equus hemionus hemionus; Equus przewalskii	DIVERSE	METAGENOMIC:15	1	False	0	DIVERSE	Two distinct Equus species: E. hemionus (Asian wild ass) and E. przewalskii (Przewalski's horse) are different animals.
+PRJNA815745	222	222	1.0	1	Sow	UNIFORM	METAGENOMIC:222	1	False	0	UNIFORM	
+PRJNA816829	9	0	0.0	0		NO_HOST_DATA	METAGENOMIC:9	1	False	0	NO_HOST_DATA	
+PRJNA818062	45	45	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:45	1	False	0	UNIFORM	
+PRJNA820553	15	9	0.6	3	Equus asinus; bird; herbivore	DIVERSE_AND_SPARSE	METAGENOMIC:15	1	False	0	DIVERSE_AND_SPARSE	Equus asinus (donkey) and bird are two genuinely different animal species; 'herbivore' is a general term that applies to donkeys but does not resolve the contradiction between mammals and birds.
+PRJNA821230	16	16	1.0	1	Felis catus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA821272	30	30	1.0	1	Mice	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA821505	156	156	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:156	1	False	0	UNIFORM	
+PRJNA821641	77	75	0.974	1	Sus scrofa	UNIFORM	METAGENOMIC:77	1	False	0	UNIFORM	
+PRJNA822495	3	3	1.0	1	shrimp	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA822929	10	10	1.0	1	Bos grunniens	UNIFORM	METAGENOMIC:10	1	False	0	UNIFORM	
+PRJNA823519	16	16	1.0	2	Cyprinus carpio; Sus scrofa	DIVERSE	METAGENOMIC:16	1	False	0	DIVERSE	Common carp and domestic pig are two distinct species from different families.
+PRJNA825121	3	3	1.0	1	shrimp	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA825132	3	3	1.0	1	shrimp	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA825133	6	4	0.667	2	Gallus gallus; misssing	DIVERSE_AND_SPARSE	METAGENOMIC:6	1	False	0	UNIFORM_WITH_GAPS	'missing' is a data annotation error, not a host label; only Gallus gallus is a genuine host label.
+PRJNA825520	159	159	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:159	1	False	0	UNIFORM	
+PRJNA825732	50	50	1.0	1	Anguilla anguilla	UNIFORM	METAGENOMIC:50	1	False	0	UNIFORM	
+PRJNA827933	9	9	1.0	1	mouse	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA828385	36	12	0.333	1	Sus scrofa	UNIFORM_WITH_GAPS	METAGENOMIC:36	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA831632	145	145	1.0	1	Hoolock tianxing	UNIFORM	METAGENOMIC:145	1	False	0	UNIFORM	
+PRJNA835973	19	16	0.842	1	rat	UNIFORM	METAGENOMIC:19	1	False	0	UNIFORM	
+PRJNA841806	361	361	1.0	2	Environment; Gallus gallus	DIVERSE	METAGENOMIC:361	1	False	0	DIVERSE	Gallus gallus (chicken) is a specific animal species, while 'Environment' represents non-host samples (environmental/inanimate sources), which are genuinely different categories.
+PRJNA843079	51	51	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:51	1	False	0	UNIFORM	
+PRJNA843354	32	32	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA843963	263	263	1.0	5	Bos taurus; Capra aegagrus hircus; Gallus gallus domesticus; Homo sapiens; Ovis aries	DIVERSE	METAGENOMIC:263	1	False	0	DIVERSE	Five distinct host species from different genera, representing a genuine multi-host comparative study.
+PRJNA844176	15	15	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA844237	40	40	1.0	40	RWA-Fecal-Sow1-time1; RWA-Fecal-Sow1-time2; RWA-Fecal-Sow1-time3; RWA-Fecal-Sow1-time4; RWA-Fecal-Sow1-time5; RWA-Fecal-Sow2-time1; RWA-Fecal-Sow2-time2; RWA-Fecal-Sow2-time3; RWA-Fecal-Sow2-time4; RWA-Fecal-Sow2-time5; RWA-Nasal-Sow1-time1; RWA-Nasal-Sow1-time2; RWA-Nasal-Sow1-time3; RWA-Nasal-Sow1-time4; RWA-Nasal-Sow1-time5; RWA-Nasal-Sow2-time1; RWA-Nasal-Sow2-time2; RWA-Nasal-Sow2-time3; RWA-Nasal-Sow2-time4; RWA-Nasal-Sow2-time5; nRWA-Fecal-Sow1-time1; nRWA-Fecal-Sow1-time2; nRWA-Fecal-Sow1-time3; nRWA-Fecal-Sow1-time4; nRWA-Fecal-Sow1-time5; nRWA-Fecal-Sow2-time1; nRWA-Fecal-Sow2-time2; nRWA-Fecal-Sow2-time3; nRWA-Fecal-Sow2-time4; nRWA-Fecal-Sow2-time5; nRWA-Nasal-Sow1-time1; nRWA-Nasal-Sow1-time2; nRWA-Nasal-Sow1-time3; nRWA-Nasal-Sow1-time4; nRWA-Nasal-Sow1-time5; nRWA-Nasal-Sow2-time1; nRWA-Nasal-Sow2-time2; nRWA-Nasal-Sow2-time3; nRWA-Nasal-Sow2-time4; nRWA-Nasal-Sow2-time5	DIVERSE	METAGENOMIC:40	1	False	0	UNIFORM	All labels describe the same species (domestic pig/sow) across two individual animals (Sow1, Sow2), two sample types (Fecal, Nasal), two treatment groups (RWA, nRWA), and five timepoints—purely metadata stratification of one host species.
+PRJNA844935	16	16	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA845803	12	12	1.0	12	Grainfed Angus 1; Grainfed Angus 2; Grainfed Angus 3; Grainfed Angus 4; Grainfed Angus 5; Grainfed Angus 6; Grassfed Angus 1; Grassfed Angus 2; Grassfed Angus 3; Grassfed Angus 4; Grassfed Angus 5; Grassfed Angus 6	DIVERSE	METAGENOMIC:12	1	False	0	UNIFORM	All labels refer to Angus cattle differing only by diet (grainfed vs grassfed) and individual numbering, not distinct animals.
+PRJNA847006	60	60	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA847183	24	24	1.0	5	Balaenoptera borealis; Homo sapiens; Physeter catodon; Sus scrofa domesticus; Vicugna pacos	DIVERSE	METAGENOMIC:24	1	False	0	DIVERSE	Five distinct mammalian species from different orders; this is a genuine multi-host comparative study.
+PRJNA847753	8	8	1.0	1	seagull	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA848116	82	0	0.0	0		NO_HOST_DATA	METAGENOMIC:82	1	False	0	NO_HOST_DATA	
+PRJNA848403	8	8	1.0	1	seagull	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA849257	24	24	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA849401	8	8	1.0	1	seagull	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA852373	5	5	1.0	2	Gallus gallus domesticus; Homo sapiens	DIVERSE	METAGENOMIC:5	1	False	0	DIVERSE	Chicken and human are two distinct animal species.
+PRJNA853153	12	12	1.0	2	Bacillota; Bacteroidota	DIVERSE	METAGENOMIC:12	1	False	0	DIVERSE	Bacillota and Bacteroidota are distinct bacterial phyla, representing genuinely different microbial organisms.
+PRJNA855128	26	0	0.0	0		NO_HOST_DATA	METAGENOMIC:26	1	False	0	NO_HOST_DATA	
+PRJNA855286	30	30	1.0	1	Suidae	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA861020	36	36	1.0	2	Canis lupus familiaris; Felis catus	DIVERSE	METAGENOMIC:36	1	False	0	DIVERSE	Dog and cat are two distinct species from different families (Canidae vs Felidae).
+PRJNA861716	359	359	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:359	1	False	0	UNIFORM	
+PRJNA861719	30	30	1.0	1	Coturnix	UNIFORM	METAGENOMIC:30	1	False	0	UNIFORM	
+PRJNA862309	12	12	1.0	1	Penaeus vannamei	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA862908	151	151	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:151	1	False	0	UNIFORM	
+PRJNA863566	6	6	1.0	1	mice	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA865396	6	6	1.0	1	Eriocheir sinensis	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA865544	1	1	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA872265	119	98	0.824	1	Ailuropoda melanoleuca	UNIFORM	METAGENOMIC:105; METATRANSCRIPTOMIC:14	2	False	0	UNIFORM	
+PRJNA873123	32	32	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA874173	9	9	1.0	9	Alpha-synuclein transgenic c57bl/10 mice; Alpha-synuclein transgenic c57bl/11 mice; Alpha-synuclein transgenic c57bl/6 mice; Alpha-synuclein transgenic c57bl/7 mice; Alpha-synuclein transgenic c57bl/8 mice; Alpha-synuclein transgenic c57bl/9 mice; C57BL/6; C57BL/7; C57BL/8	DIVERSE	METAGENOMIC:9	1	False	0	UNIFORM	All labels refer to C57BL/6 mice with Alpha-synuclein transgene; the numerical suffixes (6-11) are likely different transgenic lines or substrains of the same C57BL/6 background, not distinct animals.
+PRJNA874500	4	4	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:4	1	False	0	UNIFORM	
+PRJNA875084	3	3	1.0	1	Mustela putorius	UNIFORM	METAGENOMIC:3	1	False	0	UNIFORM	
+PRJNA876316	1	1	1.0	1	Ruminococcus sp.	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA876956	12	12	1.0	1	Nannospalax galili	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA877780	15	15	1.0	1	Mus musculus feces	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA878467	1	1	1.0	1	wildlife	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA880353	86	86	1.0	1	Equus caballus	UNIFORM	METAGENOMIC:86	1	False	0	UNIFORM	
+PRJNA881985	119	119	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:119	1	False	0	UNIFORM	
+PRJNA883557	20	20	1.0	1	Rattus norvegicus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA884830	1	0	0.0	0		NO_HOST_DATA	METAGENOMIC:1	1	False	0	NO_HOST_DATA	
+PRJNA886985	167	167	1.0	1	mouse	UNIFORM	GENOMIC:167	1	True	167	UNIFORM	
+PRJNA888429	23	23	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:23	1	False	0	UNIFORM	
+PRJNA890321	28	28	1.0	2	Cygnus atratus; Cygnus cygnus	DIVERSE	METAGENOMIC:28	1	False	0	DIVERSE	Black swan and whooper swan are two distinct Cygnus species, not variants of one animal.
+PRJNA892774	26	26	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:26	1	False	0	UNIFORM	
+PRJNA894152	82	82	1.0	2	Gallus gallus domesticus; Homo sapiens	DIVERSE	METAGENOMIC:82	1	False	0	DIVERSE	Chicken and human are two entirely different species; this is a genuine multi-host study.
+PRJNA894343	60	36	0.6	1	Sus scrofa	UNIFORM_WITH_GAPS	METAGENOMIC:60	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA898082	51	51	1.0	1	beagle	UNIFORM	METAGENOMIC:51	1	False	0	UNIFORM	
+PRJNA899060	57	57	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:57	1	False	0	UNIFORM	
+PRJNA902000	236	236	1.0	1	5xFAD (B6.Cg-Tg(APPSwFlLon;PSEN1*M146L*L286V)6799Vas/Mmjax;Stock number 34848-JAX;MMRRC);5xFAD	UNIFORM	METAGENOMIC:236	1	False	0	UNIFORM	
+PRJNA902117	33	33	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:33	1	False	0	UNIFORM	
+PRJNA902684	110	110	1.0	1	Rattus	UNIFORM	METAGENOMIC:110	1	False	0	UNIFORM	
+PRJNA902833	32	32	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA903767	34	34	1.0	1	Ochotona curzoniae	UNIFORM	METAGENOMIC:34	1	False	0	UNIFORM	
+PRJNA903810	367	335	0.913	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:367	1	False	0	UNIFORM	
+PRJNA906124	33	33	1.0	1	Felis catus	UNIFORM	METAGENOMIC:33	1	False	0	UNIFORM	
+PRJNA906507	32	32	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:32	1	False	0	UNIFORM	
+PRJNA906625	1	1	1.0	1	Daphnia magna	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA908260	8	8	1.0	1	domestic Feline	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA908720	1	1	1.0	1	Canine	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA909042	21	0	0.0	0		NO_HOST_DATA	METAGENOMIC:21	1	False	0	NO_HOST_DATA	
+PRJNA909453	50	50	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:50	1	False	0	UNIFORM	
+PRJNA913183	119	119	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:119	1	False	0	UNIFORM	
+PRJNA913689	63	63	1.0	3	Larimichthys crocea; Larimichthys polyactis; Trichiurus lepturus	DIVERSE	METAGENOMIC:63	1	False	0	DIVERSE	Three distinct fish species: two Larimichthys congeners and one unrelated trichiurid fish.
+PRJNA913821	9	9	1.0	1	Rangifer tarandus platyrhynchus	UNIFORM	METAGENOMIC:9	1	False	0	UNIFORM	
+PRJNA915251	683	683	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:683	1	False	0	UNIFORM	
+PRJNA915351	16	16	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:16	1	False	0	UNIFORM	
+PRJNA916642	12	12	1.0	1	Hippocampus abdominalis	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA919082	64	21	0.328	1	Homo sapiens	UNIFORM_WITH_GAPS	METAGENOMIC:64	1	False	0	UNIFORM_WITH_GAPS	
+PRJNA924548	15	15	1.0	1	Bovine	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA924947	12	12	1.0	1	bovine	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA925857	226	226	1.0	1	Canis lupus familiaris	UNIFORM	METAGENOMIC:226	1	False	0	UNIFORM	
+PRJNA926485	23	23	1.0	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:23	1	False	0	UNIFORM	
+PRJNA932553	48	48	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA932774	24	24	1.0	1	mouse	UNIFORM	METAGENOMIC:24	1	False	0	UNIFORM	
+PRJNA935053	1	1	1.0	1	Chanodichthys erythropterus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA935534	60	60	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:60	1	False	0	UNIFORM	
+PRJNA937780	22	22	1.0	1	Ovis aries	UNIFORM	METAGENOMIC:22	1	False	0	UNIFORM	
+PRJNA938989	41	41	1.0	6	Acinetobacter baumannii; Brevinema andersonii; Chlamydia abortus; Tenacibaculum maritimum; Vibrio alginolyticus; Vibrio ponticus	DIVERSE	METAGENOMIC:41	1	False	0	DIVERSE	Six distinct bacterial/microbial species from different genera represent genuinely different organisms, not variants of one animal.
+PRJNA940065	14	14	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:14	1	False	0	UNIFORM	
+PRJNA940650	13	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12; GENOMIC:1	2	True	1	NO_HOST_DATA	
+PRJNA942254	33	33	1.0	9	Cabassous unicinctus; Dasypus kappleri; Dasypus novemcinctus; Dasypus sp.; Myrmecophaga tridactyla; Orycteropus afer; Proteles cristata; Smutsia temminckii; Tamandua tetradactyla	DIVERSE	METAGENOMIC:33	1	False	0	DIVERSE	These are nine genuinely different animal species across multiple distinct families (Dasypodidae, Bradypodidae, Myrmecophagidae, Orycteropodidae, Herpestidae, Manidae), plus Dasypus sp. as an unspecified Dasypus species.
+PRJNA942468	517	517	1.0	517	HV001_G05_0464_BDME190634659-1a_HMJH7DSXX_L1;HV001 G05 0464 BDME190634659-1a HMJH7DSXX L1; HV002_G06_0465_BDME190634660-1a_HMK73DSXX_L3;HV002 G06 0465 BDME190634660-1a HMK73DSXX L3; HV003_G07_0466_BDME190634661-1a_HMJH7DSXX_L1;HV003 G07 0466 BDME190634661-1a HMJH7DSXX L1; HV004_G08_0467_BDME190634662-1a_HMK73DSXX_L4;HV004 G08 0467 BDME190634662-1a HMK73DSXX L4; HV005_G09_0468_BDME190634663-1a_HMNCJDSXX_L2;HV005 G09 0468 BDME190634663-1a HMNCJDSXX L2; HV006_H01_0469_BDME190634664-1a_HMNCJDSXX_L2;HV006 H01 0469 BDME190634664-1a HMNCJDSXX L2; HV007_H02_0470_BDME190634665-1a_HMHM7DSXX_L2;HV007 H02 0470 BDME190634665-1a HMHM7DSXX L2; HV008_H03_0471_BDME190634666-1a_HMJH7DSXX_L1;HV008 H03 0471 BDME190634666-1a HMJH7DSXX L1; HV009_H04_0472_BDME190634667-1a_HTLNHDSXX_L2;HV009 H04 0472 BDME190634667-1a HTLNHDSXX L2; HV010_H05_0473_BDME190634668-1a_HMK73DSXX_L3;HV010 H05 0473 BDME190634668-1a HMK73DSXX L3; HV011_H06_0474_BDME190634669-1a_HMJH7DSXX_L1;HV011 H06 0474 BDME190634669-1a HMJH7DSXX L1; HV012_H07_0475_BDME190634670-1a_HMJH7DSXX_L3;HV012 H07 0475 BDME190634670-1a HMJH7DSXX L3; HV013_H08_0476_BDME190634671-1a_HMJH7DSXX_L1;HV013 H08 0476 BDME190634671-1a HMJH7DSXX L1; HV014_H09_0477_BDME190634672-1a_HMNCJDSXX_L2;HV014 H09 0477 BDME190634672-1a HMNCJDSXX L2; HV015_I01_0478_BDME190634673-1a_HTLNHDSXX_L1;HV015 I01 0478 BDME190634673-1a HTLNHDSXX L1; HV016_I02_0479_BDME190634674-1a_HTLNHDSXX_L1;HV016 I02 0479 BDME190634674-1a HTLNHDSXX L1; HV017_I03_0480_BDME190634675-1a_HMHMLDSXX_L3;HV017 I03 0480 BDME190634675-1a HMHMLDSXX L3; HV018_I04_0481_BDME190634676-1a_HMJH7DSXX_L2;HV018 I04 0481 BDME190634676-1a HMJH7DSXX L2; HV019_I05_0482_BDME190634677-1a_HMJLWDSXX_L1;HV019 I05 0482 BDME190634677-1a HMJLWDSXX L1; HV020_I06_0483_BDME190634678-1a_HMJH7DSXX_L4;HV020 I06 0483 BDME190634678-1a HMJH7DSXX L4; HV021_I07_0484_BDME190634679-1a_HMK73DSXX_L4;HV021 I07 0484 BDME190634679-1a HMK73DSXX L4; HV022_I08_0485_BDME190634680-1a_HMK73DSXX_L4;HV022 I08 0485 BDME190634680-1a HMK73DSXX L4; HV023_I09_0486_BDME190634681-1a_HMJH7DSXX_L1;HV023 I09 0486 BDME190634681-1a HMJH7DSXX L1; HV024_A01_0487_BDME190634682-1a_HMNCJDSXX_L2;HV024 A01 0487 BDME190634682-1a HMNCJDSXX L2; HV025_A02_0488_BDME190634683-1a_HMK73DSXX_L4;HV025 A02 0488 BDME190634683-1a HMK73DSXX L4; HV026_A03_0489_BDME190634684-1a_HTLYJDSXX_L4;HV026 A03 0489 BDME190634684-1a HTLYJDSXX L4; HV027_A04_0490_BDME190634685-1a_HMHMLDSXX_L3;HV027 A04 0490 BDME190634685-1a HMHMLDSXX L3; HV028_A05_0491_BDME190634686-1a_HMJH7DSXX_L2;HV028 A05 0491 BDME190634686-1a HMJH7DSXX L2; HV029_A06_0492_BDME190634687-1a_HMJLWDSXX_L4;HV029 A06 0492 BDME190634687-1a HMJLWDSXX L4; HV030_A07_0493_BDME190634688-1a_HMJH7DSXX_L2;HV030 A07 0493 BDME190634688-1a HMJH7DSXX L2; HV031_A08_0494_BDME190634689-1a_HMHM7DSXX_L3;HV031 A08 0494 BDME190634689-1a HMHM7DSXX L3; HV032_A09_0495_BDME190634690-1a_HTLYJDSXX_L3;HV032 A09 0495 BDME190634690-1a HTLYJDSXX L3; HV033_B01_0496_BDME190634691-1a_HMF2TDSXX_L4;HV033 B01 0496 BDME190634691-1a HMF2TDSXX L4; HV034_B02_0497_BDME190634692-1a_HMF2TDSXX_L4;HV034 B02 0497 BDME190634692-1a HMF2TDSXX L4; HV035_B03_0498_BDME190634693-1a_HMJH7DSXX_L1;HV035 B03 0498 BDME190634693-1a HMJH7DSXX L1; HV036_B04_0499_BDME190634694-1a_HTLNHDSXX_L1;HV036 B04 0499 BDME190634694-1a HTLNHDSXX L1; HV037_B05_0500_BDME190634695-1a_HMJH7DSXX_L1;HV037 B05 0500 BDME190634695-1a HMJH7DSXX L1; HV038_B06_0501_BDME190634696-1a_HTLNHDSXX_L2;HV038 B06 0501 BDME190634696-1a HTLNHDSXX L2; HV039_B07_0502_BDME190634697-1a_HMJH7DSXX_L1;HV039 B07 0502 BDME190634697-1a HMJH7DSXX L1; HV040_B08_0503_BDME190634698-1a_HMJH7DSXX_L1;HV040 B08 0503 BDME190634698-1a HMJH7DSXX L1; HV041_B09_0504_BDME190634699-1a_HMJH7DSXX_L2;HV041 B09 0504 BDME190634699-1a HMJH7DSXX L2; HV042_C01_0505_BDME190634700-1a_HMJH7DSXX_L1;HV042 C01 0505 BDME190634700-1a HMJH7DSXX L1; HV043_C02_0506_BDME190634701-1a_HMJH7DSXX_L1;HV043 C02 0506 BDME190634701-1a HMJH7DSXX L1; HV044_C03_0507_BDME190634702-1a_HMJH7DSXX_L1;HV044 C03 0507 BDME190634702-1a HMJH7DSXX L1; HV045_C04_0508_BDME190634703-1a_HMJH7DSXX_L2;HV045 C04 0508 BDME190634703-1a HMJH7DSXX L2; HV046_C05_0509_BDME190634704-1a_HMJH7DSXX_L2;HV046 C05 0509 BDME190634704-1a HMJH7DSXX L2; HV047_C06_0510_BDME190634705-1a_HMJH7DSXX_L1;HV047 C06 0510 BDME190634705-1a HMJH7DSXX L1; HV048_C07_0511_BDME190634706-1a_HTMC3DSXX_L3;HV048 C07 0511 BDME190634706-1a HTMC3DSXX L3; HV049_C08_0512_BDME190634707-1a_HMJLWDSXX_L1;HV049 C08 0512 BDME190634707-1a HMJLWDSXX L1; HV050_C09_0513_BDME190634708-1a_HTMC3DSXX_L3;HV050 C09 0513 BDME190634708-1a HTMC3DSXX L3; HV051_D01_0514_BDME190634709-1a_HNHY2DSXX_L4;HV051 D01 0514 BDME190634709-1a HNHY2DSXX L4; HV052_D02_0515_BDME190634710-1a_HTMC3DSXX_L3;HV052 D02 0515 BDME190634710-1a HTMC3DSXX L3; HV053_D03_0516_BDME190634711-1a_HMJH7DSXX_L1;HV053 D03 0516 BDME190634711-1a HMJH7DSXX L1; HV054_D04_0517_BDME190634712-1a_HMJH7DSXX_L2;HV054 D04 0517 BDME190634712-1a HMJH7DSXX L2; HV055_D05_0518_BDME190634713-1a_HMJH7DSXX_L2;HV055 D05 0518 BDME190634713-1a HMJH7DSXX L2; HV057_D07_0520_BDME190634715-1a_HTMC3DSXX_L3;HV057 D07 0520 BDME190634715-1a HTMC3DSXX L3; HV058_D08_0521_BDME190634716-1a_HTMC3DSXX_L3;HV058 D08 0521 BDME190634716-1a HTMC3DSXX L3; HV059_D09_0522_BDME190634717-1a_HMJH7DSXX_L2;HV059 D09 0522 BDME190634717-1a HMJH7DSXX L2; HV060_E01_0523_BDME190634718-1a_HMJH7DSXX_L2;HV060 E01 0523 BDME190634718-1a HMJH7DSXX L2; HV062_E03_0525_BDME190634720-1a_HMJH7DSXX_L1;HV062 E03 0525 BDME190634720-1a HMJH7DSXX L1; HV063_E04_0526_BDME190634721-1a_HMJH7DSXX_L1;HV063 E04 0526 BDME190634721-1a HMJH7DSXX L1; HV064_E05_0527_BDME190634722-1a_HMJH7DSXX_L1;HV064 E05 0527 BDME190634722-1a HMJH7DSXX L1; HV065_E06_0528_BDME190634723-1a_HMK73DSXX_L4;HV065 E06 0528 BDME190634723-1a HMK73DSXX L4; HV066_E07_0529_BDME190634724-1a_HMJH7DSXX_L2;HV066 E07 0529 BDME190634724-1a HMJH7DSXX L2; HV067_E08_0530_BDME190634725-1a_HMJH7DSXX_L1;HV067 E08 0530 BDME190634725-1a HMJH7DSXX L1; HV068_E09_0531_BDME190634726-1a_HTLNHDSXX_L1;HV068 E09 0531 BDME190634726-1a HTLNHDSXX L1; HV069_F01_0532_BDME190634727-1a_HMK73DSXX_L3;HV069 F01 0532 BDME190634727-1a HMK73DSXX L3; HV070_F02_0533_BDME190634728-1a_HMHMLDSXX_L1;HV070 F02 0533 BDME190634728-1a HMHMLDSXX L1; HV071_F03_0534_BDME190634729-1a_HMJH7DSXX_L2;HV071 F03 0534 BDME190634729-1a HMJH7DSXX L2; HV072_F04_0535_BDME190634730-1a_HMJH5DSXX_L1;HV072 F04 0535 BDME190634730-1a HMJH5DSXX L1; HV073_F05_0536_BDME190634731-1a_HMJH7DSXX_L1;HV073 F05 0536 BDME190634731-1a HMJH7DSXX L1; HV074_F06_0537_BDME190634732-1a_HMJH7DSXX_L4;HV074 F06 0537 BDME190634732-1a HMJH7DSXX L4; HV075_F07_0538_BDME190634733-1a_HMJH7DSXX_L1;HV075 F07 0538 BDME190634733-1a HMJH7DSXX L1; HV076_F08_0539_BDME190634734-1a_HMJH7DSXX_L2;HV076 F08 0539 BDME190634734-1a HMJH7DSXX L2; HV077_F09_0540_BDME190634735-1a_HMGLJDSXX_L2;HV077 F09 0540 BDME190634735-1a HMGLJDSXX L2; HV078_G01_0541_BDME190634736-1a_HMJH7DSXX_L1;HV078 G01 0541 BDME190634736-1a HMJH7DSXX L1; HV079_G02_0542_BDME190634737-1a_HTMF7DSXX_L1;HV079 G02 0542 BDME190634737-1a HTMF7DSXX L1; HV080_G03_0543_BDME190634738-1a_HMJH7DSXX_L1;HV080 G03 0543 BDME190634738-1a HMJH7DSXX L1; HV081_G04_0544_BDME190634739-1a_HMJH7DSXX_L2;HV081 G04 0544 BDME190634739-1a HMJH7DSXX L2; HV082_G05_0545_BDME190634740-1a_HMJH7DSXX_L1;HV082 G05 0545 BDME190634740-1a HMJH7DSXX L1; HV083_G06_0546_BDME190634741-1a_HMJH7DSXX_L2;HV083 G06 0546 BDME190634741-1a HMJH7DSXX L2; HV084_G07_0547_BDME190634742-1a_HMJH7DSXX_L2;HV084 G07 0547 BDME190634742-1a HMJH7DSXX L2; HV085_G08_0548_BDME190634743-1a_HMJH7DSXX_L2;HV085 G08 0548 BDME190634743-1a HMJH7DSXX L2; HV086_G09_0549_BDME190634744-1a_HMJH7DSXX_L2;HV086 G09 0549 BDME190634744-1a HMJH7DSXX L2; HV087_H01_0550_BDME190634745-1a_HTLHGDSXX_L3;HV087 H01 0550 BDME190634745-1a HTLHGDSXX L3; HV088_H02_0551_BDME190634746-1a_HTMF7DSXX_L1;HV088 H02 0551 BDME190634746-1a HTMF7DSXX L1; HV089_H03_0552_BDME190634747-1a_HTLNHDSXX_L1;HV089 H03 0552 BDME190634747-1a HTLNHDSXX L1; HV090_H04_0553_BDME190634748-1a_HMJH7DSXX_L1;HV090 H04 0553 BDME190634748-1a HMJH7DSXX L1; HV091_H05_0554_BDME190634749-1a_HTMF7DSXX_L1;HV091 H05 0554 BDME190634749-1a HTMF7DSXX L1; HV092_H06_0555_BDME190634750-1a_HMJH7DSXX_L2;HV092 H06 0555 BDME190634750-1a HMJH7DSXX L2; HV093_H07_0556_BDME190634751-1a_HMJH7DSXX_L1;HV093 H07 0556 BDME190634751-1a HMJH7DSXX L1; HV094_H08_0557_BDME190634752-1a_HMHM7DSXX_L2;HV094 H08 0557 BDME190634752-1a HMHM7DSXX L2; HV095_H09_0558_BDME190634753-1a_HMK73DSXX_L4;HV095 H09 0558 BDME190634753-1a HMK73DSXX L4; HV096_I01_0559_BDME190634754-1a_HMJH7DSXX_L1;HV096 I01 0559 BDME190634754-1a HMJH7DSXX L1; HV097_I02_0560_BDME190634755-1a_HMK73DSXX_L3;HV097 I02 0560 BDME190634755-1a HMK73DSXX L3; HV098_I03_0561_BDME190634756-1a_HMJH7DSXX_L1;HV098 I03 0561 BDME190634756-1a HMJH7DSXX L1; HV099_I04_0562_BDME190634757-1a_HTLNHDSXX_L1;HV099 I04 0562 BDME190634757-1a HTLNHDSXX L1; HV100_I05_0563_BDME190634758-1a_HMJH7DSXX_L1;HV100 I05 0563 BDME190634758-1a HMJH7DSXX L1; HV101_I06_0564_BDME190634759-1a_HMHMLDSXX_L2;HV101 I06 0564 BDME190634759-1a HMHMLDSXX L2; HV103_I08_0566_BDME190634761-1a_HTMC3DSXX_L3;HV103 I08 0566 BDME190634761-1a HTMC3DSXX L3; HV104_I09_0567_BDME190634762-1a_HMK73DSXX_L3;HV104 I09 0567 BDME190634762-1a HMK73DSXX L3; HV105_A01_0568_BDME190634763-1a_HMJH7DSXX_L4;HV105 A01 0568 BDME190634763-1a HMJH7DSXX L4; HV107_A03_0570_BDME190634765-1a_HMHMLDSXX_L3;HV107 A03 0570 BDME190634765-1a HMHMLDSXX L3; HV108_A04_0571_BDME190634766-1a_HMHNLDSXX_L3;HV108 A04 0571 BDME190634766-1a HMHNLDSXX L3; HV109_A05_0572_BDME190634767-1a_HMJLWDSXX_L1;HV109 A05 0572 BDME190634767-1a HMJLWDSXX L1; HV110_A06_0573_BDME190634768-1a_HMK73DSXX_L4;HV110 A06 0573 BDME190634768-1a HMK73DSXX L4; HV111_A07_0574_BDME190634769-1a_HTLHGDSXX_L2;HV111 A07 0574 BDME190634769-1a HTLHGDSXX L2; HV112_A08_0575_BDME190634770-1a_HMJH7DSXX_L4;HV112 A08 0575 BDME190634770-1a HMJH7DSXX L4; HV113_A09_0576_BDME190634771-1a_HMHNLDSXX_L3;HV113 A09 0576 BDME190634771-1a HMHNLDSXX L3; HV114_B01_0577_BDME190634772-1a_HMJH7DSXX_L1;HV114 B01 0577 BDME190634772-1a HMJH7DSXX L1; HV115_B02_0578_BDME190634773-1a_HMK73DSXX_L4;HV115 B02 0578 BDME190634773-1a HMK73DSXX L4; HV116_B03_0579_BDME190634774-1a_HTMC3DSXX_L3;HV116 B03 0579 BDME190634774-1a HTMC3DSXX L3; HV117_B04_0580_BDME190634775-1a_HMHNLDSXX_L2;HV117 B04 0580 BDME190634775-1a HMHNLDSXX L2; HV118_B05_0581_BDME190634776-1a_HMK73DSXX_L4;HV118 B05 0581 BDME190634776-1a HMK73DSXX L4; HV119_B06_0582_BDME190634777-1a_HMJH7DSXX_L1;HV119 B06 0582 BDME190634777-1a HMJH7DSXX L1; HV120_B07_0583_BDME190634778-1a_HMGLJDSXX_L2;HV120 B07 0583 BDME190634778-1a HMGLJDSXX L2; HV121_B08_0584_BDME190634779-1a_HTLNHDSXX_L1;HV121 B08 0584 BDME190634779-1a HTLNHDSXX L1; HV122_B09_0585_BDME190634780-1a_HTLHGDSXX_L2;HV122 B09 0585 BDME190634780-1a HTLHGDSXX L2; HV123_C01_0586_BDME190634781-1a_HMJH7DSXX_L4;HV123 C01 0586 BDME190634781-1a HMJH7DSXX L4; HV124_C02_0587_BDME190634782-1a_HMK73DSXX_L4;HV124 C02 0587 BDME190634782-1a HMK73DSXX L4; HV125_C03_0588_BDME190634783-1a_HTLNHDSXX_L1;HV125 C03 0588 BDME190634783-1a HTLNHDSXX L1; HV126_C04_0589_BDME190634784-1a_HMK73DSXX_L4;HV126 C04 0589 BDME190634784-1a HMK73DSXX L4; HV127_C05_0590_BDME190634785-1a_HMHM7DSXX_L2;HV127 C05 0590 BDME190634785-1a HMHM7DSXX L2; HV128_C06_0591_BDME190634786-1a_HMHNLDSXX_L3;HV128 C06 0591 BDME190634786-1a HMHNLDSXX L3; HV129_C07_0592_BDME190634787-1a_HMHNLDSXX_L3;HV129 C07 0592 BDME190634787-1a HMHNLDSXX L3; HV130_C08_0593_BDME190634788-1a_HMJH5DSXX_L4;HV130 C08 0593 BDME190634788-1a HMJH5DSXX L4; HV131_C09_0594_BDME190634789-1a_HMJH7DSXX_L1;HV131 C09 0594 BDME190634789-1a HMJH7DSXX L1; HV132_D01_0595_BDME190634790-1a_HMJH7DSXX_L4;HV132 D01 0595 BDME190634790-1a HMJH7DSXX L4; HV133_D02_0596_BDME190634791-1a_HMHMLDSXX_L3;HV133 D02 0596 BDME190634791-1a HMHMLDSXX L3; HV134_D03_0597_BDME190634792-1a_HTLHGDSXX_L3;HV134 D03 0597 BDME190634792-1a HTLHGDSXX L3; HV135_D04_0598_BDME190634793-1a_HMJH7DSXX_L4;HV135 D04 0598 BDME190634793-1a HMJH7DSXX L4; HV136_D05_0599_BDME190634794-1a_HMHNLDSXX_L3;HV136 D05 0599 BDME190634794-1a HMHNLDSXX L3; HV137_D06_0600_BDME190634795-1a_HMJH7DSXX_L4;HV137 D06 0600 BDME190634795-1a HMJH7DSXX L4; HV138_D07_0601_BDME190634796-1a_HMJH7DSXX_L4;HV138 D07 0601 BDME190634796-1a HMJH7DSXX L4; HV139_D08_0602_BDME190634797-1a_HMHMLDSXX_L2;HV139 D08 0602 BDME190634797-1a HMHMLDSXX L2; HV140_D09_0603_BDME190634798-1a_HMJF3DSXX_L4;HV140 D09 0603 BDME190634798-1a HMJF3DSXX L4; HV141_E01_0604_BDME190634799-1a_HMHMLDSXX_L2;HV141 E01 0604 BDME190634799-1a HMHMLDSXX L2; HV142_E02_0605_BDME190634800-1a_HMHNLDSXX_L3;HV142 E02 0605 BDME190634800-1a HMHNLDSXX L3; HV143_E03_0606_BDME190634801-1a_HMJ5GDSXX_L2;HV143 E03 0606 BDME190634801-1a HMJ5GDSXX L2; HV144_E04_0607_BDME190634802-1a_HMJH7DSXX_L1;HV144 E04 0607 BDME190634802-1a HMJH7DSXX L1; HV145_E05_0608_BDME190634803-1a_HTLYJDSXX_L3;HV145 E05 0608 BDME190634803-1a HTLYJDSXX L3; HV146_E06_0609_BDME190634804-1a_HMGLJDSXX_L3;HV146 E06 0609 BDME190634804-1a HMGLJDSXX L3; HV148_E08_0611_BDME190634806-1a_HMGLJDSXX_L1;HV148 E08 0611 BDME190634806-1a HMGLJDSXX L1; HV149_E09_0612_BDME190634807-1a_HMJH7DSXX_L4;HV149 E09 0612 BDME190634807-1a HMJH7DSXX L4; HV150_F01_0613_BDME190634808-1a_HMHNLDSXX_L4;HV150 F01 0613 BDME190634808-1a HMHNLDSXX L4; HV151_F02_0614_BDME190634809-1a_HMJLWDSXX_L2;HV151 F02 0614 BDME190634809-1a HMJLWDSXX L2; HV152_F03_0615_BDME190634810-1a_HMJH7DSXX_L4;HV152 F03 0615 BDME190634810-1a HMJH7DSXX L4; HV153_F04_0616_BDME190634811-1a_HMHNLDSXX_L3;HV153 F04 0616 BDME190634811-1a HMHNLDSXX L3; HV154_F05_0617_BDME190634812-1a_HMHNLDSXX_L3;HV154 F05 0617 BDME190634812-1a HMHNLDSXX L3; HV155_F06_0618_BDME190634813-1a_HMK73DSXX_L3;HV155 F06 0618 BDME190634813-1a HMK73DSXX L3; HV156_F07_0619_BDME190634814-1a_HTMC3DSXX_L4;HV156 F07 0619 BDME190634814-1a HTMC3DSXX L4; HV157_F08_0620_BDME190634815-1a_HMJLWDSXX_L1;HV157 F08 0620 BDME190634815-1a HMJLWDSXX L1; HV158_F09_0621_BDME190634816-1a_HMHNLDSXX_L2;HV158 F09 0621 BDME190634816-1a HMHNLDSXX L2; HV159_G01_0622_BDME190634817-1a_HMHNLDSXX_L3;HV159 G01 0622 BDME190634817-1a HMHNLDSXX L3; HV160_G02_0623_BDME190634818-1a_HMK73DSXX_L4;HV160 G02 0623 BDME190634818-1a HMK73DSXX L4; HV161_G03_0624_BDME190634819-1a_HTMC3DSXX_L3;HV161 G03 0624 BDME190634819-1a HTMC3DSXX L3; HV162_G04_0625_BDME190634820-1a_HMHNLDSXX_L3;HV162 G04 0625 BDME190634820-1a HMHNLDSXX L3; HV163_G05_0626_BDME190634821-1a_HMK73DSXX_L4;HV163 G05 0626 BDME190634821-1a HMK73DSXX L4; HV164_G06_0627_BDME190634822-1a_HMJF3DSXX_L4;HV164 G06 0627 BDME190634822-1a HMJF3DSXX L4; HV165_G07_0628_BDME190634823-1a_HMHNLDSXX_L3;HV165 G07 0628 BDME190634823-1a HMHNLDSXX L3; HV166_G08_0629_BDME190634824-1a_HTMC3DSXX_L3;HV166 G08 0629 BDME190634824-1a HTMC3DSXX L3; HV167_G09_0630_BDME190634825-1a_HMHNLDSXX_L3;HV167 G09 0630 BDME190634825-1a HMHNLDSXX L3; HV168_H01_0631_BDME190634826-1a_HTMC3DSXX_L3;HV168 H01 0631 BDME190634826-1a HTMC3DSXX L3; HV169_H02_0632_BDME190634827-1a_HMHNLDSXX_L2;HV169 H02 0632 BDME190634827-1a HMHNLDSXX L2; HV170_H03_0633_BDME190634828-1a_HMGLJDSXX_L2;HV170 H03 0633 BDME190634828-1a HMGLJDSXX L2; HV171_H04_0634_BDME190634829-1a_HMK73DSXX_L4;HV171 H04 0634 BDME190634829-1a HMK73DSXX L4; HV172_H05_0635_BDME190634830-1a_HTMC3DSXX_L3;HV172 H05 0635 BDME190634830-1a HTMC3DSXX L3; HV173_H06_0636_BDME190634831-1a_HMK73DSXX_L4;HV173 H06 0636 BDME190634831-1a HMK73DSXX L4; HV174_H07_0637_BDME190634832-1a_HMHNLDSXX_L3;HV174 H07 0637 BDME190634832-1a HMHNLDSXX L3; HV175_H08_0638_BDME190634833-1a_HTLNHDSXX_L1;HV175 H08 0638 BDME190634833-1a HTLNHDSXX L1; HV176_H09_0639_BDME190634834-1a_HMHNLDSXX_L4;HV176 H09 0639 BDME190634834-1a HMHNLDSXX L4; HV177_I01_0640_BDME190634835-1a_HMJH7DSXX_L1;HV177 I01 0640 BDME190634835-1a HMJH7DSXX L1; HV178_I02_0641_BDME190634836-1a_HMJH7DSXX_L1;HV178 I02 0641 BDME190634836-1a HMJH7DSXX L1; HV179_I03_0642_BDME190634837-1a_HMJH7DSXX_L4;HV179 I03 0642 BDME190634837-1a HMJH7DSXX L4; HV180_I04_0643_BDME190634838-1a_HMHMLDSXX_L1;HV180 I04 0643 BDME190634838-1a HMHMLDSXX L1; HV181_I05_0644_BDME190634839-1a_HMHNLDSXX_L4;HV181 I05 0644 BDME190634839-1a HMHNLDSXX L4; HV182_I06_0645_BDME190634840-1a_HMHMLDSXX_L2;HV182 I06 0645 BDME190634840-1a HMHMLDSXX L2; HV183_I07_0646_BDME190634841-1a_HMHM7DSXX_L2;HV183 I07 0646 BDME190634841-1a HMHM7DSXX L2; HV184_I08_0647_BDME190634842-1a_HTLHGDSXX_L3;HV184 I08 0647 BDME190634842-1a HTLHGDSXX L3; HV185_I09_0648_BDME190634843-1a_HTMC3DSXX_L3;HV185 I09 0648 BDME190634843-1a HTMC3DSXX L3; HV186_A01_0649_BDME190634844-1a_HMHNLDSXX_L2;HV186 A01 0649 BDME190634844-1a HMHNLDSXX L2; HV187_A02_0650_BDME190634845-1a_HMHNLDSXX_L4;HV187 A02 0650 BDME190634845-1a HMHNLDSXX L4; HV188_A03_0651_BDME190634846-1a_HMHNLDSXX_L3;HV188 A03 0651 BDME190634846-1a HMHNLDSXX L3; HV189_A04_0652_BDME190634847-1a_HMHNLDSXX_L3;HV189 A04 0652 BDME190634847-1a HMHNLDSXX L3; HV190_A05_0653_BDME190634848-1a_HMHNLDSXX_L3;HV190 A05 0653 BDME190634848-1a HMHNLDSXX L3; HV191_A06_0654_BDME190634849-1a_HMHM7DSXX_L2;HV191 A06 0654 BDME190634849-1a HMHM7DSXX L2; HV192_A07_0655_BDME190634850-1a_HMHM7DSXX_L3;HV192 A07 0655 BDME190634850-1a HMHM7DSXX L3; HV193_A08_0656_BDME190634851-1a_HTMC3DSXX_L3;HV193 A08 0656 BDME190634851-1a HTMC3DSXX L3; HV194_A09_0657_BDME190634852-1a_HTLNHDSXX_L4;HV194 A09 0657 BDME190634852-1a HTLNHDSXX L4; HV195_B01_0658_BDME190634853-1a_HMHMLDSXX_L2;HV195 B01 0658 BDME190634853-1a HMHMLDSXX L2; HV196_B02_0659_BDME190634854-1a_HMHNLDSXX_L3;HV196 B02 0659 BDME190634854-1a HMHNLDSXX L3; HV197_B03_0660_BDME190634855-1a_HMK73DSXX_L4;HV197 B03 0660 BDME190634855-1a HMK73DSXX L4; HV198_B04_0661_BDME190634856-1a_HN2JLDSXX_L3;HV198 B04 0661 BDME190634856-1a HN2JLDSXX L3; HV199_B05_0662_BDME190634857-1a_HTLNHDSXX_L1;HV199 B05 0662 BDME190634857-1a HTLNHDSXX L1; HV200_B06_0663_BDME190634858-1a_HTMC3DSXX_L3;HV200 B06 0663 BDME190634858-1a HTMC3DSXX L3; HV201_B07_0664_BDME190634859-1a_HN2JLDSXX_L3;HV201 B07 0664 BDME190634859-1a HN2JLDSXX L3; HV202_B08_0665_BDME190634860-1a_HN2JLDSXX_L3;HV202 B08 0665 BDME190634860-1a HN2JLDSXX L3; HV203_B09_0666_BDME190634861-1a_HN2JLDSXX_L3;HV203 B09 0666 BDME190634861-1a HN2JLDSXX L3; HV205_C02_0668_BDME190634863-1a_HN2JLDSXX_L3;HV205 C02 0668 BDME190634863-1a HN2JLDSXX L3; HV206_C03_0669_BDME190634864-1a_HMHNLDSXX_L2;HV206 C03 0669 BDME190634864-1a HMHNLDSXX L2; HV207_C04_0670_BDME190634865-1a_HMHNLDSXX_L2;HV207 C04 0670 BDME190634865-1a HMHNLDSXX L2; HV208_C05_0671_BDME190634866-1a_HN2JLDSXX_L3;HV208 C05 0671 BDME190634866-1a HN2JLDSXX L3; HV209_C06_0672_BDME190634867-1a_HMHMLDSXX_L3;HV209 C06 0672 BDME190634867-1a HMHMLDSXX L3; HV210_C07_0673_BDME190634868-1a_HTMC3DSXX_L2;HV210 C07 0673 BDME190634868-1a HTMC3DSXX L2; HV211_C08_0674_BDME190634869-1a_HNKMHDSXX_L4;HV211 C08 0674 BDME190634869-1a HNKMHDSXX L4; HV212_C09_0675_BDME190634870-1a_HMHMLDSXX_L3;HV212 C09 0675 BDME190634870-1a HMHMLDSXX L3; HV213_D01_0676_BDME190634871-1a_HTLHGDSXX_L3;HV213 D01 0676 BDME190634871-1a HTLHGDSXX L3; HV214_D02_0677_BDME190634872-1a_HMJLWDSXX_L2;HV214 D02 0677 BDME190634872-1a HMJLWDSXX L2; HV215_D03_0678_BDME190634873-1a_HMHNLDSXX_L2;HV215 D03 0678 BDME190634873-1a HMHNLDSXX L2; HV216_D04_0679_BDME190634874-1a_HMHNLDSXX_L2;HV216 D04 0679 BDME190634874-1a HMHNLDSXX L2; HV217_D05_0680_BDME190634875-1a_HTMC3DSXX_L3;HV217 D05 0680 BDME190634875-1a HTMC3DSXX L3; HV218_D06_0681_BDME190634876-1a_HTMC3DSXX_L3;HV218 D06 0681 BDME190634876-1a HTMC3DSXX L3; HV219_D07_0682_BDME190634877-1a_HTMC3DSXX_L3;HV219 D07 0682 BDME190634877-1a HTMC3DSXX L3; HV220_D08_0683_BDME190634878-1a_HMK73DSXX_L4;HV220 D08 0683 BDME190634878-1a HMK73DSXX L4; HV221_D09_0684_BDME190634879-1a_HMHM7DSXX_L1;HV221 D09 0684 BDME190634879-1a HMHM7DSXX L1; HV222_E01_0685_BDME190634880-1a_HTLHGDSXX_L2;HV222 E01 0685 BDME190634880-1a HTLHGDSXX L2; HV223_E02_0686_BDME190634881-1a_HN2JLDSXX_L3;HV223 E02 0686 BDME190634881-1a HN2JLDSXX L3; HV224_E03_0687_BDME190634882-1a_HN2JLDSXX_L3;HV224 E03 0687 BDME190634882-1a HN2JLDSXX L3; HV225_E04_0688_BDME190634883-1a_HN2JLDSXX_L3;HV225 E04 0688 BDME190634883-1a HN2JLDSXX L3; HV226_E05_0689_BDME190634884-1a_HTLHGDSXX_L3;HV226 E05 0689 BDME190634884-1a HTLHGDSXX L3; HV227_E06_0690_BDME190634885-1a_HMK73DSXX_L4;HV227 E06 0690 BDME190634885-1a HMK73DSXX L4; HV228_E07_0691_BDME190634886-1a_HTMC3DSXX_L3;HV228 E07 0691 BDME190634886-1a HTMC3DSXX L3; HV229_E08_0692_BDME190634887-1a_HTMC3DSXX_L3;HV229 E08 0692 BDME190634887-1a HTMC3DSXX L3; HV230_E09_0693_BDME190634888-1a_HMHM7DSXX_L1;HV230 E09 0693 BDME190634888-1a HMHM7DSXX L1; HV231_F01_0694_BDME190634889-1a_HTMC3DSXX_L3;HV231 F01 0694 BDME190634889-1a HTMC3DSXX L3; HV232_F02_0695_BDME190634890-1a_HTMC3DSXX_L3;HV232 F02 0695 BDME190634890-1a HTMC3DSXX L3; HV233_F03_0696_BDME190634891-1a_HN2JLDSXX_L2;HV233 F03 0696 BDME190634891-1a HN2JLDSXX L2; HV234_F04_0697_BDME190634892-1a_HN2JLDSXX_L3;HV234 F04 0697 BDME190634892-1a HN2JLDSXX L3; HV235_F05_0698_BDME190634893-1a_HTLNHDSXX_L1;HV235 F05 0698 BDME190634893-1a HTLNHDSXX L1; HV236_F06_0699_BDME190634894-1a_HMK73DSXX_L3;HV236 F06 0699 BDME190634894-1a HMK73DSXX L3; HV237_F07_0700_BDME190634895-1a_HN2JLDSXX_L3;HV237 F07 0700 BDME190634895-1a HN2JLDSXX L3; HV238_F08_0701_BDME190634896-1a_HMHNLDSXX_L2;HV238 F08 0701 BDME190634896-1a HMHNLDSXX L2; HV239_F09_0702_BDME190634897-1a_HN2JLDSXX_L2;HV239 F09 0702 BDME190634897-1a HN2JLDSXX L2; HV240_G01_0703_BDME190634898-1a_HMGLJDSXX_L1;HV240 G01 0703 BDME190634898-1a HMGLJDSXX L1; HV241_G02_0704_BDME190634899-1a_HMGLJDSXX_L2;HV241 G02 0704 BDME190634899-1a HMGLJDSXX L2; HV242_G03_0705_BDME190634900-1a_HTMC3DSXX_L3;HV242 G03 0705 BDME190634900-1a HTMC3DSXX L3; HV243_G04_0706_BDME190634901-1a_HMGLJDSXX_L3;HV243 G04 0706 BDME190634901-1a HMGLJDSXX L3; HV244_G05_0707_BDME190634902-1a_HMK73DSXX_L3;HV244 G05 0707 BDME190634902-1a HMK73DSXX L3; HV245_G06_0708_BDME190634903-1a_HMK73DSXX_L3;HV245 G06 0708 BDME190634903-1a HMK73DSXX L3; HV246_G07_0709_BDME190634904-1a_HMK73DSXX_L4;HV246 G07 0709 BDME190634904-1a HMK73DSXX L4; HV247_G08_0710_BDME190634905-1a_HTLHGDSXX_L3;HV247 G08 0710 BDME190634905-1a HTLHGDSXX L3; HV248_G09_0711_BDME190634906-1a_HMHNLDSXX_L3;HV248 G09 0711 BDME190634906-1a HMHNLDSXX L3; HV249_H01_0712_BDME190634907-1a_HMJJ3DSXX_L4;HV249 H01 0712 BDME190634907-1a HMJJ3DSXX L4; HV250_H02_0713_BDME190634908-1a_HN2JLDSXX_L3;HV250 H02 0713 BDME190634908-1a HN2JLDSXX L3; HV251_H03_0714_BDME190634909-1a_HMK73DSXX_L4;HV251 H03 0714 BDME190634909-1a HMK73DSXX L4; HV252_H04_0715_BDME190634910-1a_HN2JLDSXX_L3;HV252 H04 0715 BDME190634910-1a HN2JLDSXX L3; HV253_H05_0716_BDME190634911-1a_HMHMLDSXX_L2;HV253 H05 0716 BDME190634911-1a HMHMLDSXX L2; HV254_H06_0717_BDME190634912-1a_HN2JLDSXX_L2;HV254 H06 0717 BDME190634912-1a HN2JLDSXX L2; HV255_H07_0718_BDME190634913-1a_HMHNLDSXX_L2;HV255 H07 0718 BDME190634913-1a HMHNLDSXX L2; HV256_H08_0719_BDME190634914-1a_HMHNLDSXX_L2;HV256 H08 0719 BDME190634914-1a HMHNLDSXX L2; HV257_H09_0720_BDME190634915-1a_HMK73DSXX_L4;HV257 H09 0720 BDME190634915-1a HMK73DSXX L4; HV258_I01_0721_BDME190634916-1a_HNKMHDSXX_L4;HV258 I01 0721 BDME190634916-1a HNKMHDSXX L4; HV259_I02_0722_BDME190634917-1a_HTLHGDSXX_L3;HV259 I02 0722 BDME190634917-1a HTLHGDSXX L3; HV260_I03_0723_BDME190634918-1a_HMHMLDSXX_L3;HV260 I03 0723 BDME190634918-1a HMHMLDSXX L3; HV261_I04_0724_BDME190634919-1a_HMK73DSXX_L3;HV261 I04 0724 BDME190634919-1a HMK73DSXX L3; HV262_I05_0725_BDME190634920-1a_HMHNLDSXX_L2;HV262 I05 0725 BDME190634920-1a HMHNLDSXX L2; HV263_I06_0726_BDME190634921-1a_HMJLWDSXX_L1;HV263 I06 0726 BDME190634921-1a HMJLWDSXX L1; HV265_I08_0728_BDME190634922-1a_HN2JLDSXX_L3_1.fq.gz;HV265 I08 0728 BDME190634922-1a HN2JLDSXX L3 1.fq.gz; HV266_I09_0729_BDME190634923-1a_HTLNHDSXX_L1_1.fq.gz;HV266 I09 0729 BDME190634923-1a HTLNHDSXX L1 1.fq.gz; HV267_A01_0730_BDME190634924-1a_HTMC3DSXX_L3_1.fq.gz;HV267 A01 0730 BDME190634924-1a HTMC3DSXX L3 1.fq.gz; HV268_A02_0731_BDME190634925-1a_HMJLWDSXX_L1_1.fq.gz;HV268 A02 0731 BDME190634925-1a HMJLWDSXX L1 1.fq.gz; HV269_A03_0732_BDME190634926-1a_HMK73DSXX_L4_1.fq.gz;HV269 A03 0732 BDME190634926-1a HMK73DSXX L4 1.fq.gz; HV270_A04_0733_BDME190634927-1a_HN2JLDSXX_L3_1.fq.gz;HV270 A04 0733 BDME190634927-1a HN2JLDSXX L3 1.fq.gz; HV271_A05_0734_BDME190634928-1a_HN2JLDSXX_L3_1.fq.gz;HV271 A05 0734 BDME190634928-1a HN2JLDSXX L3 1.fq.gz; HV272_A06_0735_BDME190634929-1a_HMHNLDSXX_L2_1.fq.gz;HV272 A06 0735 BDME190634929-1a HMHNLDSXX L2 1.fq.gz; HV273_A07_0736_BDME190634930-1a_HMHM7DSXX_L2_1.fq.gz;HV273 A07 0736 BDME190634930-1a HMHM7DSXX L2 1.fq.gz; HV274_A08_0737_BDME190634931-1a_HN2JLDSXX_L3_1.fq.gz;HV274 A08 0737 BDME190634931-1a HN2JLDSXX L3 1.fq.gz; HV276_B01_0739_BDME190634932-1a_HMHM7DSXX_L3_1.fq.gz;HV276 B01 0739 BDME190634932-1a HMHM7DSXX L3 1.fq.gz; HV277_B02_0740_BDME190634933-1a_HMJLWDSXX_L1_1.fq.gz;HV277 B02 0740 BDME190634933-1a HMJLWDSXX L1 1.fq.gz; HV278_B03_0741_BDME190634934-1a_HMJ5GDSXX_L1_1.fq.gz;HV278 B03 0741 BDME190634934-1a HMJ5GDSXX L1 1.fq.gz; HV279_B04_0742_BDME190634935-1a_HN2JLDSXX_L3_1.fq.gz;HV279 B04 0742 BDME190634935-1a HN2JLDSXX L3 1.fq.gz; HV280_B05_0743_BDME190634936-1a_HMJH5DSXX_L4_1.fq.gz;HV280 B05 0743 BDME190634936-1a HMJH5DSXX L4 1.fq.gz; HV281_B06_0744_BDME190634937-1a_HMJLWDSXX_L2_1.fq.gz;HV281 B06 0744 BDME190634937-1a HMJLWDSXX L2 1.fq.gz; HV282_B07_0745_BDME190634938-1a_HN2JLDSXX_L3_1.fq.gz;HV282 B07 0745 BDME190634938-1a HN2JLDSXX L3 1.fq.gz; HV283_B08_0746_BDME190634939-1a_HN2JLDSXX_L3_1.fq.gz;HV283 B08 0746 BDME190634939-1a HN2JLDSXX L3 1.fq.gz; HV284_B09_0747_BDME190634940-1a_HN2JLDSXX_L3_1.fq.gz;HV284 B09 0747 BDME190634940-1a HN2JLDSXX L3 1.fq.gz; HV285_C01_0748_BDME190634941-1a_HMJJ3DSXX_L4_1.fq.gz;HV285 C01 0748 BDME190634941-1a HMJJ3DSXX L4 1.fq.gz; HV286_C02_0749_BDME190634942-1a_HN2JLDSXX_L3_1.fq.gz;HV286 C02 0749 BDME190634942-1a HN2JLDSXX L3 1.fq.gz; HV287_C03_0750_BDME190634943-1a_HN2JLDSXX_L3_1.fq.gz;HV287 C03 0750 BDME190634943-1a HN2JLDSXX L3 1.fq.gz; HV288_C04_0751_BDME190634944-1a_HMK73DSXX_L3_1.fq.gz;HV288 C04 0751 BDME190634944-1a HMK73DSXX L3 1.fq.gz; HV289_C05_0752_BDME190634945-1a_HTMC3DSXX_L3_1.fq.gz;HV289 C05 0752 BDME190634945-1a HTMC3DSXX L3 1.fq.gz; HV290_C06_0753_BDME190634946-1a_HN2JLDSXX_L3_1.fq.gz;HV290 C06 0753 BDME190634946-1a HN2JLDSXX L3 1.fq.gz; HV291_C07_0754_BDME190634947-1a_HN2JLDSXX_L3_1.fq.gz;HV291 C07 0754 BDME190634947-1a HN2JLDSXX L3 1.fq.gz; HV292_C08_0755_BDME190634948-1a_HN2JLDSXX_L3_1.fq.gz;HV292 C08 0755 BDME190634948-1a HN2JLDSXX L3 1.fq.gz; HV293_C09_0756_BDME190634949-1a_HN2JLDSXX_L2_1.fq.gz;HV293 C09 0756 BDME190634949-1a HN2JLDSXX L2 1.fq.gz; HV294_D01_0757_BDME190634950-1a_HN2JLDSXX_L2_1.fq.gz;HV294 D01 0757 BDME190634950-1a HN2JLDSXX L2 1.fq.gz; HV295_D02_0758_BDME190634951-1a_HMHMGDSXX_L2_1.fq.gz;HV295 D02 0758 BDME190634951-1a HMHMGDSXX L2 1.fq.gz; HV296_D03_0759_BDME190634952-1a_HN2JLDSXX_L3_1.fq.gz;HV296 D03 0759 BDME190634952-1a HN2JLDSXX L3 1.fq.gz; HV297_D04_0760_BDME190634953-1a_HMHNLDSXX_L2_1.fq.gz;HV297 D04 0760 BDME190634953-1a HMHNLDSXX L2 1.fq.gz; HV298_D05_0761_BDME190634954-1a_HMHMGDSXX_L2_1.fq.gz;HV298 D05 0761 BDME190634954-1a HMHMGDSXX L2 1.fq.gz; HV299_D06_0762_BDME190634955-1a_HMHM7DSXX_L1_1.fq.gz;HV299 D06 0762 BDME190634955-1a HMHM7DSXX L1 1.fq.gz; HV300_D07_0763_BDME190634956-1a_HMHNLDSXX_L2_1.fq.gz;HV300 D07 0763 BDME190634956-1a HMHNLDSXX L2 1.fq.gz; HV301_D08_0764_BDME190634957-1a_HMHMGDSXX_L3_1.fq.gz;HV301 D08 0764 BDME190634957-1a HMHMGDSXX L3 1.fq.gz; HV302_D09_0765_BDME190634958-1a_HTLHGDSXX_L3_1.fq.gz;HV302 D09 0765 BDME190634958-1a HTLHGDSXX L3 1.fq.gz; HV303_E01_0766_BDME190634959-1a_HMHMGDSXX_L2_1.fq.gz;HV303 E01 0766 BDME190634959-1a HMHMGDSXX L2 1.fq.gz; HV304_E02_0767_BDME190634960-1a_HN2JLDSXX_L3_1.fq.gz;HV304 E02 0767 BDME190634960-1a HN2JLDSXX L3 1.fq.gz; HV305_E03_0768_BDME190634961-1a_HN2JLDSXX_L2_1.fq.gz;HV305 E03 0768 BDME190634961-1a HN2JLDSXX L2 1.fq.gz; HV306_E04_0769_BDME190634962-1a_HMHMGDSXX_L2_1.fq.gz;HV306 E04 0769 BDME190634962-1a HMHMGDSXX L2 1.fq.gz; HV307_E05_0770_BDME190634963-1a_HTLHGDSXX_L3_1.fq.gz;HV307 E05 0770 BDME190634963-1a HTLHGDSXX L3 1.fq.gz; HV308_E06_0771_BDME190634964-1a_HN2JLDSXX_L3_1.fq.gz;HV308 E06 0771 BDME190634964-1a HN2JLDSXX L3 1.fq.gz; HV309_E07_0772_BDME190634965-1a_HTLNHDSXX_L1_1.fq.gz;HV309 E07 0772 BDME190634965-1a HTLNHDSXX L1 1.fq.gz; HV310_E08_0773_BDME190634966-1a_HTLNHDSXX_L1_1.fq.gz;HV310 E08 0773 BDME190634966-1a HTLNHDSXX L1 1.fq.gz; HV311_E09_0774_BDME190634967-1a_HTLHGDSXX_L3_1.fq.gz;HV311 E09 0774 BDME190634967-1a HTLHGDSXX L3 1.fq.gz; HV312_F01_0775_BDME190634968-1a_HN2JLDSXX_L3_1.fq.gz;HV312 F01 0775 BDME190634968-1a HN2JLDSXX L3 1.fq.gz; HV313_F02_0776_BDME190634969-1a_HN2JLDSXX_L3_1.fq.gz;HV313 F02 0776 BDME190634969-1a HN2JLDSXX L3 1.fq.gz; HV314_F03_0777_BDME190634970-1a_HN2JLDSXX_L3_1.fq.gz;HV314 F03 0777 BDME190634970-1a HN2JLDSXX L3 1.fq.gz; HV315_F04_0778_BDME190634971-1a_HN2JLDSXX_L3_1.fq.gz;HV315 F04 0778 BDME190634971-1a HN2JLDSXX L3 1.fq.gz; HV316_F05_0779_BDME190634972-1a_HMHMGDSXX_L4_1.fq.gz;HV316 F05 0779 BDME190634972-1a HMHMGDSXX L4 1.fq.gz; HV317_F06_0780_BDME190634973-1a_HN2JLDSXX_L2_1.fq.gz;HV317 F06 0780 BDME190634973-1a HN2JLDSXX L2 1.fq.gz; HV318_F07_0781_BDME190634974-1a_HN2JLDSXX_L2_1.fq.gz;HV318 F07 0781 BDME190634974-1a HN2JLDSXX L2 1.fq.gz; HV319_F08_0782_BDME190634975-1a_HN2JLDSXX_L2_1.fq.gz;HV319 F08 0782 BDME190634975-1a HN2JLDSXX L2 1.fq.gz; HV320_F09_0783_BDME190634976-1a_HMHMGDSXX_L2_1.fq.gz;HV320 F09 0783 BDME190634976-1a HMHMGDSXX L2 1.fq.gz; HV321_G01_0784_BDME190634977-1a_HNHKCDSXX_L1_1.fq.gz;HV321 G01 0784 BDME190634977-1a HNHKCDSXX L1 1.fq.gz; HV322_G02_0785_BDME190634978-1a_HN2JLDSXX_L2_1.fq.gz;HV322 G02 0785 BDME190634978-1a HN2JLDSXX L2 1.fq.gz; HV323_G03_0786_BDME190634979-1a_HTLNHDSXX_L4_1.fq.gz;HV323 G03 0786 BDME190634979-1a HTLNHDSXX L4 1.fq.gz; HV324_G04_0787_BDME190634980-1a_HMHNLDSXX_L3_1.fq.gz;HV324 G04 0787 BDME190634980-1a HMHNLDSXX L3 1.fq.gz; HV326_G06_0789_BDME190634981-1a_HMHMGDSXX_L2_1.fq.gz;HV326 G06 0789 BDME190634981-1a HMHMGDSXX L2 1.fq.gz; HV327_G07_0790_BDME190634982-1a_HN2JLDSXX_L2_1.fq.gz;HV327 G07 0790 BDME190634982-1a HN2JLDSXX L2 1.fq.gz; HV328_G08_0791_BDME190634983-1a_HMHNLDSXX_L3_1.fq.gz;HV328 G08 0791 BDME190634983-1a HMHNLDSXX L3 1.fq.gz; HV329_G09_0792_BDME190634984-1a_HN2JLDSXX_L2_1.fq.gz;HV329 G09 0792 BDME190634984-1a HN2JLDSXX L2 1.fq.gz; HV330_H01_0793_BDME190634985-1a_HN2JLDSXX_L2_1.fq.gz;HV330 H01 0793 BDME190634985-1a HN2JLDSXX L2 1.fq.gz; HV331_H02_0794_BDME190634986-1a_HTLNHDSXX_L1_1.fq.gz;HV331 H02 0794 BDME190634986-1a HTLNHDSXX L1 1.fq.gz; HV332_H03_0795_BDME190634987-1a_HMHMGDSXX_L2_1.fq.gz;HV332 H03 0795 BDME190634987-1a HMHMGDSXX L2 1.fq.gz; HV333_H04_0796_BDME190634988-1a_HTLNHDSXX_L1_1.fq.gz;HV333 H04 0796 BDME190634988-1a HTLNHDSXX L1 1.fq.gz; HV334_H05_0797_BDME190634989-1a_HMHMGDSXX_L4_1.fq.gz;HV334 H05 0797 BDME190634989-1a HMHMGDSXX L4 1.fq.gz; HV335_H06_0798_BDME190634990-1a_HTLHGDSXX_L2_1.fq.gz;HV335 H06 0798 BDME190634990-1a HTLHGDSXX L2 1.fq.gz; HV336_H07_0799_BDME190634991-1a_HMHNLDSXX_L3_1.fq.gz;HV336 H07 0799 BDME190634991-1a HMHNLDSXX L3 1.fq.gz; HV337_H08_0800_BDME190634992-1a_HMHNLDSXX_L3_1.fq.gz;HV337 H08 0800 BDME190634992-1a HMHNLDSXX L3 1.fq.gz; HV338_H09_0801_BDME190634993-1a_HTMC3DSXX_L3_1.fq.gz;HV338 H09 0801 BDME190634993-1a HTMC3DSXX L3 1.fq.gz; HV339_I01_0802_BDME190634994-1a_HMHNLDSXX_L3_1.fq.gz;HV339 I01 0802 BDME190634994-1a HMHNLDSXX L3 1.fq.gz; HV340_I02_0803_BDME190634995-1a_HN2JLDSXX_L2_1.fq.gz;HV340 I02 0803 BDME190634995-1a HN2JLDSXX L2 1.fq.gz; HV341_I03_0804_BDME190634996-1a_HTLNHDSXX_L4_1.fq.gz;HV341 I03 0804 BDME190634996-1a HTLNHDSXX L4 1.fq.gz; HV342_I04_0805_BDME190634997-1a_HMHMGDSXX_L2_1.fq.gz;HV342 I04 0805 BDME190634997-1a HMHMGDSXX L2 1.fq.gz; HV343_I05_0806_BDME190634998-1a_HN2JLDSXX_L2_1.fq.gz;HV343 I05 0806 BDME190634998-1a HN2JLDSXX L2 1.fq.gz; HV344_I06_0807_BDME190634999-1a_HN2JLDSXX_L2_1.fq.gz;HV344 I06 0807 BDME190634999-1a HN2JLDSXX L2 1.fq.gz; HV346_I08_0809_BDME190635000-1a_HN2JLDSXX_L2_1.fq.gz;HV346 I08 0809 BDME190635000-1a HN2JLDSXX L2 1.fq.gz; HV347_I09_0810_BDME190635001-1a_HMHM7DSXX_L3_1.fq.gz;HV347 I09 0810 BDME190635001-1a HMHM7DSXX L3 1.fq.gz; HV348_A01_0811_BDME190635002-1a_HN2JLDSXX_L2_1.fq.gz;HV348 A01 0811 BDME190635002-1a HN2JLDSXX L2 1.fq.gz; HV349_A02_0812_BDME190635003-1a_HN2JLDSXX_L2_1.fq.gz;HV349 A02 0812 BDME190635003-1a HN2JLDSXX L2 1.fq.gz; HV350_A03_0813_BDME190635004-1a_HTLNHDSXX_L1_1.fq.gz;HV350 A03 0813 BDME190635004-1a HTLNHDSXX L1 1.fq.gz; HV351_A04_0814_BDME190635005-1a_HN2JLDSXX_L2_1.fq.gz;HV351 A04 0814 BDME190635005-1a HN2JLDSXX L2 1.fq.gz; HV352_A05_0815_BDME190635006-1a_HN2JLDSXX_L2_1.fq.gz;HV352 A05 0815 BDME190635006-1a HN2JLDSXX L2 1.fq.gz; HV353_A06_0816_BDME190635007-1a_HN2JLDSXX_L2_1.fq.gz;HV353 A06 0816 BDME190635007-1a HN2JLDSXX L2 1.fq.gz; HV354_A07_0817_BDME190635008-1a_HN2JLDSXX_L2_1.fq.gz;HV354 A07 0817 BDME190635008-1a HN2JLDSXX L2 1.fq.gz; HV355_A08_0818_BDME190635009-1a_HTLNHDSXX_L1_1.fq.gz;HV355 A08 0818 BDME190635009-1a HTLNHDSXX L1 1.fq.gz; HV356_A09_0819_BDME190635010-1a_HMGLJDSXX_L2_1.fq.gz;HV356 A09 0819 BDME190635010-1a HMGLJDSXX L2 1.fq.gz; HV357_B01_0820_BDME190635011-1a_HMGLJDSXX_L3_1.fq.gz;HV357 B01 0820 BDME190635011-1a HMGLJDSXX L3 1.fq.gz; HV359_B03_0822_BDME190635012-1a_HTMC3DSXX_L3_1.fq.gz;HV359 B03 0822 BDME190635012-1a HTMC3DSXX L3 1.fq.gz; HV360_B04_0823_BDME190635013-1a_HMGLJDSXX_L2_1.fq.gz;HV360 B04 0823 BDME190635013-1a HMGLJDSXX L2 1.fq.gz; HV361_B05_0824_BDME190635014-1a_HTLHGDSXX_L3_1.fq.gz;HV361 B05 0824 BDME190635014-1a HTLHGDSXX L3 1.fq.gz; HV362_B06_0825_BDME190635015-1a_HMGLJDSXX_L2_1.fq.gz;HV362 B06 0825 BDME190635015-1a HMGLJDSXX L2 1.fq.gz; HV363_B07_0826_BDME190635016-1a_HMGLJDSXX_L2_1.fq.gz;HV363 B07 0826 BDME190635016-1a HMGLJDSXX L2 1.fq.gz; HV364_B08_0827_BDME190635017-1a_HMJJ3DSXX_L2_1.fq.gz;HV364 B08 0827 BDME190635017-1a HMJJ3DSXX L2 1.fq.gz; HV365_B09_0828_BDME190635018-1a_HMGLJDSXX_L3_1.fq.gz;HV365 B09 0828 BDME190635018-1a HMGLJDSXX L3 1.fq.gz; HV366_C01_0829_BDME190635019-1a_HMJY2DSXX_L3_1.fq.gz;HV366 C01 0829 BDME190635019-1a HMJY2DSXX L3 1.fq.gz; HV367_C02_0830_BDME190635020-1a_HMHM7DSXX_L1_1.fq.gz;HV367 C02 0830 BDME190635020-1a HMHM7DSXX L1 1.fq.gz; HV368_C03_0831_BDME190635021-1a_HMJLWDSXX_L1_1.fq.gz;HV368 C03 0831 BDME190635021-1a HMJLWDSXX L1 1.fq.gz; HV369_C04_0832_BDME190635022-1a_HMGLJDSXX_L2_1.fq.gz;HV369 C04 0832 BDME190635022-1a HMGLJDSXX L2 1.fq.gz; HV370_C05_0833_BDME190635023-1a_HMGLJDSXX_L2_1.fq.gz;HV370 C05 0833 BDME190635023-1a HMGLJDSXX L2 1.fq.gz; HV371_C06_0834_BDME190635024-1a_HTMC3DSXX_L3_1.fq.gz;HV371 C06 0834 BDME190635024-1a HTMC3DSXX L3 1.fq.gz; HV372_C07_0835_BDME190635025-1a_HTLNHDSXX_L1_1.fq.gz;HV372 C07 0835 BDME190635025-1a HTLNHDSXX L1 1.fq.gz; HV373_C08_0836_BDME190635026-1a_HMGLJDSXX_L2_1.fq.gz;HV373 C08 0836 BDME190635026-1a HMGLJDSXX L2 1.fq.gz; HV375_D01_0838_BDME190635027-1a_HMJJ3DSXX_L2_1.fq.gz;HV375 D01 0838 BDME190635027-1a HMJJ3DSXX L2 1.fq.gz; HV376_D02_0839_BDME190635028-1a_HMHMGDSXX_L2_1.fq.gz;HV376 D02 0839 BDME190635028-1a HMHMGDSXX L2 1.fq.gz; HV377_D03_0840_BDME190635029-1a_HTLNHDSXX_L1_1.fq.gz;HV377 D03 0840 BDME190635029-1a HTLNHDSXX L1 1.fq.gz; HV378_D04_0841_BDME190635030-1a_HMGLJDSXX_L3_1.fq.gz;HV378 D04 0841 BDME190635030-1a HMGLJDSXX L3 1.fq.gz; HV379_D05_0842_BDME190635031-1a_HMGLJDSXX_L3_1.fq.gz;HV379 D05 0842 BDME190635031-1a HMGLJDSXX L3 1.fq.gz; HV381_D07_0844_BDME190635032-1a_HTLNHDSXX_L1_1.fq.gz;HV381 D07 0844 BDME190635032-1a HTLNHDSXX L1 1.fq.gz; HV382_D08_0845_BDME190635033-1a_HMGLJDSXX_L3_1.fq.gz;HV382 D08 0845 BDME190635033-1a HMGLJDSXX L3 1.fq.gz; HV383_D09_0846_BDME190635034-1a_HMGLJDSXX_L2_1.fq.gz;HV383 D09 0846 BDME190635034-1a HMGLJDSXX L2 1.fq.gz; HV384_E01_0847_BDME190635035-1a_HMJJ3DSXX_L2_1.fq.gz;HV384 E01 0847 BDME190635035-1a HMJJ3DSXX L2 1.fq.gz; HV385_E02_0848_BDME190635036-1a_HMHMGDSXX_L4_1.fq.gz;HV385 E02 0848 BDME190635036-1a HMHMGDSXX L4 1.fq.gz; HV386_E03_0849_BDME190635037-1a_HTLNHDSXX_L1_1.fq.gz;HV386 E03 0849 BDME190635037-1a HTLNHDSXX L1 1.fq.gz; HV387_E04_0850_BDME190635038-1a_HMHMGDSXX_L2_1.fq.gz;HV387 E04 0850 BDME190635038-1a HMHMGDSXX L2 1.fq.gz; HV388_E05_0851_BDME190635039-1a_HMGLJDSXX_L3_1.fq.gz;HV388 E05 0851 BDME190635039-1a HMGLJDSXX L3 1.fq.gz; HV389_E06_0852_BDME190635040-1a_HMHMGDSXX_L4_1.fq.gz;HV389 E06 0852 BDME190635040-1a HMHMGDSXX L4 1.fq.gz; HV390_E07_0853_BDME190635041-1a_HMJJ3DSXX_L2_1.fq.gz;HV390 E07 0853 BDME190635041-1a HMJJ3DSXX L2 1.fq.gz; HV391_E08_0854_BDME190635042-1a_HMHMGDSXX_L4_1.fq.gz;HV391 E08 0854 BDME190635042-1a HMHMGDSXX L4 1.fq.gz; HV392_E09_0855_BDME190635043-1a_HMJY2DSXX_L3_1.fq.gz;HV392 E09 0855 BDME190635043-1a HMJY2DSXX L3 1.fq.gz; HV393_F01_0856_BDME190635044-1a_HMJY2DSXX_L3_1.fq.gz;HV393 F01 0856 BDME190635044-1a HMJY2DSXX L3 1.fq.gz; HV394_F02_0857_BDME190635045-1a_HMJY2DSXX_L1_1.fq.gz;HV394 F02 0857 BDME190635045-1a HMJY2DSXX L1 1.fq.gz; HV395_F03_0858_BDME190635046-1a_HMHMGDSXX_L2_1.fq.gz;HV395 F03 0858 BDME190635046-1a HMHMGDSXX L2 1.fq.gz; HV396_F04_0859_BDME190635047-1a_HTLNHDSXX_L4_1.fq.gz;HV396 F04 0859 BDME190635047-1a HTLNHDSXX L4 1.fq.gz; HV397_F05_0860_BDME190635048-1a_HMJJ3DSXX_L2_1.fq.gz;HV397 F05 0860 BDME190635048-1a HMJJ3DSXX L2 1.fq.gz; HV398_F06_0861_BDME190635049-1a_HMGLJDSXX_L3_1.fq.gz;HV398 F06 0861 BDME190635049-1a HMGLJDSXX L3 1.fq.gz; HV399_F07_0862_BDME190635050-1a_HTLHGDSXX_L3_1.fq.gz;HV399 F07 0862 BDME190635050-1a HTLHGDSXX L3 1.fq.gz; HV400_F08_0863_BDME190635051-1a_HTLHGDSXX_L3_1.fq.gz;HV400 F08 0863 BDME190635051-1a HTLHGDSXX L3 1.fq.gz; HV401_F09_0864_BDME190635052-1a_HMHMGDSXX_L2_1.fq.gz;HV401 F09 0864 BDME190635052-1a HMHMGDSXX L2 1.fq.gz; HV403_G02_0866_BDME190635053-1a_HMGLJDSXX_L3_1.fq.gz;HV403 G02 0866 BDME190635053-1a HMGLJDSXX L3 1.fq.gz; HV404_G03_0867_BDME190635054-1a_HMHMGDSXX_L4_1.fq.gz;HV404 G03 0867 BDME190635054-1a HMHMGDSXX L4 1.fq.gz; HV405_G04_0868_BDME190635055-1a_HMJY2DSXX_L3_1.fq.gz;HV405 G04 0868 BDME190635055-1a HMJY2DSXX L3 1.fq.gz; HV406_G05_0869_BDME190635056-1a_HMGLJDSXX_L2_1.fq.gz;HV406 G05 0869 BDME190635056-1a HMGLJDSXX L2 1.fq.gz; HV407_G06_0870_BDME190635057-1a_HMHMGDSXX_L2_1.fq.gz;HV407 G06 0870 BDME190635057-1a HMHMGDSXX L2 1.fq.gz; HV408_G07_0871_BDME190635058-1a_HMGLJDSXX_L2_1.fq.gz;HV408 G07 0871 BDME190635058-1a HMGLJDSXX L2 1.fq.gz; HV409_G08_0872_BDME190635059-1a_HMGLJDSXX_L2_1.fq.gz;HV409 G08 0872 BDME190635059-1a HMGLJDSXX L2 1.fq.gz; HV410_G09_0873_BDME190635060-1a_HTLNHDSXX_L1_1.fq.gz;HV410 G09 0873 BDME190635060-1a HTLNHDSXX L1 1.fq.gz; HV411_H01_0874_BDME190635061-1a_HMHMGDSXX_L4_1.fq.gz;HV411 H01 0874 BDME190635061-1a HMHMGDSXX L4 1.fq.gz; HV412_H02_0875_BDME190635062-1a_HTLNHDSXX_L1_1.fq.gz;HV412 H02 0875 BDME190635062-1a HTLNHDSXX L1 1.fq.gz; HV413_H03_0876_BDME190635063-1a_HMHMGDSXX_L4_1.fq.gz;HV413 H03 0876 BDME190635063-1a HMHMGDSXX L4 1.fq.gz; HV414_H04_0877_BDME190635064-1a_HMJJ3DSXX_L3_1.fq.gz;HV414 H04 0877 BDME190635064-1a HMJJ3DSXX L3 1.fq.gz; HV415_H05_0878_BDME190635065-1a_HMHMGDSXX_L4_1.fq.gz;HV415 H05 0878 BDME190635065-1a HMHMGDSXX L4 1.fq.gz; HV416_H06_0879_BDME190635066-1a_HTLNHDSXX_L1_1.fq.gz;HV416 H06 0879 BDME190635066-1a HTLNHDSXX L1 1.fq.gz; HV417_H07_0880_BDME190635067-1a_HMHMGDSXX_L3_1.fq.gz;HV417 H07 0880 BDME190635067-1a HMHMGDSXX L3 1.fq.gz; HV418_H08_0881_BDME190635068-1a_HTLHGDSXX_L1_1.fq.gz;HV418 H08 0881 BDME190635068-1a HTLHGDSXX L1 1.fq.gz; HV419_H09_0882_BDME190635069-1a_HTLNHDSXX_L1_1.fq.gz;HV419 H09 0882 BDME190635069-1a HTLNHDSXX L1 1.fq.gz; HV420_I01_0883_BDME190635070-1a_HTLHGDSXX_L2_1.fq.gz;HV420 I01 0883 BDME190635070-1a HTLHGDSXX L2 1.fq.gz; HV421_I02_0884_BDME190635071-1a_HMJY2DSXX_L3_1.fq.gz;HV421 I02 0884 BDME190635071-1a HMJY2DSXX L3 1.fq.gz; HV422_I03_0885_BDME190635072-1a_HMGLJDSXX_L3_1.fq.gz;HV422 I03 0885 BDME190635072-1a HMGLJDSXX L3 1.fq.gz; HV423_I04_0886_BDME190635073-1a_HMHMGDSXX_L2_1.fq.gz;HV423 I04 0886 BDME190635073-1a HMHMGDSXX L2 1.fq.gz; HV424_I05_0887_BDME190635074-1a_HMJJ3DSXX_L3_1.fq.gz;HV424 I05 0887 BDME190635074-1a HMJJ3DSXX L3 1.fq.gz; HV425_I06_0888_BDME190635075-1a_HMGLJDSXX_L2_1.fq.gz;HV425 I06 0888 BDME190635075-1a HMGLJDSXX L2 1.fq.gz; HV426_I07_0889_BDME190635076-1a_HMJY2DSXX_L3_1.fq.gz;HV426 I07 0889 BDME190635076-1a HMJY2DSXX L3 1.fq.gz; HV427_I08_0890_BDME190635077-2a_HTLNHDSXX_L2_1.fq.gz;HV427 I08 0890 BDME190635077-2a HTLNHDSXX L2 1.fq.gz; HV428_I09_0891_BDME190635078-1a_HMHMGDSXX_L2_1.fq.gz;HV428 I09 0891 BDME190635078-1a HMHMGDSXX L2 1.fq.gz; HV429_A01_0892_BDME190635079-1a_HMHMGDSXX_L2_1.fq.gz;HV429 A01 0892 BDME190635079-1a HMHMGDSXX L2 1.fq.gz; HV430_A02_0893_BDME190635080-1a_HMJYCDSXX_L3_1.fq.gz;HV430 A02 0893 BDME190635080-1a HMJYCDSXX L3 1.fq.gz; HV431_A03_0894_BDME190635081-1a_HMJLWDSXX_L1_1.fq.gz;HV431 A03 0894 BDME190635081-1a HMJLWDSXX L1 1.fq.gz; HV432_A04_0895_BDME190635082-1a_HMGLJDSXX_L2_1.fq.gz;HV432 A04 0895 BDME190635082-1a HMGLJDSXX L2 1.fq.gz; HV433_A05_0896_BDME190635083-1a_HMGLJDSXX_L3_1.fq.gz;HV433 A05 0896 BDME190635083-1a HMGLJDSXX L3 1.fq.gz; HV434_A06_0897_BDME190635084-1a_HMGLJDSXX_L2_1.fq.gz;HV434 A06 0897 BDME190635084-1a HMGLJDSXX L2 1.fq.gz; HV435_A07_0898_BDME190635085-1a_HMHMGDSXX_L3_1.fq.gz;HV435 A07 0898 BDME190635085-1a HMHMGDSXX L3 1.fq.gz; HV436_A08_0899_BDME190635086-1a_HMGLJDSXX_L2_1.fq.gz;HV436 A08 0899 BDME190635086-1a HMGLJDSXX L2 1.fq.gz; HV437_A09_0900_BDME190635087-1a_HTLNHDSXX_L1_1.fq.gz;HV437 A09 0900 BDME190635087-1a HTLNHDSXX L1 1.fq.gz; HV438_B01_0901_BDME190635088-1a_HTLNHDSXX_L1_1.fq.gz;HV438 B01 0901 BDME190635088-1a HTLNHDSXX L1 1.fq.gz; HV439_B02_0902_BDME190635089-1a_HMHMGDSXX_L2_1.fq.gz;HV439 B02 0902 BDME190635089-1a HMHMGDSXX L2 1.fq.gz; HV440_B03_0903_BDME190635090-1a_HMHMGDSXX_L2_1.fq.gz;HV440 B03 0903 BDME190635090-1a HMHMGDSXX L2 1.fq.gz; HV441_B04_0904_BDME190635091-1a_HMHMGDSXX_L2_1.fq.gz;HV441 B04 0904 BDME190635091-1a HMHMGDSXX L2 1.fq.gz; HV442_B05_0905_BDME190635092-1a_HMJY2DSXX_L1_1.fq.gz;HV442 B05 0905 BDME190635092-1a HMJY2DSXX L1 1.fq.gz; HV443_B06_0906_BDME190635093-1a_HMHMGDSXX_L3_1.fq.gz;HV443 B06 0906 BDME190635093-1a HMHMGDSXX L3 1.fq.gz; HV445_B08_0908_BDME190635094-1a_HMJJ3DSXX_L3_1.fq.gz;HV445 B08 0908 BDME190635094-1a HMJJ3DSXX L3 1.fq.gz; HV446_B09_0909_BDME190635095-1a_HMJY2DSXX_L1_1.fq.gz;HV446 B09 0909 BDME190635095-1a HMJY2DSXX L1 1.fq.gz; HV447_C01_0910_BDME190635096-1a_HMHMGDSXX_L2_1.fq.gz;HV447 C01 0910 BDME190635096-1a HMHMGDSXX L2 1.fq.gz; HV448_C02_0911_BDME190635097-1a_HMJLWDSXX_L4_1.fq.gz;HV448 C02 0911 BDME190635097-1a HMJLWDSXX L4 1.fq.gz; HV449_C03_0912_BDME190635098-1a_HMJFJDSXX_L3_1.fq.gz;HV449 C03 0912 BDME190635098-1a HMJFJDSXX L3 1.fq.gz; HV450_C04_0913_BDME190635099-1a_HMGLJDSXX_L3_1.fq.gz;HV450 C04 0913 BDME190635099-1a HMGLJDSXX L3 1.fq.gz; HV451_C05_0914_BDME190635100-1a_HTLHGDSXX_L1_1.fq.gz;HV451 C05 0914 BDME190635100-1a HTLHGDSXX L1 1.fq.gz; HV452_C06_0915_BDME190635101-1a_HMHMGDSXX_L3_1.fq.gz;HV452 C06 0915 BDME190635101-1a HMHMGDSXX L3 1.fq.gz; HV453_C07_0916_BDME190635102-1a_HMGLJDSXX_L3_1.fq.gz;HV453 C07 0916 BDME190635102-1a HMGLJDSXX L3 1.fq.gz; HV454_C08_0917_BDME190635103-1a_HMJY2DSXX_L1_1.fq.gz;HV454 C08 0917 BDME190635103-1a HMJY2DSXX L1 1.fq.gz; HV455_C09_0918_BDME190635104-1a_HTLNHDSXX_L1_1.fq.gz;HV455 C09 0918 BDME190635104-1a HTLNHDSXX L1 1.fq.gz; HV456_D01_0919_BDME190635105-1a_HMHMGDSXX_L2_1.fq.gz;HV456 D01 0919 BDME190635105-1a HMHMGDSXX L2 1.fq.gz; HV457_D02_0920_BDME190635106-1a_HMGLJDSXX_L3_1.fq.gz;HV457 D02 0920 BDME190635106-1a HMGLJDSXX L3 1.fq.gz; HV458_D03_0921_BDME190635107-1a_HMJY2DSXX_L3_1.fq.gz;HV458 D03 0921 BDME190635107-1a HMJY2DSXX L3 1.fq.gz; HV459_D04_0922_BDME190635108-1a_HMHMGDSXX_L2_1.fq.gz;HV459 D04 0922 BDME190635108-1a HMHMGDSXX L2 1.fq.gz; HV460_D05_0923_BDME190635109-1a_HMHMGDSXX_L3_1.fq.gz;HV460 D05 0923 BDME190635109-1a HMHMGDSXX L3 1.fq.gz; HV461_D06_0924_BDME190635110-1a_HMJY2DSXX_L3_1.fq.gz;HV461 D06 0924 BDME190635110-1a HMJY2DSXX L3 1.fq.gz; HV462_D07_0925_BDME190635111-1a_HMHMGDSXX_L3_1.fq.gz;HV462 D07 0925 BDME190635111-1a HMHMGDSXX L3 1.fq.gz; HV463_D08_0926_BDME190635112-1a_HTLNHDSXX_L1_1.fq.gz;HV463 D08 0926 BDME190635112-1a HTLNHDSXX L1 1.fq.gz; HV464_D09_0927_BDME190635113-1a_HTMC3DSXX_L3_1.fq.gz;HV464 D09 0927 BDME190635113-1a HTMC3DSXX L3 1.fq.gz; HV465_E01_0928_BDME190635114-1a_HTLNHDSXX_L1_1.fq.gz;HV465 E01 0928 BDME190635114-1a HTLNHDSXX L1 1.fq.gz; HV466_E02_0929_BDME190635115-1a_HMGLJDSXX_L2_1.fq.gz;HV466 E02 0929 BDME190635115-1a HMGLJDSXX L2 1.fq.gz; HV467_E03_0930_BDME190635116-1a_HMHMGDSXX_L2_1.fq.gz;HV467 E03 0930 BDME190635116-1a HMHMGDSXX L2 1.fq.gz; HV468_E04_0931_BDME190635117-1a_HMGLJDSXX_L3_1.fq.gz;HV468 E04 0931 BDME190635117-1a HMGLJDSXX L3 1.fq.gz; HV469_E05_0932_BDME190635118-1a_HMJY2DSXX_L3_1.fq.gz;HV469 E05 0932 BDME190635118-1a HMJY2DSXX L3 1.fq.gz; HV470_E06_0933_BDME190635119-1a_HTLNHDSXX_L1_1.fq.gz;HV470 E06 0933 BDME190635119-1a HTLNHDSXX L1 1.fq.gz; HV471_E07_0934_BDME190635120-1a_HMGLJDSXX_L2_1.fq.gz;HV471 E07 0934 BDME190635120-1a HMGLJDSXX L2 1.fq.gz; HV472_E08_0935_BDME190635121-1a_HMJY2DSXX_L3_1.fq.gz;HV472 E08 0935 BDME190635121-1a HMJY2DSXX L3 1.fq.gz; HV473_E09_0936_BDME190635122-1a_HMJJ3DSXX_L1_1.fq.gz;HV473 E09 0936 BDME190635122-1a HMJJ3DSXX L1 1.fq.gz; HV474_F01_0937_BDME190635123-1a_HMGLJDSXX_L2_1.fq.gz;HV474 F01 0937 BDME190635123-1a HMGLJDSXX L2 1.fq.gz; HV475_F02_0938_BDME190635124-1a_HMJYCDSXX_L1_1.fq.gz;HV475 F02 0938 BDME190635124-1a HMJYCDSXX L1 1.fq.gz; HV476_F03_0939_BDME190635125-1a_HTLNHDSXX_L1_1.fq.gz;HV476 F03 0939 BDME190635125-1a HTLNHDSXX L1 1.fq.gz; HV477_F04_0940_BDME190635126-1a_HMGLJDSXX_L2_1.fq.gz;HV477 F04 0940 BDME190635126-1a HMGLJDSXX L2 1.fq.gz; HV478_F05_0941_BDME190635127-1a_HMJY2DSXX_L1_1.fq.gz;HV478 F05 0941 BDME190635127-1a HMJY2DSXX L1 1.fq.gz; HV479_F06_0942_BDME190635128-1a_HMJY2DSXX_L3_1.fq.gz;HV479 F06 0942 BDME190635128-1a HMJY2DSXX L3 1.fq.gz; HV480_F07_0943_BDME190635129-1a_HMHMGDSXX_L3_1.fq.gz;HV480 F07 0943 BDME190635129-1a HMHMGDSXX L3 1.fq.gz; HV481_F08_0944_BDME190635130-1a_HMHMGDSXX_L2_1.fq.gz;HV481 F08 0944 BDME190635130-1a HMHMGDSXX L2 1.fq.gz; HV482_F09_0945_BDME190635131-1a_HMGLJDSXX_L2_1.fq.gz;HV482 F09 0945 BDME190635131-1a HMGLJDSXX L2 1.fq.gz; HV483_G01_0946_BDME190635132-1a_HMHMGDSXX_L3_1.fq.gz;HV483 G01 0946 BDME190635132-1a HMHMGDSXX L3 1.fq.gz; HV484_G02_0947_BDME190635133-1a_HTLHGDSXX_L1_1.fq.gz;HV484 G02 0947 BDME190635133-1a HTLHGDSXX L1 1.fq.gz; HV485_G03_0948_BDME190635134-1a_HMJY2DSXX_L3_1.fq.gz;HV485 G03 0948 BDME190635134-1a HMJY2DSXX L3 1.fq.gz; HV486_G04_0949_BDME190635135-1a_HMHMGDSXX_L2_1.fq.gz;HV486 G04 0949 BDME190635135-1a HMHMGDSXX L2 1.fq.gz; HV487_G05_0950_BDME190635136-1a_HMHMGDSXX_L2_1.fq.gz;HV487 G05 0950 BDME190635136-1a HMHMGDSXX L2 1.fq.gz; HV488_G06_0951_BDME190635137-1a_HMJY2DSXX_L1_1.fq.gz;HV488 G06 0951 BDME190635137-1a HMJY2DSXX L1 1.fq.gz; HV489_G07_0952_BDME190635138-1a_HMHMGDSXX_L2_1.fq.gz;HV489 G07 0952 BDME190635138-1a HMHMGDSXX L2 1.fq.gz; HV490_G08_0953_BDME190635139-1a_HMJYCDSXX_L1_1.fq.gz;HV490 G08 0953 BDME190635139-1a HMJYCDSXX L1 1.fq.gz; HV491_G09_0954_BDME190635140-1a_HMGLJDSXX_L2_1.fq.gz;HV491 G09 0954 BDME190635140-1a HMGLJDSXX L2 1.fq.gz; HV492_H01_0955_BDME190635141-1a_HTMC3DSXX_L3_1.fq.gz;HV492 H01 0955 BDME190635141-1a HTMC3DSXX L3 1.fq.gz; HV493_H02_0956_BDME190635142-1a_HTLHGDSXX_L2_1.fq.gz;HV493 H02 0956 BDME190635142-1a HTLHGDSXX L2 1.fq.gz; HV494_H03_0957_BDME190635143-1a_HMGLJDSXX_L2_1.fq.gz;HV494 H03 0957 BDME190635143-1a HMGLJDSXX L2 1.fq.gz; HV495_H04_0958_BDME190635144-1a_HMHMGDSXX_L2_1.fq.gz;HV495 H04 0958 BDME190635144-1a HMHMGDSXX L2 1.fq.gz; HV496_H05_0959_BDME190635145-1a_HMHMGDSXX_L2_1.fq.gz;HV496 H05 0959 BDME190635145-1a HMHMGDSXX L2 1.fq.gz; HV498_H07_0961_BDME190635147-1a_HMHMLDSXX_L1_1.fq.gz;HV498 H07 0961 BDME190635147-1a HMHMLDSXX L1 1.fq.gz; HV499_H08_0962_BDME190635148-1a_HMK73DSXX_L4_1.fq.gz;HV499 H08 0962 BDME190635148-1a HMK73DSXX L4 1.fq.gz; HV500_H09_0963_BDME190635149-1a_HMJJ3DSXX_L2_1.fq.gz;HV500 H09 0963 BDME190635149-1a HMJJ3DSXX L2 1.fq.gz; HV501_I01_0964_BDME190635150-1a_HTLYJDSXX_L4_1.fq.gz;HV501 I01 0964 BDME190635150-1a HTLYJDSXX L4 1.fq.gz; HV502_I02_0965_BDME190635151-1a_HMJJ3DSXX_L2_1.fq.gz;HV502 I02 0965 BDME190635151-1a HMJJ3DSXX L2 1.fq.gz; HV503_I03_0966_BDME190635152-1a_HMJFJDSXX_L2_1.fq.gz;HV503 I03 0966 BDME190635152-1a HMJFJDSXX L2 1.fq.gz; HV504_I04_0967_BDME190635153-1a_HTLNHDSXX_L1_1.fq.gz;HV504 I04 0967 BDME190635153-1a HTLNHDSXX L1 1.fq.gz; HV505_I05_0968_BDME190635154-1a_HMHMLDSXX_L1_1.fq.gz;HV505 I05 0968 BDME190635154-1a HMHMLDSXX L1 1.fq.gz; HV506_I06_0969_BDME190635155-1a_HMGLJDSXX_L3_1.fq.gz;HV506 I06 0969 BDME190635155-1a HMGLJDSXX L3 1.fq.gz; HV507_I07_0970_BDME190635156-1a_HTMC3DSXX_L3_1.fq.gz;HV507 I07 0970 BDME190635156-1a HTMC3DSXX L3 1.fq.gz; HV508_I08_0971_BDME190635157-1a_HMJLWDSXX_L2_1.fq.gz;HV508 I08 0971 BDME190635157-1a HMJLWDSXX L2 1.fq.gz; HV509_I09_0972_BDME190635158-1a_HMF2TDSXX_L4_1.fq.gz;HV509 I09 0972 BDME190635158-1a HMF2TDSXX L4 1.fq.gz; HV510_A01_0973_BDME190635159-1a_HMK73DSXX_L4_1.fq.gz;HV510 A01 0973 BDME190635159-1a HMK73DSXX L4 1.fq.gz; HV511_A02_0974_BDME190635160-1a_HMK73DSXX_L3_1.fq.gz;HV511 A02 0974 BDME190635160-1a HMK73DSXX L3 1.fq.gz; HV512_A03_0975_BDME190635161-1a_HMGLJDSXX_L2_1.fq.gz;HV512 A03 0975 BDME190635161-1a HMGLJDSXX L2 1.fq.gz; HV513_A04_0976_BDME190635162-1a_HMGLJDSXX_L1_1.fq.gz;HV513 A04 0976 BDME190635162-1a HMGLJDSXX L1 1.fq.gz; HV514_A05_0977_BDME190635163-1a_HTMC3DSXX_L3_1.fq.gz;HV514 A05 0977 BDME190635163-1a HTMC3DSXX L3 1.fq.gz; HV515_A06_0978_BDME190635164-1a_HMHMLDSXX_L3_1.fq.gz;HV515 A06 0978 BDME190635164-1a HMHMLDSXX L3 1.fq.gz; HV517_A08_0980_BDME190635165-1a_HTLNHDSXX_L1_1.fq.gz;HV517 A08 0980 BDME190635165-1a HTLNHDSXX L1 1.fq.gz; HV518_A09_0981_BDME190635166-1a_HTLYJDSXX_L2_1.fq.gz;HV518 A09 0981 BDME190635166-1a HTLYJDSXX L2 1.fq.gz; HV519_B01_0982_BDME190635167-1a_HTMC3DSXX_L3_1.fq.gz;HV519 B01 0982 BDME190635167-1a HTMC3DSXX L3 1.fq.gz; HV520_B02_0983_BDME190635168-1a_HTLNHDSXX_L1_1.fq.gz;HV520 B02 0983 BDME190635168-1a HTLNHDSXX L1 1.fq.gz; HV521_B03_0984_BDME190635169-1a_HTMC3DSXX_L3_1.fq.gz;HV521 B03 0984 BDME190635169-1a HTMC3DSXX L3 1.fq.gz; HV522_B04_0985_BDME190635170-1a_HMK73DSXX_L4_1.fq.gz;HV522 B04 0985 BDME190635170-1a HMK73DSXX L4 1.fq.gz; HV523_B05_0986_BDME190635171-1a_HMJY2DSXX_L1_1.fq.gz;HV523 B05 0986 BDME190635171-1a HMJY2DSXX L1 1.fq.gz; HV524_B06_0987_BDME190635172-1a_HMGLJDSXX_L2_1.fq.gz;HV524 B06 0987 BDME190635172-1a HMGLJDSXX L2 1.fq.gz; HV525_B07_0988_BDME190635173-1a_HMHM7DSXX_L1_1.fq.gz;HV525 B07 0988 BDME190635173-1a HMHM7DSXX L1 1.fq.gz; HV526_B08_0989_BDME190635174-1a_HTMC3DSXX_L3_1.fq.gz;HV526 B08 0989 BDME190635174-1a HTMC3DSXX L3 1.fq.gz; HV527_B09_0990_BDME190635175-1a_HMK73DSXX_L4_1.fq.gz;HV527 B09 0990 BDME190635175-1a HMK73DSXX L4 1.fq.gz; HV528_C01_0991_BDME190635176-1a_HMJY2DSXX_L1_1.fq.gz;HV528 C01 0991 BDME190635176-1a HMJY2DSXX L1 1.fq.gz; HV529_C02_0992_BDME190635177-1a_HTLNHDSXX_L1_1.fq.gz;HV529 C02 0992 BDME190635177-1a HTLNHDSXX L1 1.fq.gz; HV530_C03_0993_BDME190635178-1a_HTMC3DSXX_L3_1.fq.gz;HV530 C03 0993 BDME190635178-1a HTMC3DSXX L3 1.fq.gz; HV531_C04_0994_BDME190635179-1a_HMHMLDSXX_L1_1.fq.gz;HV531 C04 0994 BDME190635179-1a HMHMLDSXX L1 1.fq.gz; HV532_C05_0995_BDME190635180-1a_HMHMLDSXX_L1_1.fq.gz;HV532 C05 0995 BDME190635180-1a HMHMLDSXX L1 1.fq.gz; HV533_C06_0996_BDME190635181-1a_HMF2TDSXX_L4_1.fq.gz;HV533 C06 0996 BDME190635181-1a HMF2TDSXX L4 1.fq.gz; HV534_C07_0997_BDME190635182-1a_HMJLWDSXX_L2_1.fq.gz;HV534 C07 0997 BDME190635182-1a HMJLWDSXX L2 1.fq.gz	DIVERSE	METAGENOMIC:517	1	False	0	UNIFORM	All 517 labels are sample identifiers (HV001-HV534 with sequencing metadata) from human subjects in a single human microbiome study, not distinct host species or animals.
+PRJNA943611	1	1	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA944265	11	11	1.0	1	Mouse	UNIFORM	METAGENOMIC:11	1	False	0	UNIFORM	
+PRJNA944612	720	691	0.96	1	Sus scrofa domesticus	UNIFORM	METAGENOMIC:720	1	False	0	UNIFORM	
+PRJNA945347	36	36	1.0	1	Ctenopharyngodon idella	UNIFORM	METAGENOMIC:36	1	False	0	UNIFORM	
+PRJNA945365	15	15	1.0	1	Micropterus salmoides	UNIFORM	METAGENOMIC:15	1	False	0	UNIFORM	
+PRJNA946383	80	80	1.0	1	Gallus gallus	UNIFORM	METAGENOMIC:80	1	False	0	UNIFORM	
+PRJNA946412	20	20	1.0	1	Felis catus	UNIFORM	METAGENOMIC:20	1	False	0	UNIFORM	
+PRJNA947193	44	44	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:44	1	False	0	UNIFORM	
+PRJNA947387	27	27	1.0	1	C57BL/6J	UNIFORM	METAGENOMIC:27	1	False	0	UNIFORM	
+PRJNA947914	79	79	1.0	1	Salmo salar	UNIFORM	METAGENOMIC:79	1	False	0	UNIFORM	
+PRJNA947933	44	44	1.0	1	Gallus gallus domesticus	UNIFORM	METAGENOMIC:44	1	False	0	UNIFORM	
+PRJNA948893	6	6	1.0	1	Acrossocheilus fasciatus	UNIFORM	METAGENOMIC:6	1	False	0	UNIFORM	
+PRJNA949809	1	1	1.0	1	Coilia nasus	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA951204	1	1	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA951897	15	0	0.0	0		NO_HOST_DATA	METAGENOMIC:15	1	False	0	NO_HOST_DATA	
+PRJNA952227	28	28	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:28	1	False	0	UNIFORM	
+PRJNA953147	20	20	1.0	2	Acutalibacter muris; Helicobacter typhlonius	DIVERSE	METAGENOMIC:20	1	False	0	DIVERSE	These are two distinct bacterial species, not variants of the same organism.
+PRJNA953833	369	0	0.0	0		NO_HOST_DATA	METAGENOMIC:210; TRANSCRIPTOMIC:80; METATRANSCRIPTOMIC:79	3	False	0	NO_HOST_DATA	
+PRJNA956273	12	12	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:12	1	False	0	UNIFORM	
+PRJNA956982	19	19	1.0	1	Bos taurus	UNIFORM	METAGENOMIC:19	1	False	0	UNIFORM	
+PRJNA961946	29	29	1.0	1	child	UNIFORM	METAGENOMIC:29	1	False	0	UNIFORM	
+PRJNA966790	105	105	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:105	1	False	0	UNIFORM	
+PRJNA972320	320	320	1.0	2	Capra hircus; Ovis aries	DIVERSE	METAGENOMIC:320	1	False	0	DIVERSE	Goat and sheep are two distinct species, not variants of the same animal.
+PRJNA974094	18	18	1.0	1	Danio rerio	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA974554	72	72	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:72	1	False	0	UNIFORM	
+PRJNA974556	52	52	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJNA977416	21	21	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:21	1	False	0	UNIFORM	
+PRJNA981100	48	48	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:48	1	False	0	UNIFORM	
+PRJNA982563	232	232	1.0	3	Dust; Homo sapiens; Sus scrofa	DIVERSE	METAGENOMIC:232	1	False	0	DIVERSE	Three genuinely different entities: an environmental sample, a human, and a pig species.
+PRJNA983076	67	67	1.0	46	Acinonyx jubatus; Ailurus fulgens; Aldabrachelys gigantea; Aotus trivirgatus; Astrochelys radiata; Balearica regulorum gibbericeps; Bos grunniens domesticus; Bubo scandiacus; Camelus bactrianus; Canis lupus familiaris; Capra aegagrus hircus; Casuarius casuarius; Chaetophractus villosus; Chelonoides carbonaria; Cyclura cornuta; Dromaius novaehollandiae; Equus caballus; Equus quagga chapmani; Eulemur albifrons; Eulemur macaco; Eulemur rubriventer; Galidia elegans; Gallus gallus; Giraffa camelopardalis; Gorilla gorilla; Lama guanicoe; Lemur catta; Leptailurus serval; Macaca fascicularis; Macropus giganteus; Mandrillus sphinx; Microcebus murinus; Nestor notabilis; Notamacropus rufogriseus; Orycteropus afer; Ovis aries; Panthera onca; Phaecochoerus aethipicus; Rhea americana; Rousettus aegyptiacus; Saimiri boliviensis; Spheniscus humboldti; Suricata suricatta; Tapirus terrestris; Tragelaphus oryx; Varecia variegata	DIVERSE	METAGENOMIC:67	1	False	0	DIVERSE	46 distinct animal species from a zoo/wildlife study with no general-vs-specific or name-variant conflicts.
+PRJNA983093	194	194	1.0	1	Homo sapiens	UNIFORM	METAGENOMIC:194	1	False	0	UNIFORM	
+PRJNA983744	18	18	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:18	1	False	0	UNIFORM	
+PRJNA984595	92	84	0.913	1	Sus scrofa	UNIFORM	METAGENOMIC:92	1	False	0	UNIFORM	
+PRJNA986525	17	17	1.0	1	Mus musculus	UNIFORM	METAGENOMIC:17	1	False	0	UNIFORM	
+PRJNA987703	1	1	1.0	1	Bathycoelia distincta	UNIFORM	METAGENOMIC:1	1	False	0	UNIFORM	
+PRJNA987743	104	104	1.0	1	Bos indicus	UNIFORM	METAGENOMIC:104	1	False	0	UNIFORM	
+PRJNA988023	90	90	1.0	1	Meleagris gallopavo	UNIFORM	METAGENOMIC:90	1	False	0	UNIFORM	
+PRJNA988937	35	23	0.657	2	Gallus gallus; fish	DIVERSE_AND_SPARSE	METAGENOMIC:35	1	False	0	DIVERSE_AND_SPARSE	Gallus gallus (chicken) and fish are distinct animal taxa with no containment relationship.
+PRJNA990717	12	0	0.0	0		NO_HOST_DATA	METAGENOMIC:12	1	False	0	NO_HOST_DATA	
+PRJNA991262	11	0	0.0	0		NO_HOST_DATA	METAGENOMIC:11	1	False	0	NO_HOST_DATA	
+PRJNA991276	8	8	1.0	1	Sus scrofa	UNIFORM	METAGENOMIC:8	1	False	0	UNIFORM	
+PRJNA991623	24	0	0.0	0		NO_HOST_DATA	METAGENOMIC:24	1	False	0	NO_HOST_DATA	
+PRJNA995784	52	52	1.0	1	Mus musculus musculus	UNIFORM	METAGENOMIC:52	1	False	0	UNIFORM	
+PRJNA996880	419	419	1.0	417	mouse_100;mouse 100; mouse_101;mouse 101; mouse_102;mouse 102; mouse_103;mouse 103; mouse_104;mouse 104; mouse_105;mouse 105; mouse_106;mouse 106; mouse_107;mouse 107; mouse_108;mouse 108; mouse_109;mouse 109; mouse_10;mouse 10; mouse_110;mouse 110; mouse_111;mouse 111; mouse_112;mouse 112; mouse_113;mouse 113; mouse_114;mouse 114; mouse_115;mouse 115; mouse_116;mouse 116; mouse_117;mouse 117; mouse_118;mouse 118; mouse_119;mouse 119; mouse_11;mouse 11; mouse_120;mouse 120; mouse_121;mouse 121; mouse_122;mouse 122; mouse_123;mouse 123; mouse_124;mouse 124; mouse_125;mouse 125; mouse_126;mouse 126; mouse_127;mouse 127; mouse_128;mouse 128; mouse_129;mouse 129; mouse_12;mouse 12; mouse_130;mouse 130; mouse_131;mouse 131; mouse_132;mouse 132; mouse_133;mouse 133; mouse_134;mouse 134; mouse_135;mouse 135; mouse_136;mouse 136; mouse_137;mouse 137; mouse_138;mouse 138; mouse_139;mouse 139; mouse_13;mouse 13; mouse_140;mouse 140; mouse_141;mouse 141; mouse_142;mouse 142; mouse_143;mouse 143; mouse_144;mouse 144; mouse_145;mouse 145; mouse_146;mouse 146; mouse_147;mouse 147; mouse_148;mouse 148; mouse_149;mouse 149; mouse_14;mouse 14; mouse_150;mouse 150; mouse_151;mouse 151; mouse_152;mouse 152; mouse_153;mouse 153; mouse_154;mouse 154; mouse_155;mouse 155; mouse_156;mouse 156; mouse_157;mouse 157; mouse_158;mouse 158; mouse_159;mouse 159; mouse_15;mouse 15; mouse_160;mouse 160; mouse_161;mouse 161; mouse_162;mouse 162; mouse_163;mouse 163; mouse_164;mouse 164; mouse_165;mouse 165; mouse_166;mouse 166; mouse_167;mouse 167; mouse_168;mouse 168; mouse_169;mouse 169; mouse_16;mouse 16; mouse_170;mouse 170; mouse_171;mouse 171; mouse_172;mouse 172; mouse_173;mouse 173; mouse_174;mouse 174; mouse_175;mouse 175; mouse_176;mouse 176; mouse_177;mouse 177; mouse_178;mouse 178; mouse_179;mouse 179; mouse_17;mouse 17; mouse_180;mouse 180; mouse_181;mouse 181; mouse_182;mouse 182; mouse_183;mouse 183; mouse_184;mouse 184; mouse_185;mouse 185; mouse_186;mouse 186; mouse_187;mouse 187; mouse_188;mouse 188; mouse_189;mouse 189; mouse_18;mouse 18; mouse_190;mouse 190; mouse_191;mouse 191; mouse_192;mouse 192; mouse_193;mouse 193; mouse_194;mouse 194; mouse_195;mouse 195; mouse_196;mouse 196; mouse_197;mouse 197; mouse_198;mouse 198; mouse_199;mouse 199; mouse_19;mouse 19; mouse_1;mouse 1; mouse_200;mouse 200; mouse_201;mouse 201; mouse_202;mouse 202; mouse_203;mouse 203; mouse_204;mouse 204; mouse_205;mouse 205; mouse_206;mouse 206; mouse_207;mouse 207; mouse_208;mouse 208; mouse_209;mouse 209; mouse_20;mouse 20; mouse_210;mouse 210; mouse_211;mouse 211; mouse_212;mouse 212; mouse_213;mouse 213; mouse_214;mouse 214; mouse_215;mouse 215; mouse_216;mouse 216; mouse_217;mouse 217; mouse_218;mouse 218; mouse_219;mouse 219; mouse_21;mouse 21; mouse_220;mouse 220; mouse_221;mouse 221; mouse_222;mouse 222; mouse_223;mouse 223; mouse_224;mouse 224; mouse_225;mouse 225; mouse_226;mouse 226; mouse_227;mouse 227; mouse_228;mouse 228; mouse_229;mouse 229; mouse_22;mouse 22; mouse_230;mouse 230; mouse_231;mouse 231; mouse_232;mouse 232; mouse_233;mouse 233; mouse_234;mouse 234; mouse_235;mouse 235; mouse_236;mouse 236; mouse_237;mouse 237; mouse_238;mouse 238; mouse_239;mouse 239; mouse_23;mouse 23; mouse_240;mouse 240; mouse_241;mouse 241; mouse_242;mouse 242; mouse_243;mouse 243; mouse_244;mouse 244; mouse_245;mouse 245; mouse_246;mouse 246; mouse_247;mouse 247; mouse_248;mouse 248; mouse_249;mouse 249; mouse_24;mouse 24; mouse_250;mouse 250; mouse_251;mouse 251; mouse_252;mouse 252; mouse_253;mouse 253; mouse_254;mouse 254; mouse_255;mouse 255; mouse_256;mouse 256; mouse_257;mouse 257; mouse_258;mouse 258; mouse_259;mouse 259; mouse_25;mouse 25; mouse_260;mouse 260; mouse_261;mouse 261; mouse_262;mouse 262; mouse_263;mouse 263; mouse_264;mouse 264; mouse_265;mouse 265; mouse_266;mouse 266; mouse_267;mouse 267; mouse_268;mouse 268; mouse_269;mouse 269; mouse_26;mouse 26; mouse_270;mouse 270; mouse_271;mouse 271; mouse_272;mouse 272; mouse_273;mouse 273; mouse_274;mouse 274; mouse_275;mouse 275; mouse_276;mouse 276; mouse_277;mouse 277; mouse_278;mouse 278; mouse_279;mouse 279; mouse_27;mouse 27; mouse_280;mouse 280; mouse_281;mouse 281; mouse_282;mouse 282; mouse_283;mouse 283; mouse_284;mouse 284; mouse_285;mouse 285; mouse_286;mouse 286; mouse_287;mouse 287; mouse_288;mouse 288; mouse_289;mouse 289; mouse_28;mouse 28; mouse_290;mouse 290; mouse_291;mouse 291; mouse_292;mouse 292; mouse_293;mouse 293; mouse_294;mouse 294; mouse_295;mouse 295; mouse_296;mouse 296; mouse_297;mouse 297; mouse_298;mouse 298; mouse_299;mouse 299; mouse_29;mouse 29; mouse_2;mouse 2; mouse_300;mouse 300; mouse_301;mouse 301; mouse_302;mouse 302; mouse_303;mouse 303; mouse_304;mouse 304; mouse_305;mouse 305; mouse_306;mouse 306; mouse_307;mouse 307; mouse_308;mouse 308; mouse_309;mouse 309; mouse_30;mouse 30; mouse_310;mouse 310; mouse_311;mouse 311; mouse_312;mouse 312; mouse_313;mouse 313; mouse_314;mouse 314; mouse_315;mouse 315; mouse_316;mouse 316; mouse_317;mouse 317; mouse_318;mouse 318; mouse_319;mouse 319; mouse_31;mouse 31; mouse_320;mouse 320; mouse_321;mouse 321; mouse_322;mouse 322; mouse_323;mouse 323; mouse_324;mouse 324; mouse_325;mouse 325; mouse_326;mouse 326; mouse_327;mouse 327; mouse_328;mouse 328; mouse_329;mouse 329; mouse_32;mouse 32; mouse_330;mouse 330; mouse_331;mouse 331; mouse_332;mouse 332; mouse_333;mouse 333; mouse_334;mouse 334; mouse_335;mouse 335; mouse_336;mouse 336; mouse_337;mouse 337; mouse_338;mouse 338; mouse_339;mouse 339; mouse_33;mouse 33; mouse_340;mouse 340; mouse_341;mouse 341; mouse_342;mouse 342; mouse_343;mouse 343; mouse_344;mouse 344; mouse_345;mouse 345; mouse_346;mouse 346; mouse_347;mouse 347; mouse_348;mouse 348; mouse_349;mouse 349; mouse_34;mouse 34; mouse_350;mouse 350; mouse_351;mouse 351; mouse_352;mouse 352; mouse_353;mouse 353; mouse_354;mouse 354; mouse_355;mouse 355; mouse_356;mouse 356; mouse_357;mouse 357; mouse_358;mouse 358; mouse_359;mouse 359; mouse_35;mouse 35; mouse_360;mouse 360; mouse_361;mouse 361; mouse_362;mouse 362; mouse_363;mouse 363; mouse_364;mouse 364; mouse_365;mouse 365; mouse_366;mouse 366; mouse_367;mouse 367; mouse_368;mouse 368; mouse_369;mouse 369; mouse_36;mouse 36; mouse_370;mouse 370; mouse_371;mouse 371; mouse_372;mouse 372; mouse_373;mouse 373; mouse_374;mouse 374; mouse_375;mouse 375; mouse_376;mouse 376; mouse_377;mouse 377; mouse_378;mouse 378; mouse_379;mouse 379; mouse_37;mouse 37; mouse_380;mouse 380; mouse_381;mouse 381; mouse_382;mouse 382; mouse_383;mouse 383; mouse_384;mouse 384; mouse_385;mouse 385; mouse_386;mouse 386; mouse_387;mouse 387; mouse_388;mouse 388; mouse_389;mouse 389; mouse_38;mouse 38; mouse_390;mouse 390; mouse_391;mouse 391; mouse_392;mouse 392; mouse_393;mouse 393; mouse_394;mouse 394; mouse_395;mouse 395; mouse_396;mouse 396; mouse_397;mouse 397; mouse_398;mouse 398; mouse_399;mouse 399; mouse_39;mouse 39; mouse_3;mouse 3; mouse_400;mouse 400; mouse_401;mouse 401; mouse_402;mouse 402; mouse_403;mouse 403; mouse_404;mouse 404; mouse_405;mouse 405; mouse_406;mouse 406; mouse_407;mouse 407; mouse_408;mouse 408; mouse_409;mouse 409; mouse_40;mouse 40; mouse_411;mouse 411; mouse_412;mouse 412; mouse_413;mouse 413; mouse_414;mouse 414; mouse_416;mouse 416; mouse_417;mouse 417; mouse_418;mouse 418; mouse_419;mouse 419; mouse_41;mouse 41; mouse_42;mouse 42; mouse_43;mouse 43; mouse_44;mouse 44; mouse_45;mouse 45; mouse_46;mouse 46; mouse_47;mouse 47; mouse_48;mouse 48; mouse_49;mouse 49; mouse_4;mouse 4; mouse_50;mouse 50; mouse_51;mouse 51; mouse_52;mouse 52; mouse_53;mouse 53; mouse_54;mouse 54; mouse_55;mouse 55; mouse_56;mouse 56; mouse_57;mouse 57; mouse_58;mouse 58; mouse_59;mouse 59; mouse_5;mouse 5; mouse_60;mouse 60; mouse_61;mouse 61; mouse_62;mouse 62; mouse_63;mouse 63; mouse_64;mouse 64; mouse_65;mouse 65; mouse_66;mouse 66; mouse_67;mouse 67; mouse_68;mouse 68; mouse_69;mouse 69; mouse_6;mouse 6; mouse_70;mouse 70; mouse_71;mouse 71; mouse_72;mouse 72; mouse_73;mouse 73; mouse_74;mouse 74; mouse_75;mouse 75; mouse_76;mouse 76; mouse_77;mouse 77; mouse_78;mouse 78; mouse_79;mouse 79; mouse_7;mouse 7; mouse_80;mouse 80; mouse_81;mouse 81; mouse_82;mouse 82; mouse_83;mouse 83; mouse_84;mouse 84; mouse_85;mouse 85; mouse_86;mouse 86; mouse_87;mouse 87; mouse_88;mouse 88; mouse_89;mouse 89; mouse_8;mouse 8; mouse_90;mouse 90; mouse_91;mouse 91; mouse_92;mouse 92; mouse_93;mouse 93; mouse_94;mouse 94; mouse_95;mouse 95; mouse_96;mouse 96; mouse_97;mouse 97; mouse_98;mouse 98; mouse_99;mouse 99; mouse_9;mouse 9	DIVERSE	METAGENOMIC:419	1	False	0	UNIFORM	All labels are individual mouse identifiers (mouse_1 through mouse_419) representing different specimens of the same species, not genuinely different animals.
+PRJNA997718	13	13	1.0	1	Trachypithecus francoisi	UNIFORM	METAGENOMIC:13	1	False	0	UNIFORM	
+PRJNA999451	9	0	0.0	0		NO_HOST_DATA	METAGENOMIC:9	1	False	0	NO_HOST_DATA	
+PRJNA999720	120	120	1.0	1	Apis mellifera	UNIFORM	METAGENOMIC:120	1	False	0	UNIFORM	

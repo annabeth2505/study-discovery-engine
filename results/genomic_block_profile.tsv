@@ -1,0 +1,38 @@
+study_accession	n_samples_total	n_genomic	pct_genomic	n_metagenomic	deposit_type	genomic_dominant_kind	n_host_genome	n_metagenome_label	n_microbial_isolate	n_unidentified	genomic_strategy_mix	genomic_scientific_names	study_seq_type_mix	example_sample_titles
+PRJEB26564	2979	1005	33.7	1974	MIXED	METAGENOME_LABEL	0	1005	0	0	AMPLICON:1005	mouse gut metagenome	METAGENOMIC:1974; GENOMIC:1005	MDZ1.Day11.FiberHiSF.m1.2; MDZ1.Day11.FiberHiSF.m10.1; MDZ1.Day11.FiberHiSF.m11.1 (+1002 more)
+PRJEB45273	850	850	100.0	0	GENOMIC_ONLY	HOST_GENOME	850	0	0	0	WGS:850	Gallus gallus	GENOMIC:850	CA01.01F1a_HostG; CA01.03C1a_HostG; CA01.03F1a_HostG (+840 more)
+PRJEB9403	2281	785	34.4	1496	MIXED	HOST_GENOME	372	222	0	191	WGS:785	Homo sapiens; gut metagenome; unidentified	METAGENOMIC:1496; GENOMIC:785	3662STDY6446220; 3662STDY6446221; 3662STDY6446222 (+591 more)
+PRJEB32631	2387	708	29.7	1679	MIXED	METAGENOME_LABEL	0	708	0	0	WGS:708	gut metagenome	METAGENOMIC:1679; GENOMIC:708	A00009_7; A00130_4; A00133_21 (+705 more)
+PRJEB45274	531	531	100.0	0	GENOMIC_ONLY	HOST_GENOME	531	0	0	0	WGS:531	Salmo salar	GENOMIC:531	SA01.01C1a; SA01.02C1a; SA01.03C1a (+528 more)
+PRJEB64334	1292	325	25.2	548	MIXED	HOST_GENOME	320	5	0	0	WGS:305; Bisulfite-Seq:20	Salmo salar; metagenome	METAGENOMIC:548; TRANSCRIPTOMIC:419; GENOMIC:325	Negative PCR blank control; Negative extraction blank control; Negative library blank control (+320 more)
+PRJNA795985	290	290	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	290	0	0	WGS:290	human gut metagenome	GENOMIC:290	human gut metagenome
+PRJNA886985	167	167	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	167	0	0	WGS:167	mouse gut metagenome	GENOMIC:167	Metagenome or environmental sample from mouse gut metagenome
+PRJEB58777	396	160	40.4	236	MIXED	METAGENOME_LABEL	0	160	0	0	AMPLICON:160	gut metagenome	METAGENOMIC:236; GENOMIC:160	CO_1; CO_12; CO_14 (+157 more)
+PRJNA408020	130	130	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	130	0	0	WGS:130	bird metagenome	GENOMIC:130	Metagenome or environmental sample from bird metagenome
+PRJEB58787	204	96	47.1	108	MIXED	METAGENOME_LABEL	0	96	0	0	AMPLICON:96	gut metagenome	METAGENOMIC:108; GENOMIC:96	Inoculum; Inoculum_V1; Inoculum_V2 (+93 more)
+PRJEB26512	470	68	14.5	343	MIXED	HOST_GENOME	68	0	0	0	WGS:68	Akkermansia muciniphila; Anaerococcus vaginalis; Anaerostipes caccae; Anaerostipes hadrus; Bacteroides caccae; Bacteroides faecis (+59 more)	METAGENOMIC:343; GENOMIC:68; TRANSCRIPTOMIC:59	Human fecal bacterial isolate annotated genome sequence
+PRJEB88111	108	49	45.4	59	MIXED	MICROBIAL_ISOLATE	0	0	49	0	WGS:49	Clostridium perfringens; Escherichia coli	METAGENOMIC:59; GENOMIC:49	DTU_2014_1035953_100_SI_LVK_17_SE; DTU_2024_1035952_100_SI_LVK_11_SE; DTU_2024_1035954_100_SI_LVK_43_SE (+46 more)
+PRJNA478457	49	49	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	49	0	0	WGS:49	gut metagenome	GENOMIC:49	Metagenome or environmental sample from gut metagenome; mouse gut megagenome reads; mouse gut metagenome (+2 more)
+PRJNA729899	31	31	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	31	0	0	WGS:31	mouse gut metagenome	GENOMIC:31	A1; A2; A3 (+28 more)
+PRJNA641245	24	24	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	24	0	0	WGS:24	gut metagenome	GENOMIC:24	Metagenome or environmental sample from gut metagenome
+PRJNA811648	16	16	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	16	0	0	WGS:16	gut metagenome	GENOMIC:16	gut microbiota sample
+PRJNA730677	70	12	17.1	58	MIXED	MICROBIAL_ISOLATE	0	0	12	0	WGS:12	Escherichia coli	METAGENOMIC:58; GENOMIC:12	E. coli WGS from CD; E. coli WGS from pouch
+PRJNA605640	12	12	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	12	0	0	WGS:12	mouse gut metagenome	GENOMIC:12	1; 10; 11 (+9 more)
+PRJNA731974	12	12	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	12	0	0	WGS:12	mouse gut metagenome	GENOMIC:12	Metagenome or environmental sample from mouse gut metagenome
+PRJNA1227608	395	7	1.8	388	MIXED	MICROBIAL_ISOLATE	0	0	7	0	WGS:7	Bacteroides xylanisolvens; Bacteroides zhangwenhongii	METAGENOMIC:388; GENOMIC:7	MIGS Cultured Bacterial/Archaeal sample from Bacteroides xylanisolvens; MIGS Cultured Bacterial/Archaeal sample from Bacteroides zhangwenhongii
+PRJNA1243555	20	7	35.0	0	GENOMIC_ONLY	HOST_GENOME	7	0	0	0	WGS:7	Escherichia coli	OTHER:13; GENOMIC:7	One Health Enteric sample from Escherichia coli
+PRJEB4370	433	7	1.6	426	MIXED	HOST_GENOME	7	0	0	0	WGS:7	Bacteroides cellulosilyticus	METAGENOMIC:426; GENOMIC:7	B. cellulosilyticus phage induction
+PRJNA722063	6	6	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	6	0	0	WGS:6	horse metagenome	GENOMIC:6	Metagenome or environmental sample from horse metagenome
+PRJEB40866	5	5	100.0	0	GENOMIC_ONLY	HOST_GENOME	5	0	0	0	WGS:5	Alistipes sp. CU970; Barnesiella sp. CU968; Olsenella sp. CU969; Oscillibacter sp. CU971; Oscillospiraceae bacterium	GENOMIC:5	CU46; RF165; RF440 (+2 more)
+PRJEB76898	940	2	0.2	938	MIXED	HOST_GENOME	2	0	0	0	WGS:2	Podarcis muralis	METAGENOMIC:938; GENOMIC:2	ABI47_fixed; ABK09_fixed
+PRJNA381379	3	2	66.7	1	MIXED	MICROBIAL_ISOLATE	0	0	2	0	WGS:2	Escherichia fergusonii; Streptococcus gallolyticus	GENOMIC:2; METAGENOMIC:1	Cultured bacterial isolates from kakapo feces (Escherichia fergusonii); Cultured bacterial isolates from kakapo feces (Streptococcus gallolyticus)
+PRJNA559386	2	2	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	2	0	0	WGA:1; WGS:1	mouse gut metagenome	GENOMIC:2	Metagenome or environmental sample from mouse gut metagenome
+PRJNA1415237	25	2	8.0	15	MIXED	UNIDENTIFIED	0	0	0	2	WGS:1; WGA:1		METAGENOMIC:15; TRANSCRIPTOMIC:8; GENOMIC:2	
+PRJNA772288	4	1	25.0	3	MIXED	MICROBIAL_ISOLATE	0	0	1	0	WGS:1	Enterobacteriaceae bacterium	METAGENOMIC:3; GENOMIC:1	Microbe sample from Enterobacteriaceae bacterium Dog_004
+PRJEB21624	43	1	2.3	42	MIXED	METAGENOME_LABEL	0	1	0	0	Hi-C:1	metagenome	METAGENOMIC:42; GENOMIC:1	10572_0099
+PRJNA728669	1	1	100.0	0	GENOMIC_ONLY	HOST_GENOME	1	0	0	0	WGA:1	Hermetia illucens	GENOMIC:1	Metagenome isolate from Hermetia illucens
+PRJNA542645	1	1	100.0	0	GENOMIC_ONLY	METAGENOME_LABEL	0	1	0	0	Hi-C:1	metagenome	GENOMIC:1	Metagenome or environmental sample from metagenome
+PRJNA399458	1	1	100.0	0	GENOMIC_ONLY	HOST_GENOME	1	0	0	0	WGS:1	Indri indri	GENOMIC:1	Model organism or animal sample from Indri indri
+PRJEB60852	1	1	100.0	0	GENOMIC_ONLY	HOST_GENOME	1	0	0	0	WGS:1	Rangifer tarandus platyrhynchus	GENOMIC:1	20230323-mRanTar1-EBPnor
+PRJEB60080	6	1	16.7	5	MIXED	HOST_GENOME	1	0	0	0	WGS:1	Cloning vector pBR322	METAGENOMIC:5; GENOMIC:1	Plasmid vector
+PRJNA940650	13	1	7.7	12	MIXED	METAGENOME_LABEL	0	1	0	0	WGS:1	chicken gut metagenome	METAGENOMIC:12; GENOMIC:1	Metagenome or environmental sample from chicken gut metagenome
