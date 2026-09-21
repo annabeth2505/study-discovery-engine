@@ -33,7 +33,8 @@ TITLE_FONT = Font(name="Arial", bold=True, size=13)
 NOTE_FONT = Font(name="Arial", italic=True, color="666666")
 
 # the columns worth seeing first, in this order; everything else follows
-LEAD = ["study_accession", "host_species", "host_class", "body_site", "n_samples",
+LEAD = ["study_accession", "host_final", "host_final_from", "body_site_final",
+        "body_site_final_detail", "host_species", "host_class", "body_site", "n_samples",
         "n_total_samples", "n_metagenomic_samples",
         "library_strategy", "data_source", "pub_year",
         "paper_title", "pmid",
@@ -43,7 +44,10 @@ LEAD = ["study_accession", "host_species", "host_class", "body_site", "n_samples
         "keep", "is_human", "gut", "discrepancy_flags",
         "n_ena_standard_fields", "n_ena_custom_fields"]
 
-WIDE = {"ena_standard_fields": 110, "ena_custom_fields": 90,
+WIDE = {"host_final": 30, "host_final_from": 16, "body_site_final": 16,
+        "body_site_final_from": 20, "body_site_final_detail": 34,
+        "ena_study_title": 50, "ena_study_description": 70,
+        "ena_standard_fields": 110, "ena_custom_fields": 90,
         "n_ena_standard_fields": 20, "n_ena_custom_fields": 19, "llm_notes": 70, "method_note": 46, "discrepancy_notes": 60,
         "discrepancy_host": 52, "discrepancy_host_missing": 46,
         "discrepancy_gut": 56, "discrepancy_multihost": 56,
@@ -80,6 +84,10 @@ LAYERS = [
      "-- TOGETHER these are every ENA field the study used. Standard = ENA's normalized "
      "vocabulary from the Portal API; custom = submitter tags with no standard twin, read "
      "verbatim from the sample XML. Clean partition: no field appears in both."),
+    ("11. Host + body site, re-resolved (NEW)", "host_final, host_final_from, "
+     "body_site_final, body_site_final_from, body_site_final_detail, plus their inputs "
+     "ena_study_title, ena_study_description. Built by resolve_host_bodysite.py from "
+     "samples.tsv + ENA study text after the 75-study error-rate validation."),
     ("10. Host sources (NEW)", "has_paper, host_ena_referenced/_value, "
      "host_title_referenced/_value, host_abstract_referenced/_value, is_model_organism, "
      "model_organism_disease, human_by_biome_label, host_source_summary, "
@@ -87,6 +95,16 @@ LAYERS = [
 ]
 
 GLOSSARY = [
+    ("host_final", "THE host column to use. First source yielding a real animal wins: "
+     "ENA host field > biome label ('rat gut metagenome' -> rat) > ENA study title/"
+     "description > paper. 'unknown' only when no animal is named anywhere (10 studies)."),
+    ("host_final_from", "Which source won: ena_host_field 733 / ena_study_text 160 / "
+     "biome_label 136 / paper 5 / none 10."),
+    ("body_site_final", "THE body-site column to use. GUT 966 / GUT+OTHER 53 (gut plus "
+     "e.g. blood) / NON_GUT 9 / UNCERTAIN 16. Scanned over every sample's scientific_name, "
+     "isolation_source, sample_title and host_body_site; study text only as a fallback."),
+    ("body_site_final_detail", "The terms that decided it, e.g. 'gut: colonic, digesta' or "
+     "'gut: gut; other: blood, plasma'."),
     ("keep", "Audit verdict: KEEP 741 / REVIEW 272 / EXCLUDE 31. REVIEW means 'needs a "
      "glance' (thin metadata, WGA method), NOT 'problem'."),
     ("is_human", "211 studies. Humans ARE animals here: kept and flagged, never silently "
@@ -172,6 +190,15 @@ CAVEATS = [
     "Custom tag spelling variants are NOT merged: 'host_subject_id' (55 studies) and "
     "'host subject id' (32) stay distinct, faithful to what submitters wrote.",
 
+    "host_final / body_site_final supersede host_species, audit_host, body_site, "
+    "audit_body_site and gut, which are kept unchanged only so before/after stay "
+    "comparable. On the 59 hand-scored validation studies they moved host from 54 to 58 "
+    "correct (0 errors) and body site from 48 to 59 correct -- measured on the same "
+    "studies that motivated the fix, so a fresh sample is needed for an unbiased rate.",
+
+    "The 9 NON_GUT studies have sample evidence pointing only to blood, urine, oral, skin, "
+    "internal organs, soil or freshwater -- a scope question for a gut catalog.",
+
     "discrepancy_flags = NOT_CHECKED means the study has no linked paper, so paper-vs-"
     "deposit could not be compared. It does NOT mean the study is clean -- do not count "
     "those 484 as passing.",
@@ -210,7 +237,7 @@ def add_table(wb, title, df):
 
 # columns whose content is prose, not a value -- wrap them instead of letting them
 # spill across their neighbours
-WRAP = {"ena_standard_fields", "ena_custom_fields", "discrepancy_host", "discrepancy_host_missing", "discrepancy_gut",
+WRAP = {"ena_study_description", "ena_standard_fields", "ena_custom_fields", "discrepancy_host", "discrepancy_host_missing", "discrepancy_gut",
         "discrepancy_multihost", "discrepancy_notes", "llm_notes", "method_note",
         "host_source_note", "paper_title"}
 
